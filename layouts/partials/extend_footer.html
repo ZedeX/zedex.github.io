@@ -1,0 +1,107 @@
+{{- /* Footer custom content area start */ -}}
+{{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+
+<script>
+(function() {
+    // 检测浏览器语言
+    const lang = navigator.language || navigator.userLanguage;
+    const isChinese = lang.startsWith('zh');
+
+    // 格式化日期
+    function formatDate(dateStr) {
+        const date = new Date(dateStr + 'T00:00:00');
+        if (isChinese) {
+            const year = date.getFullYear();
+            const month = String(date.getMonth() + 1).padStart(2, '0');
+            const day = String(date.getDate()).padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        } else {
+            const options = { year: 'numeric', month: 'long', day: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+    }
+
+    // 转换 Obsidian 图片
+    function convertObsidianImages() {
+        const content = document.querySelector('.post-content, .single-content, article');
+        if (!content) return;
+
+        const walker = document.createTreeWalker(
+            content,
+            NodeFilter.SHOW_TEXT,
+            null,
+            false
+        );
+
+        const textNodes = [];
+        while (walker.nextNode()) {
+            textNodes.push(walker.currentNode);
+        }
+
+        textNodes.forEach(node => {
+            const text = node.textContent;
+            if (text.includes('![[')) {
+                const html = text.replace(/!\[\[([^\]]+)\]\]/g, (match, filename) => {
+                    const paths = [
+                        "./" + filename.trim(),
+                        "../" + filename.trim(),
+                        "/images/" + filename.trim(),
+                        "/wp-content/uploads/" + filename.trim()
+                    ];
+                    return `<img src="${paths[0]}" alt="${filename.trim()}" loading="lazy" class="obsidian-img" data-paths='${JSON.stringify(paths)}'>`;
+                });
+                const temp = document.createElement('span');
+                temp.innerHTML = html;
+                node.parentNode.replaceChild(temp, node);
+            }
+        });
+
+        // 图片降级
+        document.querySelectorAll('.obsidian-img').forEach(img => {
+            img.onerror = function() {
+                const paths = JSON.parse(this.getAttribute('data-paths') || '[]');
+                const currentSrc = this.src;
+                const currentIndex = paths.findIndex(p => currentSrc.endsWith(p));
+                if (currentIndex >= 0 && currentIndex < paths.length - 1) {
+                    this.src = paths[currentIndex + 1];
+                }
+            };
+        });
+    }
+
+    // 隐藏私密文章
+    function filterPrivatePosts() {
+        // 检查是否有解锁密码
+        const privateKey = localStorage.getItem('private-key');
+
+        document.querySelectorAll('[data-tags*="private"], [data-tags*="私密"]').forEach(el => {
+            if (privateKey !== 'your-secret-key') {
+                el.style.display = 'none';
+                // 或者显示占位符
+                const placeholder = document.createElement('div');
+                placeholder.innerHTML = '<div style="padding:1rem;border:1px dashed #ccc;margin:1rem 0;text-align:center;">🔒 私密内容</div>';
+                el.parentNode.insertBefore(placeholder, el);
+            }
+        });
+    }
+
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', function() {
+        // 日期格式
+        document.querySelectorAll('.post-date').forEach(function(el) {
+            const dateStr = el.getAttribute('data-date');
+            if (dateStr) {
+                el.textContent = formatDate(dateStr);
+            }
+        });
+
+        // Obsidian 图片
+        convertObsidianImages();
+
+        // 私密文章过滤
+        filterPrivatePosts();
+    });
+})();
+</script>
+
+{{- /* Footer custom content area end */ -}}

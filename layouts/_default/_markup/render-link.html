@@ -1,0 +1,17 @@
+{{- /* Obsidian 兼容的链接渲染钩子 */ -}}
+{{- $dest := .Destination -}}
+{{- $text := .Text -}}
+
+{{- /* 处理 Obsidian wiki link: [[PageName]] */ -}}
+{{- if hasPrefix $dest "[[" -}}
+  {{- $dest = replaceRE `^\[\[([^\]]+)\]\]$` "$1" $dest -}}
+  {{- $dest = trim $dest " " -}}
+  {{- /* 转换为 Hugo 兼容的链接 */ -}}
+  {{- $dest = printf "/posts/%s/" (replaceRE `[^\w\s-]` "" $dest | lower | replaceRE `\s+` "-") -}}
+{{- end -}}
+
+<a href="{{ $dest | safeURL }}"
+   {{- with .Title }} title="{{ . }}"{{ end -}}
+   {{- if not (hasPrefix $dest "/") }} target="_blank" rel="noopener"{{ end -}}>
+  {{- $text -}}
+</a>

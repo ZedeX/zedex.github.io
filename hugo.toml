@@ -1,7 +1,99 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+baseURL = 'https://zedex.cn/'
+languageCode = 'zh-cn'
+title = 'ZedeX'
+theme = 'hugo-theme-PaperMod'
+#theme = 'ananke'
+#theme = 'anatole'
+#theme = 'bilberry-hugo-theme'
+#theme = 'DoIt'
+#theme = 'github-style'
+#theme = 'hugo-blog-awesome'
+#theme = 'hugo-clarity'
+#theme = 'hugo-theme-bootstrap'
+#theme = 'hugo-theme-cleanwhite'
+#theme = 'hugo-theme-dream'
+#theme = 'hugo-theme-ladder'
+#theme = 'hugo-theme-relearn'
+#theme = 'hugo-theme-stack-starter'
+#theme = 'hugo-xmin'
+#theme = 'meghna-hugo'
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+pygmentsUseClasses = true
+
+[params]
+  env = "production"
+  description = "At a glance"
+  DateFormat = "2006-01-02"
+
+  # 首页显示文章数量
+  showAllPostsOnHomePage = false
+  paginate = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url = "/search/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "关于我"
+    url = "/pages/关于我/"
+    weight = 4
+  [[menu.main]]
+    identifier = "site-intro"
+    name = "本站简介"
+    url = "/pages/本站简介/"
+    weight = 5
+  [[menu.main]]
+    identifier = "my-views"
+    name = "我的三观"
+    url = "/pages/我的三观/"
+    weight = 6
+  [[menu.main]]
+    identifier = "category-guide"
+    name = "分类导览"
+    url = "/pages/分类导览/"
+    weight = 7
+  [[menu.main]]
+    identifier = "financial-freedom"
+    name = "为了财务自由的三个一"
+    url = "/pages/为了财务自由的三个一/"
+    weight = 8
+  [[menu.main]]
+    identifier = "movies"
+    name = "电影"
+    url = "/pages/电影/"
+    weight = 9
+  [[menu.main]]
+    identifier = "letters-futureme"
+    name = "Letters for FutureMe"
+    url = "/pages/letters-for-futureme/"
+    weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [caches]
   [caches.images]

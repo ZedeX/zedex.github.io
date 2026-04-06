@@ -1,0 +1,60 @@
+# Hugo build output
+public/
+resources/_gen/
+
+# Temporary files
+*.tmp
+*.log
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Hugo executable
+hugo
+hugo.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude
+.claude/
+
+# Unused themes (keep only PaperMod)
+themes/ananke/
+themes/anatole/
+themes/bilberry-hugo-theme/
+themes/DoIt/
+themes/github-style/
+themes/hugo-blog-awesome/
+themes/hugo-clarity/
+themes/hugo-theme-bootstrap/
+themes/hugo-theme-cleanwhite/
+themes/hugo-theme-dream/
+themes/hugo-theme-ladder/
+themes/hugo-theme-relearn/
+themes/hugo-theme-stack-starter/
+themes/hugo-xmin/
+themes/meghna-hugo/
+
+# Migration scripts and docs
+*.py
+migration-*.md
+FINAL-MIGRATION-CHECKLIST.md
+OBSIDIAN-*.md
+PRIVATE-POSTS-GUIDE.md
+ai-generated-script/
+wordpress-to-hugo-migration.md
+go.mod
+
+# Help files
+hugo--help.txt
+hugo-server--help.txt

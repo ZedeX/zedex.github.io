@@ -1,0 +1,9 @@
+{{- /* Shortcode for Obsidian image syntax: [[image.jpg]] */ -}}
+{{- $img := .Get 0 -}}
+{{- $alt := .Get 1 | default $img -}}
+
+{{- /* Try to find image in common locations */ -}}
+{{- $staticPath := printf "/%s" $img -}}
+{{- $wpPath := printf "/wp-content/uploads/%s" $img -}}
+
+<img src="{{ $staticPath }}" alt="{{ $alt }}" loading="lazy" onerror="this.src='{{ $wpPath }}'; this.onerror=null;">
