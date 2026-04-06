@@ -72,23 +72,13 @@ pygmentsUseClasses = true
   [[menu.main]]
     identifier = "category-guide"
     name = "分类导览"
-    url = "/pages/分类导览/"
+    url = "/categories/"
     weight = 7
   [[menu.main]]
     identifier = "financial-freedom"
     name = "为了财务自由的三个一"
     url = "/pages/为了财务自由的三个一/"
     weight = 8
-  [[menu.main]]
-    identifier = "movies"
-    name = "电影"
-    url = "/pages/电影/"
-    weight = 9
-  [[menu.main]]
-    identifier = "letters-futureme"
-    name = "Letters for FutureMe"
-    url = "/pages/letters-for-futureme/"
-    weight = 10
 
 [markup]
   [markup.goldmark]
