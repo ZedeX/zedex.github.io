@@ -5,7 +5,7 @@ on:
   # Runs on pushes targeting the default branch
   push:
     branches:
-      - master
+      - main
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -72,5 +72,5 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           projectName: zedex
           directory: ./public
-          # Optional: Enable this if you want to deploy to production on every push to master
+          # Optional: Enable this if you want to deploy to production on every push to main
           # gitHubPages: true
