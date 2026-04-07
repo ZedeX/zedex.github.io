@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2011-10-23T13:21:31+00:00"
 summary: |-
   接电话的一瞬间，就听到妈妈囔囔的声音。

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-03-20T12:46:15+00:00"
 summary: |-
   无觅太多啦，到处无觅，就有觅了。非诚勿扰，屏蔽之。

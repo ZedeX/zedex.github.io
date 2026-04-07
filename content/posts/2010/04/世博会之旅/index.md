@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2010-04-24T13:49:58+00:00"
 title: 2010世博会之旅
 ---

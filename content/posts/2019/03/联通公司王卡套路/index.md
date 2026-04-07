@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: thief-2831254
   image: /wp-content/uploads/2020/08/thief-2831254.png

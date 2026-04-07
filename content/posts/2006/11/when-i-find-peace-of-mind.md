@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2006-11-06T16:46:35+00:00"
 title: When I Find Peace of Mind
 ---

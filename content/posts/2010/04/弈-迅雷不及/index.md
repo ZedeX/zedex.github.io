@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-12T15:20:04+00:00"
 title: 20100411 弈 迅雷不及
 ---

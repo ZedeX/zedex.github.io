@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 date: "2011-06-08T23:14:23+00:00"
 summary: |-
   {{ double-space-with-newline }}从这一刻起，她给我的感觉完全不同了——原本只有一个问题，现在却一下子多出很多问题。我有点后悔我问错了人，徒增这么多烦恼；也叹我问对了人，让我平静如水的生活多了一丝涟漪。

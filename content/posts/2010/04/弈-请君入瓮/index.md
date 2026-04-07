@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-20T15:10:55+00:00"
 summary: |-
   [![](/wp-content/uploads/2010/04/20100420.png)](/wp-content/uploads/2010/04/20100420.png)

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - l:-life
+categories:
+  - i-internet
+  - l-life
 date: "2018-12-12T13:21:31+00:00"
 title: 升级到阿里云的云虚拟主机
 ---

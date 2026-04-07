@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2016-05-10T04:05:00+00:00"
 title: MIUI8评价
 ---

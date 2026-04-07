@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: industry-3087393_1920
   image: /wp-content/uploads/2022/04/industry-3087393_1920.jpg

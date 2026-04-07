@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: 2026-04-07T00:06:16+08:00
 title: Obsidian + Hugo 博客工作流使用指南
 ---
@@ -47,7 +47,7 @@ title: Obsidian + Hugo 博客工作流使用指南
 ```yaml
 ---
 author: zx              # 作者（固定）
-category:               # 分类标签
+categories:               # 分类标签
   - t:-tech            # 技术类文章
   - h:-health          # 健康类
   - x:-x               # 其他

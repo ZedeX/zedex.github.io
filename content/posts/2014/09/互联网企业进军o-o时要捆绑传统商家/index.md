@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2014-09-03T08:09:00+00:00"
 summary: 互联网企业进军传统行业，一定要把传统商家的“信息化管理平台”抓在手里，小到餐饮行业的点餐系统，大到集团公司的ERP，目的是建立壁垒，同时捆绑传统商家。
 title: 互联网企业进军O2O时要捆绑传统商家

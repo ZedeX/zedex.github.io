@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: 未来的道路
   image: /wp-content/uploads/2019/05/highway-3212540_1920.jpg

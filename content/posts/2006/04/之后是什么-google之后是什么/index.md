@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 cover:
   alt: trace-3157431_1920
   image: /wp-content/uploads/2006/04/trace-3157431_1920.jpg

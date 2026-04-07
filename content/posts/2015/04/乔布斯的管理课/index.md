@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 date: "2015-04-09T06:02:39+00:00"
 title: 乔布斯的管理课
 ---

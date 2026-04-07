@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-06-14T23:59:26+00:00"
 summary: |-
   Life is changing by Internet and new media. Mobile techniques make people easier to get information, stay connected and keep up to date. More applications influence not just the virtual world, but our real lives.

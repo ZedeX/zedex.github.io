@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-05-15T17:57:53+00:00"
 summary: |-
   Google Analytics 跟踪代码迁移手册{{ double-space-with-newline }}-从urchin.js到ga.js

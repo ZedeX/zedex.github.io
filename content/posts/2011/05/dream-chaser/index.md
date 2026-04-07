@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - f:-feelings
+categories:
+  - e-english
+  - f-feelings
 date: "2011-05-24T15:50:49+00:00"
 summary: |-
   It's time to chase my dream.

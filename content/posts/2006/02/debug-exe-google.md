@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2006-02-18T07:57:41+00:00"
 title: debug.exe - Google
 ---

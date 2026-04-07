@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - b:-books
-  - d:-daily-life
+categories:
+  - b-books
+  - d-daily-life
 date: "2014-02-08T13:10:00+00:00"
 title: 去年看书情况统计
 ---

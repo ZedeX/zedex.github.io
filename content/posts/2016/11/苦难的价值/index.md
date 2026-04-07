@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - d:-daily-life
-  - f:-feelings
+categories:
+  - d-daily-life
+  - f-feelings
 date: "2016-11-21T16:44:00+00:00"
 title: 苦难的价值
 ---

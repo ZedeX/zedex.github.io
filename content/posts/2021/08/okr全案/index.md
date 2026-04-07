@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - t:-tech
-  - w:-5w1h
+categories:
+  - t-tech
+  - w-5w1h
 cover:
   alt: OKR Objectives and Key Results word pinned to a desk.
   image: /wp-content/uploads/2021/08/okr.jpg

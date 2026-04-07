@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2013-03-12T11:31:33+00:00"
 summary: |-
   今天看了几个Google员工的Plus状态，貌似他们正在讨论Google Reader可能要停止服务。

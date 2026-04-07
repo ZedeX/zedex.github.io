@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2013-06-05T13:42:32+00:00"
 summary: |-
   这首歌是10多年前 Final Fantasy X 的主题曲，当时就特别感动。现在，官方决定重制HD版本，看到视频忽然想到游戏中的故事，不禁感动。

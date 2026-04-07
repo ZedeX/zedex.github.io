@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-06-10T23:59:10+00:00"
 summary: '![I will forget you](/wp-content/uploads/2011/07/i-will-forget-you.jpeg){{ double-space-with-newline }}努力工作，努力学习，珍惜眼前人。{{ double-space-with-newline }}'
 title: ZX Next Page | 下一页的我

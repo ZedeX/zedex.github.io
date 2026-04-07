@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-08-09T13:05:22+00:00"
 summary: |-
   ### Robbin个人经历

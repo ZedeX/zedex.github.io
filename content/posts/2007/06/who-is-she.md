@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - e:-english
+categories:
+  - e-english
 date: "2007-06-29T23:36:57+00:00"
 title: Who Is She?
 ---

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - k:-kao
-  - l:-life
+categories:
+  - k-kao
+  - l-life
 date: "2011-12-07T23:15:11+00:00"
 summary: |-
   ![](/wp-content/uploads/2011/07/fangchanzheng.jpg){{ double-space-with-newline }}现实是残酷的 许多爱情败在房产证上(图： [罗半仙的倒灌](http://blog.sina.com.cn/s/blog_4c5dd4420100v7dy.html))

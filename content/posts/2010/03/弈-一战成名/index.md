@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-03-27T02:46:49+00:00"
 title: 20100327 弈 一战成名
 ---

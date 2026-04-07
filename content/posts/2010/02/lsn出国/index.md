@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2010-02-23T06:53:59+00:00"
 title: lsn出国
 ---

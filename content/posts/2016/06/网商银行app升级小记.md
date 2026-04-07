@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2016-06-21T23:51:00+00:00"
 title: 网商银行APP升级小记
 ---

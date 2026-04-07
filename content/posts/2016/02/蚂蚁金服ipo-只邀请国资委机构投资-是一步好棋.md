@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2016-02-15T04:20:00+00:00"
 title: 蚂蚁金服IPO 只邀请国资委机构投资 是一步好棋
 ---

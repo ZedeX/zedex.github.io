@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 cover:
   alt: security-265130_1920
   image: /wp-content/uploads/2021/03/security-265130_1920.jpg

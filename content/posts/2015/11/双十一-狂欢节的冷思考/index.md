@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2015-11-11T02:05:00+00:00"
 title: 双十一：狂欢节的冷思考
 ---

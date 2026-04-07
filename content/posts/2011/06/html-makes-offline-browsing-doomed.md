@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-06-13T23:27:23+00:00"
 summary: |-
   For most [offline browsing software](http://en.wikipedia.org/wiki/Online_and_offline#Offline_browsing) (such as: Webzip, Offline Explorer), they could only grab the web by the source code which html file offers. Once they face JavaScript, they will doomed.

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2016-03-17T06:15:00+00:00"
 title: 虹口足球场的樱花开了
 ---

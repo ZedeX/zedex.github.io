@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - s:-study
+categories:
+  - e-english
+  - s-study
 date: "2011-09-28T14:32:35+00:00"
 summary: |-
   February 2009

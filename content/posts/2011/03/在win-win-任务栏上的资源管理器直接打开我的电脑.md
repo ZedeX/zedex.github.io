@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-03-01T01:01:51+00:00"
 title: 在Win7、Win8任务栏上的资源管理器直接打开我的电脑
 ---

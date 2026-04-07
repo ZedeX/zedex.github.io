@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2016-06-04T11:45:00+00:00"
 title: 肯德基麥當勞一頓吃遍
 ---

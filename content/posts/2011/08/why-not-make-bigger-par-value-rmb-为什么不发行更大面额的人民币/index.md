@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 date: "2011-08-20T23:28:39+00:00"
 summary: |-
   茅于轼前几天发了一篇微博：

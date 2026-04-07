@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 cover:
   alt: smzdm
   image: /wp-content/uploads/2019/07/smzdm.png

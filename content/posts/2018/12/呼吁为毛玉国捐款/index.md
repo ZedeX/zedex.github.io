@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - l:-life
-  - z:-zorro
+categories:
+  - l-life
+  - z-zorro
 date: "2018-12-06T06:55:03+00:00"
 summary: |-
   听说毛玉国得了白血病，从8月份到现在一直在和病魔作斗争，但是化疗需要的资金远超他能所受上线，无奈之下发起了众筹。得知情况我写了以下文字：

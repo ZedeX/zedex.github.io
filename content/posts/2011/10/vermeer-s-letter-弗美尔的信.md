@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2011-10-11T10:38:00+00:00"
 summary: |-
   _Inspired by " [Girl Reading a Letter at an Open Window](http://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window)"_

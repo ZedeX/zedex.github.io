@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2011-06-07T09:02:29+00:00"
 title: What's Wrong?
 ---

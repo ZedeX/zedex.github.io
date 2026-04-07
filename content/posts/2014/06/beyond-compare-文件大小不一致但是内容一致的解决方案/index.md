@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2014-06-06T07:38:32+00:00"
 title: Beyond Compare 文件大小不一致但是内容一致的解决方案
 ---

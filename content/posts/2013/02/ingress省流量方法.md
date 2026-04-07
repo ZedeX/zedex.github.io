@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2013-02-03T09:01:07+00:00"
 title: Ingress省流量方法
 ---

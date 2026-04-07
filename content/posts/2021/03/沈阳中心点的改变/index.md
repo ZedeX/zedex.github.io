@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: 沈阳中心点的改变
   image: /wp-content/uploads/2021/03/mmexport1617013627604-e1649133109187.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-09-28T15:57:10+00:00"
 summary: |-
   上次UCDChina讨论的是站内信，引起了我对站内信的关注。

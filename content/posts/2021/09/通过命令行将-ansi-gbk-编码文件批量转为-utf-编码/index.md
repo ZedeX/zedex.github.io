@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: coding-gd12f75a25_1920
   image: /wp-content/uploads/2022/04/coding-gd12f75a25_1920.jpg

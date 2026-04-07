@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2009-09-02T07:19:23+00:00"
 summary: |-
   看到腾讯搜搜的人向标，挺有趣的，所以随便写写。

@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - e:-english
-  - i:-internet
-  - s:-study
+categories:
+  - e-english
+  - i-internet
+  - s-study
 cover:
   alt: gear-384743_1920
   image: /wp-content/uploads/2020/08/gear-384743_1920.jpg

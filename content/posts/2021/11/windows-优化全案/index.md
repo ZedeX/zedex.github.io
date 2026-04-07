@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - u:-uncategoried
+categories:
+  - u-uncategoried
 cover:
   alt: windows-11-6379123_1920
   image: /wp-content/uploads/2022/07/windows-11-6379123_1920.png

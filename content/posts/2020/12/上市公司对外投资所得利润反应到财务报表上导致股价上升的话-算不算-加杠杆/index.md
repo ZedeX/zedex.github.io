@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - k:-kao
-  - w:-5w1h
+categories:
+  - k-kao
+  - w-5w1h
 cover:
   alt: 投资的风险
   image: /wp-content/uploads/2020/12/analysis-4937349_1920.jpg

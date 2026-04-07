@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-03-29T16:41:32+00:00"
 title: 20100329 弈 变幻莫测
 ---

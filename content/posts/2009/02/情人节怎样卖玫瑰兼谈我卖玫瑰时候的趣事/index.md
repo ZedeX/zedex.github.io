@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2009-02-14T15:31:44+00:00"
 summary: |-
   ![](/wp-content/uploads/2011/07/200902141.jpg)

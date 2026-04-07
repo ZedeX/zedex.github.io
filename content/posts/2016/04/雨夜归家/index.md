@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - v:-voyage
+categories:
+  - v-voyage
 date: "2016-04-20T15:55:00+00:00"
 title: 雨夜归家
 ---

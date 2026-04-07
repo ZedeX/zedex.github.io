@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - s:-study
+categories:
+  - s-study
 date: "2011-11-01T12:30:17+00:00"
 tag:
   - ai

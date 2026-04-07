@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - e:-english
-  - f:-feelings
-  - m:-music
+categories:
+  - e-english
+  - f-feelings
+  - m-music
 date: "2011-05-23T13:33:19+00:00"
 summary: |-
   ![money takes elephant](/wp-content/uploads/2011/07/money-takes-elephant.jpeg){{ double-space-with-newline }}Being risk is always an option, if being fun.

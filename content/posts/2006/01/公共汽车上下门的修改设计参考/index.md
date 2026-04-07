@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2006-01-05T12:19:35+00:00"
 title: 公共汽车上下门的修改设计参考
 ---

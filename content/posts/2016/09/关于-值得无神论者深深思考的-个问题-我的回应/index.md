@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: 信仰
   image: /wp-content/uploads/2019/05/monk-555391_1920.jpg

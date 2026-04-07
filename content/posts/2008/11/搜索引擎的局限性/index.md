@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2008-11-27T17:48:07+00:00"
 title: 搜索引擎的局限性
 ---

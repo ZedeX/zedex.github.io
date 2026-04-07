@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - d:-daily-life
-  - f:-feelings
-  - z:-zorro
+categories:
+  - d-daily-life
+  - f-feelings
+  - z-zorro
 date: "2018-03-22T10:40:41+00:00"
 title: 呕吐前感
 ---

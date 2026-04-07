@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - s:-study
+categories:
+  - e-english
+  - s-study
 date: "2013-12-27T02:21:12+00:00"
 summary: |-
   > ‘People have a hard time letting go of their suffering. Out of a fear of the unknown, they prefer suffering that is familiar.’ **~Thich Nhat Hanh**

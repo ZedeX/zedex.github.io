@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: 2026-01-03T14:22:00+00:00
 title: 迪士尼度假区一天花费记录
 ---

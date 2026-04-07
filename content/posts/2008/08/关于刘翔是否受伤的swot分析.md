@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2008-08-18T14:33:30+00:00"
 summary: |-
   首先是优劣分析：

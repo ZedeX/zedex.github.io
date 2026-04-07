@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2016-12-04T07:28:43+00:00"
 title: EVCARD共享电动汽车使用体验
 ---

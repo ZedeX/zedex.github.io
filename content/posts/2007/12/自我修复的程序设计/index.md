@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - o:-opportunities
-  - x:-x
+categories:
+  - o-opportunities
+  - x-x
 cover:
   alt: artificial-intelligence-2167835_1920
   image: /wp-content/uploads/2020/03/artificial-intelligence-2167835_1920.jpg

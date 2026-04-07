@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: iphone-1836071_1920
   image: /wp-content/uploads/2022/04/iphone-1836071_1920.jpg

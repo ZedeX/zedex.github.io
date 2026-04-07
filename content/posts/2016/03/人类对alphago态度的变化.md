@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - c:-culture
-  - i:-internet
+categories:
+  - c-culture
+  - i-internet
 date: "2016-03-10T10:14:00+00:00"
 title: 人类对AlphaGo态度的变化
 ---

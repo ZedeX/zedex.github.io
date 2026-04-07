@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2014-05-07T23:30:00+00:00"
 summary: |-
   ![image](/wp-content/uploads/2014/05/wpid-img_20140513_130752_hdr.jpg)

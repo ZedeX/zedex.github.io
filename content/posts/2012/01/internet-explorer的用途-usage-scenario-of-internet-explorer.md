@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2012-01-13T11:41:54+00:00"
 title: Internet Explorer的用途 | Usage Scenario of Internet Explorer
 ---

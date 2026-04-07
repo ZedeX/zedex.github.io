@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-03-22T16:35:25+00:00"
 title: 20100323 弈 马前失足
 ---

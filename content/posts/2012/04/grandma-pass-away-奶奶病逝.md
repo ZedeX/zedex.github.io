@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - l:-life
+categories:
+  - f-feelings
+  - l-life
 date: "2012-04-29T14:06:17+00:00"
 summary: |-
   2012年4月29日22点，奶奶病逝。

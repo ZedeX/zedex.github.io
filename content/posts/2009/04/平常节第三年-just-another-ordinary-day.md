@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2009-04-11T13:10:26+00:00"
 summary: |-
   ### 今天我是如何度过：Just Another Ordinary Day…

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 cover:
   alt: pots-716579_1920
   image: /wp-content/uploads/2018/10/pots-716579_1920.jpg

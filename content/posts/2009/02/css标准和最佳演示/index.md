@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2009-02-21T05:53:22+00:00"
 summary: |-
   原文：CSS Standards & Best Practices{{ double-space-with-newline }}译者： [FlyChina](http://127.0.0.1/)

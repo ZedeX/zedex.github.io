@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - t:-tech
+categories:
+  - f-feelings
+  - t-tech
 date: "2011-05-16T13:14:47+00:00"
 summary: |-
   从接触电脑到现在，一共换过3次电脑。第一次是联想的品牌机，7G的硬盘，偶尔会刻盘；第二个是自己组装的一个机箱，80G+40G的双硬盘，还有163信箱；第三个是现在用的Thinkpad，220G的硬盘外接500G的移动硬盘，还有无数的云端储存。

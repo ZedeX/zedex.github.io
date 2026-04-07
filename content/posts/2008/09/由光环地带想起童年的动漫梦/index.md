@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2008-09-07T08:26:50+00:00"
 summary: |-
   光环地带是位于浦东新区太平洋数码城三期B1层的一座三千平方米的ACG（Animate Cartoon Game）商城。

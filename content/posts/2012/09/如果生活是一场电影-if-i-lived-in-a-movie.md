@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2012-09-16T00:59:33+00:00"
 summary: |-
   我一定会为爱痴狂。{{ double-space-with-newline }}I would definitely infatuated and unbridled for love.

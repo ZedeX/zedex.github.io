@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-08-13T03:16:17+00:00"
 summary: |-
   本文章撰写于大林同学在5GSNS发起BT人协会，其中说到：“为了活跃5G气氛，兼顾内容的可读性。特建议限每日三次BT，每次BT不超过1小时。BT范围如下，请BT协会全体讨论。1、BT人。2、BT事。3、BT某话题。”

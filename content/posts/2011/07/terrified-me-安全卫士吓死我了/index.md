@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-07-04T23:06:51+00:00"
 summary: |-
   恐吓营销对没知识的人总是特别管用。

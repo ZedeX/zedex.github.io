@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2017-01-06T15:46:00+00:00"
 title: 微信小程序的滑铁卢
 ---

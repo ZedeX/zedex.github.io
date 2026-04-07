@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - u:-uncategoried
+categories:
+  - u-uncategoried
 date: "2007-11-27T04:32:59+00:00"
 summary: |-
   _Note: The strategy described at the end of this essay didn't work. It would work for a while, and then I'd gradually find myself using the Internet on my work computer. I'm trying other strategies now, but I think this time I'll wait till I'm sure they work before writing about them._

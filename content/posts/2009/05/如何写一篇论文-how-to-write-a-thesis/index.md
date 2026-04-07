@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 date: "2009-05-18T03:27:23+00:00"
 title: 如何写一篇论文（How to write a thesis）
 ---

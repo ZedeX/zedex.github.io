@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2010-09-16T08:41:24+00:00"
 title: This day next year
 ---

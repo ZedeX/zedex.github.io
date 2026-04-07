@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-07-05T23:57:24+00:00"
 tag:
   - 互联网

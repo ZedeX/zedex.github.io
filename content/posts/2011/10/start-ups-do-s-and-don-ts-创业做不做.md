@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-10-29T12:30:08+00:00"
 summary: |-
   搜集了一些大佬们关于创业的建议意见，权作参考。

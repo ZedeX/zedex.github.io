@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: woman-1807533_1920
   image: /wp-content/uploads/2020/08/woman-1807533_1920.jpg

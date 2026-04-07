@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2009-03-12T08:23:09+00:00"
 title: Need a Job
 ---

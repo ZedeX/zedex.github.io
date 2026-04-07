@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - c:-culture
-  - z:-zorro
+categories:
+  - c-culture
+  - z-zorro
 date: "2010-05-02T10:33:35+00:00"
 title: 禅门十牛图——牧牛图颂
 ---

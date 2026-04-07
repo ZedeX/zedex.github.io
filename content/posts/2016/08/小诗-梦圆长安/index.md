@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 date: "2016-08-11T23:10:00+00:00"
 title: 小诗：梦圆长安
 ---

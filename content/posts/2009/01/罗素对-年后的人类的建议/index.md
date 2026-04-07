@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: Bertrand_Russell_transparent_bg
   image: /wp-content/uploads/2020/04/Bertrand_Russell_transparent_bg.png

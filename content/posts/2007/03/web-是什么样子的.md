@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2007-03-18T08:21:38+00:00"
 title: Web3.0是什么样子的？
 ---

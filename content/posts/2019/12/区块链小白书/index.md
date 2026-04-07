@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: hash-rate
   image: /wp-content/uploads/2019/12/hash-rate.png

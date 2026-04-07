@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - d:-daily-life
-  - f:-feelings
+categories:
+  - d-daily-life
+  - f-feelings
 date: "2015-08-13T13:40:00+00:00"
 title: 在天津出差历经爆炸现场后的感悟
 ---

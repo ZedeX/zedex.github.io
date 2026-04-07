@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-07-14T09:26:13+00:00"
 title: 20100614 弈 理性至上
 ---

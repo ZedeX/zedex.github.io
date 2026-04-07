@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2008-04-15T09:06:58+00:00"
 summary: 都是腾讯QQ带的游戏， [QQ幻想](http://fo.qq.com/ "QQ幻想官网") 和QQ华夏。没有什么新概念，都是很一般的产品，为了点亮还是花了我近20个小时的时间，所以在删除之前还是截取了两张图片下来：
 title: 为了点亮而玩的两款游戏

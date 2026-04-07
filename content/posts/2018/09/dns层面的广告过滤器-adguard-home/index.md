@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 cover:
   alt: AdGuardHome
   image: /wp-content/uploads/2020/12/AdGuardHome.jpg

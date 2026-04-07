@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 cover:
   alt: anatomy-1751201
   image: /wp-content/uploads/2006/05/anatomy-1751201.png

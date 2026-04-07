@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 date: "2011-06-15T23:37:05+00:00"
 summary: |-
   ![](/wp-content/uploads/2011/07/a-b-side-of-the-road3.jpeg){{ double-space-with-newline }}选富女孩，你要付出你的心，选穷女孩，你要提升自己的能力。还有两条方法能让人的快乐，就是节制欲望，让它和自己的能力相配，而且选定了一条路，就再也不要幻想另一条路的风光。

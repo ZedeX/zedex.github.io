@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: caodewang
   image: /wp-content/uploads/2020/10/caodewang.jpg

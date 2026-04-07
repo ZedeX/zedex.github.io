@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2012-10-13T04:39:59+00:00"
 summary: |-
   今天陪小叶到医院看病，几点感悟:

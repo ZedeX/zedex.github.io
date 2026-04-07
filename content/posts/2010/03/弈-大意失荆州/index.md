@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-03-19T12:33:56+00:00"
 title: 20100319 弈 大意失荆州
 ---

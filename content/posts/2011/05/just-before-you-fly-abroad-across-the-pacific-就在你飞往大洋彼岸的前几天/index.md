@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 date: "2011-05-30T10:17:04+00:00"
 title: Just Before You Fly Abroad Across the Pacific | 就在你飞往大洋彼岸的前几天
 ---

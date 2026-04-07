@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2015-02-08T09:14:00+00:00"
 title: 应急车道被占用
 ---

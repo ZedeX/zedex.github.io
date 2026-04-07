@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 date: "2011-06-04T00:27:51+00:00"
 summary: |-
   EB-5是曲线救国最快捷的方式之一，由于其条件相对单纯、获得 [I-829](http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=d4f63591ec04d010VgnVCM10000048f3d6a1RCRD) 后基本无限制而深受广大有需求人士们的喜爱。

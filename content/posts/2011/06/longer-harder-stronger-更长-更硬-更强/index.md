@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - j:-joke
+categories:
+  - j-joke
 date: "2011-06-17T23:42:28+00:00"
 title: Longer, Harder, Stronger | 更长 更硬 更强
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2018-08-11T07:45:04+00:00"
 title: XYplorer输入中文乱码问题解决
 ---

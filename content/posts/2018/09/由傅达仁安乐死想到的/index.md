@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 cover:
   alt: fudaren-farewell
   image: /wp-content/uploads/2019/05/fudaren-farewell.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 date: "2010-10-18T05:58:12+00:00"
 title: Idealism 唯心主义
 ---

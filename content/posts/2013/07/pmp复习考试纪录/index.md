@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - s:-study
+categories:
+  - s-study
 date: "2013-07-13T12:30:07+00:00"
 summary: |-
   从3月中旬报名，到6月末考试，中间大概15周的时间。

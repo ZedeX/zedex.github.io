@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: jackey-cheung-08
   image: /wp-content/uploads/2019/05/jackey-cheung-08.jpg

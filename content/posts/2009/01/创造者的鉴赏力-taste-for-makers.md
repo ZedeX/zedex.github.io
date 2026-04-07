@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - u:-uncategoried
+categories:
+  - u-uncategoried
 date: "2009-01-12T13:52:22+00:00"
 summary: |-
   February 2002

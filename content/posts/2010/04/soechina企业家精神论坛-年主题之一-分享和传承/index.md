@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - c:-culture
-  - d:-daily-life
+categories:
+  - c-culture
+  - d-daily-life
 date: "2010-04-02T14:24:34+00:00"
 summary: |-
   SOEChina从2007年进入中国，至今已经接近3年。看着它从零开始一步两个脚印的发芽成长，虽然曲曲折折磕磕碰碰，但还是慢慢从天马行空一点一滴积累并踏实下来，深感欣慰。

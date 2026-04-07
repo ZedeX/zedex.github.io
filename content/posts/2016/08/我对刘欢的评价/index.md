@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: 唱歌
   image: /wp-content/uploads/2019/05/face-2378823_1920.jpg

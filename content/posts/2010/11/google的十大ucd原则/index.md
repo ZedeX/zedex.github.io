@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2010-11-28T04:19:24+00:00"
 summary: |-
   1\. Focus on people – their lives, their work, their dreams.{{ double-space-with-newline }}1\. 以用户为中心 - 他们的生活，工作以及梦想。

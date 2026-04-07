@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 cover:
   alt: 打车服务
   image: /wp-content/uploads/2014/04/japan-2014617_1920.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: cyber-glasses-4685055_960_720
   image: /wp-content/uploads/2023/02/cyber-glasses-4685055_960_720.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2011-07-04T06:51:12+00:00"
 title: 45 Mins Out of Electric | 停电的45分钟
 ---

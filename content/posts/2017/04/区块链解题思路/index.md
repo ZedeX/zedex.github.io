@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - o:-opportunities
+categories:
+  - o-opportunities
 date: "2017-04-25T04:22:51+00:00"
 title: 区块链解题思路
 ---

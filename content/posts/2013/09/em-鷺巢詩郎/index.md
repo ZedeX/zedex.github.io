@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2013-09-06T23:26:00+00:00"
 summary: |-
   [http://music.163.com/m/song?id=503516](http://music.163.com/m/song?id=503516)

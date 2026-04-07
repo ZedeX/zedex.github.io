@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - m:-music
+categories:
+  - f-feelings
+  - m-music
 date: "2013-04-19T13:47:00+00:00"
 tag:
   - music

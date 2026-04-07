@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-07T16:27:45+00:00"
 title: 20100407 弈 舍近为远
 ---

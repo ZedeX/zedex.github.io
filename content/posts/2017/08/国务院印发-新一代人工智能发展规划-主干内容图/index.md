@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2017-08-14T00:33:43+00:00"
 title: 国务院印发《新一代人工智能发展规划》主干内容图
 ---

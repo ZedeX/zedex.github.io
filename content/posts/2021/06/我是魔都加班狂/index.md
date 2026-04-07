@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: shanghai-423022_1920
   image: /wp-content/uploads/2022/04/shanghai-423022_1920.jpg

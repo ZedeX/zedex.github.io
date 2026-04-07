@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 date: "2011-05-25T13:49:08+00:00"
 title: Why Not Marry 为什么不结婚？ - 和babynana的书信 (1)
 ---

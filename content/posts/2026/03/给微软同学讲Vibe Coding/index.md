@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - t:-tech
-  - l:-life
+categories:
+  - t-tech
+  - l-life
 date: 2026-03-28T22:22:22+08:00
 title: 给微软同学讲Vibe Coding
 ---

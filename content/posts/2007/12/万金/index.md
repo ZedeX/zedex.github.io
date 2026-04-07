@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2007-12-09T03:33:23+00:00"
 title: 万金
 ---

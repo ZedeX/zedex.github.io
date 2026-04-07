@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 cover:
   alt: wujiangzhengba-01
   image: /wp-content/uploads/2019/03/wujiangzhengba-01.jpg

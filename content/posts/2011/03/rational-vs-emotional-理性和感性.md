@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-03-22T13:05:46+00:00"
 summary: |-
   题图：装错了，就这么着吧！

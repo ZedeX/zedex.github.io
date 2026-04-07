@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2008-04-02T07:16:58+00:00"
 title: 今晚吃豆腐
 ---

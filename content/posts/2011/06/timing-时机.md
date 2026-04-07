@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-06-04T23:14:32+00:00"
 summary: |-
   “天时不如地利 地利不如人和”。

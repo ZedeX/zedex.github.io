@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - o:-opportunities
-  - t:-tech
+categories:
+  - o-opportunities
+  - t-tech
 cover:
   alt: regulation-3246979
   image: /wp-content/uploads/2021/03/regulation-3246979.jpg

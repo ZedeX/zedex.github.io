@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - o:-opportunities
-  - t:-tech
+categories:
+  - i-internet
+  - o-opportunities
+  - t-tech
 cover:
   alt: tech-5090539_1920
   image: /wp-content/uploads/2022/04/tech-5090539_1920.jpg

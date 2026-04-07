@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - j:-joke
+categories:
+  - j-joke
 date: "2010-04-07T13:45:06+00:00"
 summary: |-
   前几天跟远在美国的Dd同学对句。起因是她发了一篇结尾是

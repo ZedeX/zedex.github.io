@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2017-09-16T11:59:34+00:00"
 summary: |-
   ### **前言**

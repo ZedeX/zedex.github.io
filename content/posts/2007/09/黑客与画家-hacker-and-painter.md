@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - c:-culture
-  - e:-english
-  - i:-internet
+categories:
+  - c-culture
+  - e-english
+  - i-internet
 date: "2007-09-27T12:34:31+00:00"
 summary: |-
   Hacker and Painter{{ double-space-with-newline }}黑客与画家

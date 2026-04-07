@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: euro-641912_1920
   image: /wp-content/uploads/2020/01/euro-641912_1920.jpg

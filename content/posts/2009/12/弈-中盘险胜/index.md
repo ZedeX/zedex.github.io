@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2009-12-07T17:34:30+00:00"
 title: 20091208 弈 中盘险胜
 ---

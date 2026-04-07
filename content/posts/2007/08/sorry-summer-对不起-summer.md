@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2007-08-06T23:07:08+00:00"
 tag:
   - lyric

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2016-01-18T01:50:00+00:00"
 title: 比特币失败了 我很欣慰
 ---

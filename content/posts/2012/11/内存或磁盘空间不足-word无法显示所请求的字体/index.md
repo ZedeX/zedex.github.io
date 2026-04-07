@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2012-11-22T07:01:11+00:00"
 tag:
   - 优化

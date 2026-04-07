@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2012-02-13T11:38:10+00:00"
 title: 利用IE自带的跟踪保护功能免插件订阅ChinaList
 ---

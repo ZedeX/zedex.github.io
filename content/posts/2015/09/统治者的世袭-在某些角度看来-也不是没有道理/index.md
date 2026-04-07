@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 date: "2015-09-24T06:15:00+00:00"
 draft: "true"
 title: 统治者的世袭，在某些角度看来，也不是没有道理

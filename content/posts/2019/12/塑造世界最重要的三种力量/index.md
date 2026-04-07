@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 cover:
   alt: fog-3774626_1920
   image: /wp-content/uploads/2022/04/fog-3774626_1920.jpg

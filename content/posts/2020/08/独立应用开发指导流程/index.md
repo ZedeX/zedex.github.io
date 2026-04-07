@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - s:-study
-  - t:-tech
+categories:
+  - s-study
+  - t-tech
 cover:
   alt: world-map
   image: /wp-content/uploads/2020/09/world-map.png

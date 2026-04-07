@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-10-28T14:22:33+00:00"
 summary: |-
   周二中午接到通知，说周五要给某移民公司做一个互联网营销策略的简报。当仁不让，忙活起来。

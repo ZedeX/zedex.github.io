@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-06-19T23:44:46+00:00"
 summary: |-
   妈妈和我每周通一次电话。

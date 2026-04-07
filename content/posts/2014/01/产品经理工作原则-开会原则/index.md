@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - s:-study
+categories:
+  - s-study
 date: "2014-01-23T00:08:00+00:00"
 title: 产品经理工作原则：开会原则
 ---

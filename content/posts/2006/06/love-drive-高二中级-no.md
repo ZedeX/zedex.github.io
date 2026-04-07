@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2006-06-29T13:58:48+00:00"
 title: Love Drive 高二中级 No.3
 ---

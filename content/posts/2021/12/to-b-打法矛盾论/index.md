@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - c:-culture
-  - w:-5w1h
+categories:
+  - c-culture
+  - w-5w1h
 cover:
   alt: physics-7249773_1920
   image: /wp-content/uploads/2022/07/physics-7249773_1920.jpg

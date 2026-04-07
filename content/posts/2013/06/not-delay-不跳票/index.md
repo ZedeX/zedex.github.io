@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - x:-x
+categories:
+  - f-feelings
+  - x-x
 date: "2013-06-18T15:56:31+00:00"
 tag:
   - featured

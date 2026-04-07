@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-05-16T14:49:46+00:00"
 title: 20100502 弈 胜之不武
 ---

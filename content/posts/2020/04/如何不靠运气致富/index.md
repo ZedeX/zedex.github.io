@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - o:-opportunities
+categories:
+  - o-opportunities
 cover:
   alt: investment-2400559_1920
   image: /wp-content/uploads/2020/05/investment-2400559_1920.jpg

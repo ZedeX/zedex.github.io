@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2018-06-14T09:22:37+00:00"
 summary: |-
   支付宝赔审团制度非常好：

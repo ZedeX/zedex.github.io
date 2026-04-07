@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2012-06-05T23:59:36+00:00"
 summary: |-
   从开始学习，就一直保持着好奇心，每天都在做加法，获取信息，累积知识。

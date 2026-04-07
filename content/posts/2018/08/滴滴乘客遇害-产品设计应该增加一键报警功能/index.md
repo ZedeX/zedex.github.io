@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2018-08-24T13:53:19+00:00"
 title: 滴滴乘客遇害 产品设计应该增加一键报警功能
 ---

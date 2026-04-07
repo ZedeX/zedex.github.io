@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 cover:
   alt: hsbc_logo_sc
   image: /wp-content/uploads/2019/09/hsbc_logo_sc.png

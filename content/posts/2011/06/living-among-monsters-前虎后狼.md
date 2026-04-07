@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2011-06-26T23:19:37+00:00"
 summary: |-
   上周花了点时间去看了处房，嘉定新城那片的一区。

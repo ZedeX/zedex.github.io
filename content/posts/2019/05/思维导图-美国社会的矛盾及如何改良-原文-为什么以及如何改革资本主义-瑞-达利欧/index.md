@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 cover:
   alt: ray-dalio
   image: /wp-content/uploads/2019/09/ray-dalio.jpg

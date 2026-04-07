@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: abe-shinzo
   image: /wp-content/uploads/2019/08/abe-shinzo-.jpg

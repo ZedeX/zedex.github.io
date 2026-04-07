@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2008-05-31T05:57:23+00:00"
 summary: |-
   1. 不要存在“有先手就先交换掉，反正我走一个对方陪一个”的观点；

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: door-2132807_1920
   image: /wp-content/uploads/2020/08/door-2132807_1920.jpg

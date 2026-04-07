@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 date: "2009-04-25T08:37:15+00:00"
 title: 奈斯比特《大趋势》笔记
 ---

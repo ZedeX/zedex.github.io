@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-06-30T23:53:00+00:00"
 title: Back to May | 回到五月
 ---

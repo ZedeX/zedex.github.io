@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 cover:
   alt: love-560783
   image: /wp-content/uploads/2006/04/love-560783.jpg

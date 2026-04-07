@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 cover:
   alt: mmexport1621763109739
   image: /wp-content/uploads/2021/05/mmexport1621763109739.jpg

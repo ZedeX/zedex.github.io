@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2007-07-09T11:59:57+00:00"
 title: 襄阳公园
 ---

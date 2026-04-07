@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2006-06-15T16:13:24+00:00"
 title: Rainy Sunday 下雨的星期日
 ---

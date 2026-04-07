@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2008-04-10T17:00:48+00:00"
 summary: |-
   English Name: WordPress Plugin: Akismet Simplified Chinese Version?

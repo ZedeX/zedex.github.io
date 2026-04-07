@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: play-2735975_1920
   image: /wp-content/uploads/2006/05/play-2735975_1920.jpg

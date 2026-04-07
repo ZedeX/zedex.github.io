@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: game-bank-1003151_1920
   image: /wp-content/uploads/2022/04/game-bank-1003151_1920.jpg

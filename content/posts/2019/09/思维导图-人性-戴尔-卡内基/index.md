@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 cover:
   alt: dale-carnegie
   image: /wp-content/uploads/2019/09/dale-carnegie.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - e:-english
+categories:
+  - e-english
 date: "2009-10-29T15:23:49+00:00"
 summary: |-
   > 亲爱的Miller先生：

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2009-11-04T15:24:45+00:00"
 title: 几件让人恼火的事情
 ---

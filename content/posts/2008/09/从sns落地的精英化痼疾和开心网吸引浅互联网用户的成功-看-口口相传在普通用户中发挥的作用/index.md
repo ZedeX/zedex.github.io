@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-09-13T12:09:39+00:00"
 summary: |-
   几乎所有有点名气的所谓SNS网站我都有注册，都在里面或多或少体验过。从这点上来看，开心网没什么不同。

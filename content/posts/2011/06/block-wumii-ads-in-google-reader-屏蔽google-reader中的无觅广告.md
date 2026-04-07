@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2011-06-11T23:16:42+00:00"
 title: Block Wumii ads in Google Reader | 屏蔽Google Reader中的无觅广告
 ---

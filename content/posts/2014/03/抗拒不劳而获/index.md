@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2014-03-22T12:54:00+00:00"
 summary: |-
   中国传统文化，甚至直到现在，常常鼓励守穷，同时鄙视富庶。但其实富庶也有其难能可贵的品质。

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2010-01-13T13:29:56+00:00"
 summary: |-
   今天大炒特炒了Google退出中国事件，有一小撮网友还给Google中国献去了花圈束。不过让我们回头看看Google官方博客的原文，字斟句酌的理解一下，看看事件真的是我们想象的那样吗？

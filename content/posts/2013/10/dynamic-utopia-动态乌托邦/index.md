@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - y:-yy
+categories:
+  - e-english
+  - y-yy
 date: "2013-10-19T10:15:52+00:00"
 summary: |-
   Just finished reading Plato's Utopia and other related works about the "neverland". I think the finalized Utopia is impossible for the resources are always limited. But at some circumstances, it's not a mirage.

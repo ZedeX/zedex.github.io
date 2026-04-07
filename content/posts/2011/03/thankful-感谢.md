@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-03-14T13:09:37+00:00"
 title: Thankful 感谢
 ---

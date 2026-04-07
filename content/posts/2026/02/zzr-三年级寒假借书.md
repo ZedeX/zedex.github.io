@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: 2026-02-07T00:19:53+08:00
 title: zzr-三年级寒假借书
 ---

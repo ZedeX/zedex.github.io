@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 date: "2010-06-05T13:53:05+00:00"
 summary: |-
   [![](/wp-content/uploads/2011/07/cimg65483.jpg?w=300)](/wp-content/uploads/2011/07/cimg65483.jpg)

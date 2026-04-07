@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-05-31T23:13:51+00:00"
 title: Why Smartphones Do Not Support Flash?
 ---

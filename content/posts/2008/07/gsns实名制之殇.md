@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-07-29T08:00:08+00:00"
 title: 5GSNS实名制之殇
 ---

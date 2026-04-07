@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2013-04-16T07:16:56+00:00"
 summary: |-
   ![huaishu](/wp-content/uploads/2013/08/huaishu.jpg)。{{ double-space-with-newline }}夏天的时候，几家人在树荫下打牌，{{ double-space-with-newline }}都不觉得挤。

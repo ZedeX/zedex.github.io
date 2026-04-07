@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2009-08-22T09:46:34+00:00"
 title: Paul Graham：未来的互联网创业
 ---

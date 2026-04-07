@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: pedestrians-400811_1920
   image: /wp-content/uploads/2020/08/pedestrians-400811_1920.jpg

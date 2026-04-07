@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - v:-voyage
+categories:
+  - v-voyage
 date: "2011-06-09T23:39:05+00:00"
 summary: '[![田子坊](/wp-content/uploads/2011/07/cimg7639.jpg?w=300)](/wp-content/uploads/2011/07/cimg7639.jpg){{ double-space-with-newline }}被渲染过渡的一方天地，老外聚集。小摊都是淘宝货，缺乏文化沉积。速食文化惨兮，糊弄老外而已。{{ double-space-with-newline }}'
 title: Tian Zi Fang | 田子坊

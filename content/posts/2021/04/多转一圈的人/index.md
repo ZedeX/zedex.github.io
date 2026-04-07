@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - l:-life
-  - z:-zorro
+categories:
+  - l-life
+  - z-zorro
 cover:
   alt: dance-4782870_1920
   image: /wp-content/uploads/2022/04/dance-4782870_1920.jpg

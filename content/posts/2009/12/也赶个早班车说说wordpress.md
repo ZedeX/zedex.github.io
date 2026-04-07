@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2009-12-20T05:23:07+00:00"
 summary: |-
   WordPress 2.9 [发布](http://codex.wordpress.org/Version_2.9) 了，新版对MyQL数据库的最低要求，从原来的4.0，更新到4.1.2。不过更多的是用户使用上的变化。意译（拼音首字母是YY）一下：

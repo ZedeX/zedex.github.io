@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: 健康零食
   image: /wp-content/uploads/2019/05/pretzels-1649483_1920.jpg

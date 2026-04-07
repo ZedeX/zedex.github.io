@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 cover:
   alt: 音乐平日封
   image: /wp-content/uploads/2006/06/record-336626_1920.jpg

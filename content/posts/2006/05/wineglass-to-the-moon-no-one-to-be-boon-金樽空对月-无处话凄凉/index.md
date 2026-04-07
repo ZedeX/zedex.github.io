@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: tree-736877
   image: /wp-content/uploads/2006/05/tree-736877.jpg

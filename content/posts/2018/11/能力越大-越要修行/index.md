@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - l:-life
+categories:
+  - f-feelings
+  - l-life
 cover:
   alt: buddha-statues-3434553_1920
   image: /wp-content/uploads/2018/11/buddha-statues-3434553_1920.jpg

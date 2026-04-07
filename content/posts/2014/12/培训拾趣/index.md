@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - j:-joke
+categories:
+  - j-joke
 date: "2014-12-30T08:33:00+00:00"
 title: 培训拾趣
 ---

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - l:-life
-  - z:-zorro
+categories:
+  - l-life
+  - z-zorro
 cover:
   alt: brief-1[1]
   image: /wp-content/uploads/2022/07/brief-11-scaled.jpg

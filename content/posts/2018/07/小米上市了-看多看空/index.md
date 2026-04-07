@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 cover:
   alt: blur-1853262_1920
   image: /wp-content/uploads/2018/07/blur-1853262_1920.jpg

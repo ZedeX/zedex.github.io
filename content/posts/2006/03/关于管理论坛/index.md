@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: conference-room-768441_1920
   image: /wp-content/uploads/2006/03/conference-room-768441_1920.jpg

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 cover:
   alt: dollar-499481_1920
   image: /wp-content/uploads/2019/07/dollar-499481_1920.jpg

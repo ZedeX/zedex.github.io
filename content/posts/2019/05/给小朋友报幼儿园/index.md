@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: paint-2108185_1920
   image: /wp-content/uploads/2019/05/paint-2108185_1920.jpg

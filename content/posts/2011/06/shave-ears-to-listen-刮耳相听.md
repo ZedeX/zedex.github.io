@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2011-06-28T23:03:35+00:00"
 tag:
   - music

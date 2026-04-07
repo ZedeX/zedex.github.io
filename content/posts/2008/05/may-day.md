@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 date: "2008-05-01T07:36:40+00:00"
 title: May Day
 ---

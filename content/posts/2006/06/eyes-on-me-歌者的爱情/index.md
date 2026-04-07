@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2006-06-02T16:03:48+00:00"
 title: Eyes On Me 歌者的爱情
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - e:-english
+categories:
+  - e-english
 date: "2009-10-31T09:38:02+00:00"
 summary: |-
   前言：这封回信是Miller先生就我关于世界上是否存在一个所谓“精英金融帝国”或美国政府之上是否有一家“company”的 [一封信](http://127.0.0.1/313-worldwide-elite-financial-empire-beyond-the-world-letter-to-miller.html) 的回信。

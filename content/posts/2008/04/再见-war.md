@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2008-04-01T02:37:00+00:00"
 summary: |-
   以后不再玩这款游戏了。

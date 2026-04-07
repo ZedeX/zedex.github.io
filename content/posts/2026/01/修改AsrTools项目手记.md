@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: 2026-01-07T00:36:56+08:00
 title: 修改AsrTools项目手记
 ---

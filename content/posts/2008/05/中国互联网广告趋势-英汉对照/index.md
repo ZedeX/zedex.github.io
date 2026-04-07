@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-05-16T07:26:00+00:00"
 summary: |-
   China Internet Advertising Trends 2008{{ double-space-with-newline }}中国互联网广告趋势2008

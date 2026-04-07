@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-07-10T23:24:56+00:00"
 title: ZX Google Reader Stats | 我的Google Reader阅读数据
 ---

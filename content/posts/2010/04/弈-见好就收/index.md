@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-15T13:28:06+00:00"
 title: 20100415 弈 见好就收
 ---

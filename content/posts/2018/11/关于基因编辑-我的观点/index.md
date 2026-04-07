@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 cover:
   alt: gene-edit
   image: /wp-content/uploads/2019/01/gene-edit.jpg

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - r:-revenue
-  - z:-zorro
+categories:
+  - r-revenue
+  - z-zorro
 cover:
   alt: 认知升级
   image: /wp-content/uploads/2021/07/brain-4372153_1920-e1649133678683.jpg

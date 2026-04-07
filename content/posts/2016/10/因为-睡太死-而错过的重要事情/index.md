@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: 车票
   image: /wp-content/uploads/2019/05/miss-ticket.jpg

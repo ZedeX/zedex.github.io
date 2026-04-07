@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2006-12-09T16:01:40+00:00"
 title: Daydream 白日梦
 ---

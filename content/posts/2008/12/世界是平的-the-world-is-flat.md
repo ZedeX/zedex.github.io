@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2008-12-17T03:24:04+00:00"
 title: 世界是平的（The World Is Flat）
 ---

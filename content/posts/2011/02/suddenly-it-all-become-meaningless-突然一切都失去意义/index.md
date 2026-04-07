@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-02-12T23:33:18+00:00"
 summary: |-
   So as it is.{{ double-space-with-newline }}![](/wp-content/uploads/2011/07/double-shit-choices1.jpeg){{ double-space-with-newline }}Should I follow the old shit, or start a new one?

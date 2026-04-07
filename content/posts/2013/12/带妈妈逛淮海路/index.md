@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - d:-daily-life
-  - p:-3ps
+categories:
+  - d-daily-life
+  - p-3ps
 date: "2013-12-01T12:56:00+00:00"
 title: 带妈妈逛淮海路2013
 ---

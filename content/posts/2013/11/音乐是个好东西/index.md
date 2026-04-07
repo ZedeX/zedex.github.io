@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2013-11-17T14:00:00+00:00"
 summary: |-
   音乐是个好东西，可以让人们在短短的几分钟里，恍如隔世。

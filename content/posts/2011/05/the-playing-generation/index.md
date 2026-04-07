@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2011-05-31T12:30:36+00:00"
 title: The Playing Generation
 ---

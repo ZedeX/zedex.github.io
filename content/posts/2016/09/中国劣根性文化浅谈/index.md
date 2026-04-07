@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 cover:
   alt: cow-519246_1920
   image: /wp-content/uploads/2019/05/cow-519246_1920.jpg

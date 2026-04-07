@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-14T03:02:23+00:00"
 title: 20100414 弈 得理不饶
 ---

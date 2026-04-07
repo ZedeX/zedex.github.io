@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2012-06-17T08:36:19+00:00"
 title: 绝对时间 VS 相对时间
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2014-04-12T04:01:15+00:00"
 tag:
   - wordpress

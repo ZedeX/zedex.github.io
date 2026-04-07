@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-08-31T15:55:54+00:00"
 summary: |-
   读者：互联网观察人员、互联网媒体及广告从业人员、互联网开发技术人员、网络黑客{{ double-space-with-newline }}**关键字：用户跟踪(User Track)、Cookies、URL、Google、广告**{{ double-space-with-newline }}引言：随着Firefox大举蚕食微软IE的浏览器市场，新一轮的桌面浏览器大战序幕已被拉开。无论是微软、Mozilla、Google 、Opera，还是许多其他非主流浏览器生产厂商，都盯着这块蛋糕，以及蛋糕后面不可估量的市场——互联网定向广告。

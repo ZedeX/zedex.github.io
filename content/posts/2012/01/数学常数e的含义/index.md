@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - w:-5w1h
-  - x:-x
+categories:
+  - w-5w1h
+  - x-x
 date: "2012-01-10T06:08:19+00:00"
 title: 数学常数e的含义
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-01-15T20:11:21+00:00"
 summary: |-
   ## 自然情况

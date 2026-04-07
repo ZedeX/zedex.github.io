@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: adult-1807500_1920
   image: /wp-content/uploads/2020/10/adult-1807500_1920.jpg

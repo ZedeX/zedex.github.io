@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 date: "2016-07-20T23:46:00+00:00"
 title: 为什么要强调专注？
 ---

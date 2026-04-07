@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2010-04-11T14:00:02+00:00"
 summary: |-
   ### 统计

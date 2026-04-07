@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - f:-feelings
+categories:
+  - e-english
+  - f-feelings
 date: "2013-01-21T21:32:22+00:00"
 title: Jan 22nd, 5AM. I dreamt of you.
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - a:-my-firsts
+categories:
+  - a-my-firsts
 date: "2009-02-02T13:45:57+00:00"
 title: 第一件奢侈品
 ---

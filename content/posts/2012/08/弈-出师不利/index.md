@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2012-08-18T09:37:42+00:00"
 title: 弈 出师不利
 ---

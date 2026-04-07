@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 cover:
   alt: letters-2742640_1920
   image: /wp-content/uploads/2006/03/letters-2742640_1920.jpg

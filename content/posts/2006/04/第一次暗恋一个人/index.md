@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - a:-my-firsts
+categories:
+  - a-my-firsts
 cover:
   alt: blue-sky-2387410_1920
   image: /wp-content/uploads/2006/04/blue-sky-2387410_1920.jpg

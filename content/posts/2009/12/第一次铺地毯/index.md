@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - a:-my-firsts
+categories:
+  - a-my-firsts
 date: "2009-12-25T13:58:13+00:00"
 title: 第一次铺地毯
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - m:-music
+categories:
+  - m-music
 date: "2010-07-19T13:25:13+00:00"
 summary: |-
   [http://www.xiami.com/widget/7281/_377501/singlePlayer.swf](http://www.xiami.com/widget/7281_377501/singlePlayer.swf)

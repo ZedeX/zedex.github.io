@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2012-07-15T08:47:44+00:00"
 title: People That Should Be Fired Immediately
 ---

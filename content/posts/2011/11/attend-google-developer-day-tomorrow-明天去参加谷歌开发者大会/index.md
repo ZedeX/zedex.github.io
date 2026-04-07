@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2011-11-03T12:45:42+00:00"
 tag:
   - google

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - x:-x
-  - z:-zorro
+categories:
+  - x-x
+  - z-zorro
 date: "2017-02-28T08:39:28+00:00"
 title: 个人保险选购一般方法
 ---

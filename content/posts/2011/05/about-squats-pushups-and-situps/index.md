@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - e:-english
+categories:
+  - e-english
 date: "2011-05-21T12:38:34+00:00"
 summary: |-
   When I felt frustrated or disappointed, I do sports.

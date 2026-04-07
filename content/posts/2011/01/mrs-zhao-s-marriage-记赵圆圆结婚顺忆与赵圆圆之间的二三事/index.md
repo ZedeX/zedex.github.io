@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - l:-life
+categories:
+  - f-feelings
+  - l-life
 date: "2011-01-16T14:09:08+00:00"
 title: Mrs. ZHAO's Marriage 记赵圆圆结婚顺忆与赵圆圆之间的二三事
 ---

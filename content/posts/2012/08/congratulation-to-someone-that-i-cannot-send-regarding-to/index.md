@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2012-08-15T04:05:58+00:00"
 title: Congratulation to Someone that I cannot send regarding to...
 ---

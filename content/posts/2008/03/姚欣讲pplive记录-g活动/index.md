@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2008-03-29T13:36:44+00:00"
 title: 姚欣讲PPLive记录 - 5G活动
 ---

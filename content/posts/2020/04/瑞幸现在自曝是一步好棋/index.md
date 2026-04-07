@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: luckin-logo
   image: /wp-content/uploads/2020/07/luckin-logo.png

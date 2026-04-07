@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - b:-books
+categories:
+  - b-books
 date: "2011-03-16T23:36:13+00:00"
 summary: 花了些许时间断断续续读完这本《 [犬と私の十の約束](http://book.douban.com/subject/3259587/)》，然后看的 [电影](http://movie.douban.com/subject/2976111/ "狗狗与我的十个约定")。
 title: Ten Promises with My Dog | 狗狗与我的十个约定

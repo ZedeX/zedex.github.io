@@ -26,9 +26,6 @@ buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
 
-[taxonomies]
-  category = "categories"
-
 [params]
   env = "production"
   description = "At a glance"

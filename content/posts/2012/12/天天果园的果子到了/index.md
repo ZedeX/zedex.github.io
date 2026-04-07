@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2012-12-28T13:56:00+00:00"
 summary: |-
   天天果园的果子到了。{{ double-space-with-newline }}[![image](/wp-content/uploads/2014/07/wpid-mmexport1406559566141.jpg)](/wp-content/uploads/2014/07/wpid-mmexport1406559566141.jpg)

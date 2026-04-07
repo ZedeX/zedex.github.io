@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2012-03-25T13:58:19+00:00"
 title: Maeda Atruko Exit AKB48 | 关于前田敦子从AKB48的毕业
 ---

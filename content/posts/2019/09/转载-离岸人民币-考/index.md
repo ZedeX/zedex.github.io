@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 cover:
   alt: onboard-rmb-history
   image: /wp-content/uploads/2019/09/onboard-rmb-history.png

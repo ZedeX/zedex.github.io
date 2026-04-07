@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2010-09-20T13:24:04+00:00"
 title: SMS from Marriage of My Parents 来自爸妈结婚纪念日的短信
 ---

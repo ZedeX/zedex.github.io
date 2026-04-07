@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - s:-study
-  - x:-x
+categories:
+  - s-study
+  - x-x
 date: "2013-11-04T14:29:44+00:00"
 summary: |-
   ## 目录

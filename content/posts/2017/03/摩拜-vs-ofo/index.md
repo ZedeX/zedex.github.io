@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2017-03-29T14:17:32+00:00"
 title: 摩拜 vs ofo
 ---

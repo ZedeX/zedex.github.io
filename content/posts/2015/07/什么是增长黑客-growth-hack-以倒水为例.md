@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2015-07-15T10:56:04+00:00"
 summary: |-
   首先澄清概念，我说的增长黑客，英文是Growth Hack，是一个行为，而不是范冰的书名中所引用的名词定义Growth Hacker。

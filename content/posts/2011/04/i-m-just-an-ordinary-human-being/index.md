@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-04-24T07:14:22+00:00"
 summary: It takes a really long time to make me realize and accept that I'm just an ordinary being, like everybody else.{{ double-space-with-newline }}[![](/wp-content/uploads/2011/07/greenland-xujiahui.jpg)](/wp-content/uploads/2011/07/greenland-xujiahui.jpg){{ double-space-with-newline }}Greenland Xujiahui Shanghai
 tag:

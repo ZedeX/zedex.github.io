@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2008-05-07T19:38:28+00:00"
 summary: |-
   Sam是我刚到上海时在 [迎泽旅社](http://www.hostelworld.com/availability.php/ShanghaiPeoplesSquareYouthHostel-Shanghai-28188 "现在已更名为“人民广场青年旅舍”") 认识的一位法国朋友。

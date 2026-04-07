@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: chess-316658
   image: /wp-content/uploads/2016/07/chess-316658.jpg

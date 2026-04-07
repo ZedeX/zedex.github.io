@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - w:-5w1h
-  - z:-zorro
+categories:
+  - w-5w1h
+  - z-zorro
 cover:
   alt: cover
   image: /wp-content/uploads/2023/02/cover.jpg

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - l:-life
+categories:
+  - e-english
+  - l-life
 date: "2012-05-14T14:50:26+00:00"
 title: Breaking My Comfort Zone
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-04-11T05:11:57+00:00"
 summary: |-
   ### 今天我是如何度过：New CT New Star'

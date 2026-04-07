@@ -1,9 +1,9 @@
 ---
 author: zx
-category:
-  - f:-feelings
-  - l:-life
-  - p:-3ps
+categories:
+  - f-feelings
+  - l-life
+  - p-3ps
 date: "2006-01-04T08:19:16+00:00"
 summary: |-
   本来昨天想写的，但是多玩了一把魔兽争霸3，给忘了，所以今天补上。幸好我的记忆还不失清晰。

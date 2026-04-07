@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-03-06T12:58:05+00:00"
 summary: |-
   刚才看到一对大学情侣的一段短信生活：

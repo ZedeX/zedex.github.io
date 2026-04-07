@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - p:-3ps
+categories:
+  - p-3ps
 date: "2015-06-01T06:15:00+00:00"
 title: 上帝之眼 Eye of the God
 ---

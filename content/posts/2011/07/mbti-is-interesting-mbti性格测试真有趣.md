@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-07-10T00:02:53+00:00"
 summary: |-
   我一直是一个INTJ，今天却测出来ENFJ。

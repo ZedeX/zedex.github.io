@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - l:-life
-  - z:-zorro
+categories:
+  - l-life
+  - z-zorro
 date: "2011-05-29T13:09:27+00:00"
 summary: |-
   Recently I crazed about a game: staring opposite walking people when on the road. It is quite interesting. I think it's a great way to build self-confident, and it works.

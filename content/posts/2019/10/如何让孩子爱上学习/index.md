@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - x:-x
-  - z:-zorro
+categories:
+  - x-x
+  - z-zorro
 cover:
   alt: book-1822474_1920
   image: /wp-content/uploads/2019/10/book-1822474_1920.jpg

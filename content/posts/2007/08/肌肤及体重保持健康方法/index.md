@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - h:-health
+categories:
+  - h-health
 date: "2007-08-21T00:28:43+00:00"
 summary: |-
   [![](/wp-content/uploads/2011/07/dish.jpg)](/wp-content/uploads/2011/07/dish.jpg){{ double-space-with-newline }}虽然无法羡慕别人完美的皮肤，可是面对自己加速老化或者问题层出不穷的皮肤好像也是无能为力。

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 cover:
   alt: 台湾地区
   image: /wp-content/uploads/2019/05/buildings-1846728_1920.jpg

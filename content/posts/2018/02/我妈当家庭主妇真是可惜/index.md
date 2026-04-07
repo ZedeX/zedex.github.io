@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: mmexport1594945974331
   image: /wp-content/uploads/2020/07/mmexport1594945974331.jpg

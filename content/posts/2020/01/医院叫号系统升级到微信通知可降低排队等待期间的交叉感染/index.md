@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 cover:
   alt: hospitalqueue
   image: /wp-content/uploads/2020/01/hospitalqueue.jpeg

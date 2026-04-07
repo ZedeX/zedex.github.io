@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: programming-1873854_1920
   image: /wp-content/uploads/2020/11/programming-1873854_1920.png

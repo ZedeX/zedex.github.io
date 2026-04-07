@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - l:-life
-  - z:-zorro
+categories:
+  - l-life
+  - z-zorro
 date: "2011-01-03T13:00:02+00:00"
 summary: |-
   ![](/wp-content/uploads/2011/07/2010-finance-checkpoint-01.png)

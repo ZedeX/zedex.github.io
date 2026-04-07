@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2015-07-21T01:31:00+00:00"
 title: 垂钓有感：为什么你可以白白吃鱼而我要花时间钓鱼？
 ---

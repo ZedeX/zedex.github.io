@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: soap-bubbles-3517247_1920
   image: /wp-content/uploads/2022/04/soap-bubbles-3517247_1920.jpg

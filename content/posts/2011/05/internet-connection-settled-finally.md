@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2011-05-18T12:33:32+00:00"
 summary: |-
   After a long waiting and negotiating, we finally settled a 100M+100M Internet connection by China Telecom in our new office. But When I started to check my Google Reader, which was and always 1000+, I suddenly felt there's no so much intentions to read every single item. And after a scratch, I "mark all as read" and close my browser.

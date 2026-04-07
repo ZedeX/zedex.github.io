@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 cover:
   alt: cdn-zedex
   image: /wp-content/uploads/2019/06/cdn-zedex.png

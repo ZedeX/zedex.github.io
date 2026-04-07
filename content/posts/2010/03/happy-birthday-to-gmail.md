@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2010-03-31T16:02:36+00:00"
 title: Happy Birthday to Gmail
 ---

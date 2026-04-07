@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2009-03-19T12:24:52+00:00"
 title: 找工作随感：为什么我没有英文名字？
 ---

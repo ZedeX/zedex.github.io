@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: zhuoyuexingnengmoshi
   image: /wp-content/uploads/2021/01/zhuoyuexingnengmoshi.png

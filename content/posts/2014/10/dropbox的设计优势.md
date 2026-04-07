@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2014-10-10T03:18:00+00:00"
 title: Dropbox的设计优势
 ---

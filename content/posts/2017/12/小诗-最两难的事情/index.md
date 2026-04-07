@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: the-dilemma
   image: /wp-content/uploads/2019/05/the-dilemma.jpg

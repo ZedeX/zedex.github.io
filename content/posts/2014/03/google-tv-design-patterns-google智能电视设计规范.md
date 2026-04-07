@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 date: "2014-03-02T04:36:25+00:00"
 summary: |-
   ![google tv](http://daichuanqing.com/wp-content/uploads/2014/03/google-tv.jpg)

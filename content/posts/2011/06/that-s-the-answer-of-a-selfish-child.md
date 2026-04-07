@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-06-24T23:45:38+00:00"
 tag:
   - lifestyle

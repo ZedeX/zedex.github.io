@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2011-01-31T16:00:47+00:00"
 title: 10,000 Days of Life 人生一万天
 ---

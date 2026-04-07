@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-10-30T10:11:08+00:00"
 summary: |-
   欢喜一天的好心情，会被一个电话搞糟，跟你不是没有关系。

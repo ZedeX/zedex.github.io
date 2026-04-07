@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: vaccination-2722937_1920
   image: /wp-content/uploads/2018/07/vaccination-2722937_1920.jpg

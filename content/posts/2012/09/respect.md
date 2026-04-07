@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - e:-english
+categories:
+  - e-english
 date: "2012-09-05T10:47:41+00:00"
 tag:
   - featured

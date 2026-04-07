@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 cover:
   alt: Jiddu_Krishnamurti
   image: /wp-content/uploads/2020/11/Jiddu_Krishnamurti.jpg

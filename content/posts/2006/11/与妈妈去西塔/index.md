@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2006-11-13T15:59:29+00:00"
 summary: |-
   我家旁边的高架桥，{{ double-space-with-newline }}桥下是火车道，{{ double-space-with-newline }}看见火车道总会令我们想起些什么……

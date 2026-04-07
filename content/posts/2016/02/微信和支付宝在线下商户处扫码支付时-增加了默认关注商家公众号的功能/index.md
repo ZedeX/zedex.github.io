@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - i:-internet
+categories:
+  - i-internet
 date: "2016-02-22T16:56:20+00:00"
 title: 微信和支付宝在线下商户处扫码支付时 增加了默认关注商家公众号的功能
 type: 聊天

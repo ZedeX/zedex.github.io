@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2010-11-27T14:51:45+00:00"
 title: Visit Brown Rice | 参观 Brown Rice
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 date: "2011-06-01T23:26:42+00:00"
 title: Two Girls One Story 1 两个女孩 一段故事1 - 和babynana的书信 (3)
 ---

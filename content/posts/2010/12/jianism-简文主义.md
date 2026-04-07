@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 date: "2010-12-26T14:36:28+00:00"
 summary: |-
   简文主义，是说用精简的文字描述同样一件事，讲究字斟句酌。

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-06-27T05:04:36+00:00"
 title: 夏天的感觉
 ---

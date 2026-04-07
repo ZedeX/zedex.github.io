@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 date: "2017-03-03T03:04:00+00:00"
 title: 关于武志红老师的《巨婴国》
 ---

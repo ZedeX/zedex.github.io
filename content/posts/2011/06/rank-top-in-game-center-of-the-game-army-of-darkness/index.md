@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2011-06-27T23:50:11+00:00"
 tag:
   - game

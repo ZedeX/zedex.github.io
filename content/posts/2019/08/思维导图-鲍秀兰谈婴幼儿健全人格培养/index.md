@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: baoxiulan
   image: /wp-content/uploads/2019/08/baoxiulan.png

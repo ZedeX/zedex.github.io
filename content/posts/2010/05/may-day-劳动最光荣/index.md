@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2010-05-01T11:53:52+00:00"
 title: May Day 劳动最光荣
 ---

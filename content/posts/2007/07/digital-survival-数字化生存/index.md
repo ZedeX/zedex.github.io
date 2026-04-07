@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2007-07-08T00:02:01+00:00"
 summary: |-
   ### 什么是数字化生存？

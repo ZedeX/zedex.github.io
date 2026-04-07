@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2010-01-08T05:14:09+00:00"
 title: 一个好消息
 ---

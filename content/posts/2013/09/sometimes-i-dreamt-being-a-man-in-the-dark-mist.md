@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - x:-x
+categories:
+  - x-x
 date: "2013-09-26T09:16:05+00:00"
 title: Sometimes I dreamt being a man in the dark mist
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - s:-study
+categories:
+  - s-study
 cover:
   alt: logistics-3125136_1920
   image: /wp-content/uploads/2022/04/logistics-3125136_1920.jpg

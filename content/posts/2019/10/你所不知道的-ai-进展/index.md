@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: fashion-6341759_1920
   image: /wp-content/uploads/2022/04/fashion-6341759_1920.jpg

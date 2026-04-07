@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 cover:
   alt: facebook-5445671
   image: /wp-content/uploads/2021/10/facebook-5445671.png

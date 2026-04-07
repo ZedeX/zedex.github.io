@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 date: "2008-01-14T03:17:13+00:00"
 title: 懒惰、急躁和傲慢（Laziness, Impatience and hubris）
 ---

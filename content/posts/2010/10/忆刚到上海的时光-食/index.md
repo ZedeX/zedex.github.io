@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2010-10-18T12:39:24+00:00"
 summary: |-
   ## 食

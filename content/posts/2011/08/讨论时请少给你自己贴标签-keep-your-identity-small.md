@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - k:-kao
+categories:
+  - e-english
+  - k-kao
 date: "2011-08-28T12:16:11+00:00"
 title: 讨论时请少给你自己贴标签 | Keep Your Identity Small
 ---

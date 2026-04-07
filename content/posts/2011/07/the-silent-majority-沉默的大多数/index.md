@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - f:-feelings
+categories:
+  - f-feelings
 date: "2011-07-01T23:37:34+00:00"
 title: The Silent  Majority | 沉默的大多数
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2017-08-11T02:31:10+00:00"
 title: 卸载Cygwin方法两则
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-04-10T14:56:58+00:00"
 title: 20100410 弈 惹是生非
 ---

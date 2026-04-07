@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - h:-health
-  - x:-x
+categories:
+  - h-health
+  - x-x
 date: "2016-03-09T10:16:00+00:00"
 title: AlphaGo的奇迹
 ---

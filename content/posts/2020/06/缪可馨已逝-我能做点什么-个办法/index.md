@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: school-1782427_1920
   image: /wp-content/uploads/2020/08/school-1782427_1920.jpg

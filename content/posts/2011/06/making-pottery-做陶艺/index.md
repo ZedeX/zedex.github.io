@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - d:-daily-life
+categories:
+  - d-daily-life
 date: "2011-06-22T00:36:52+00:00"
 summary: |-
   周末到乡下的一个做陶瓷的朋友那里去玩耍，也是请教他些陶艺知识和基本方法。{{ double-space-with-newline }}![](/wp-content/uploads/2011/07/making-pottery.jpg){{ double-space-with-newline }}那一日，大雨瓢泼如注，眺望远山连天，林间葱葱郁郁，小屋袅袅炊烟。

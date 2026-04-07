@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 cover:
   alt: money-256314_1920
   image: /wp-content/uploads/2022/04/money-256314_1920.jpg

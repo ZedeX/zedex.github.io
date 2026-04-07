@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - s:-study
+categories:
+  - s-study
 date: "2009-06-30T08:58:47+00:00"
 title: 国际标准书号（ISBN）
 ---

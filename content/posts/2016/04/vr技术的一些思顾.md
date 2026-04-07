@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - t:-tech
+categories:
+  - i-internet
+  - t-tech
 date: "2016-04-11T17:51:00+00:00"
 title: VR技术的一些思顾
 ---

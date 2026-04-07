@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 cover:
   alt: people-3120717_1920
   image: /wp-content/uploads/2020/10/people-3120717_1920.jpg

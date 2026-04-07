@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - j:-joke
+categories:
+  - j-joke
 cover:
   alt: 冷饮
   image: /wp-content/uploads/2018/12/beverage-3511212_1920.jpg

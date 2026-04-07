@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - i:-internet
-  - l:-life
+categories:
+  - i-internet
+  - l-life
 cover:
   alt: 30th-anniversary-of-the-world-wide-web-4871946884874240-2xa
   image: /wp-content/uploads/2019/03/30th-anniversary-of-the-world-wide-web-4871946884874240-2xa.gif

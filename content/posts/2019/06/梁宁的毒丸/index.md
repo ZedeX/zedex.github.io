@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: poison-pill
   image: /wp-content/uploads/2019/06/poison-pill.jpg

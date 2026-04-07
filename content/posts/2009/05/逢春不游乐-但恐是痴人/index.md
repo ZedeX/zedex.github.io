@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 date: "2009-05-10T14:54:47+00:00"
 title: 逢春不游乐 但恐是痴人
 ---

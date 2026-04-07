@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - a:-my-firsts
+categories:
+  - a-my-firsts
 cover:
   alt: puzzle-2500328_1920
   image: /wp-content/uploads/2022/04/puzzle-2500328_1920.jpg

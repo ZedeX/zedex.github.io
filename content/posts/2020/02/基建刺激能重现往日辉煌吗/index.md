@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - y:-yy
+categories:
+  - y-yy
 cover:
   alt: sunset-219354_1920
   image: /wp-content/uploads/2020/02/sunset-219354_1920.jpg

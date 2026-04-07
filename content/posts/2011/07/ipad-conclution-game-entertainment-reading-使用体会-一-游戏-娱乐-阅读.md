@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: "2011-07-02T23:01:35+00:00"
 title: iPad Conclution 1 Game Entertainment Reading | 使用体会（一） 游戏 娱乐 阅读
 ---

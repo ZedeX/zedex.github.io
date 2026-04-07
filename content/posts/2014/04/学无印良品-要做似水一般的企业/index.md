@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - c:-culture
+categories:
+  - c-culture
 date: "2014-04-02T13:28:51+00:00"
 summary: |-
   本文是无印良品社长金井政明在2014万科春季例会上的演讲，根据录音整理，未经审阅。

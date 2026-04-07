@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2010-03-25T13:03:57+00:00"
 title: 20100325 弈 模仿棋胜
 ---

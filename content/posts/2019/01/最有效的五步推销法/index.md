@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: clothing-store-984396_1920
   image: /wp-content/uploads/2020/08/clothing-store-984396_1920.jpg

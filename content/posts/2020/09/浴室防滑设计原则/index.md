@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 cover:
   alt: bathroom-1336167_1920
   image: /wp-content/uploads/2020/09/bathroom-1336167_1920.jpg

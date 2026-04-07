@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - g:-games
+categories:
+  - g-games
 date: "2011-07-12T00:29:47+00:00"
 summary: |-
   ![](/wp-content/uploads/2011/07/wow-design.jpg)

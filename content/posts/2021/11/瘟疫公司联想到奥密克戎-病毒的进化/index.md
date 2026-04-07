@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: 瘟疫公司联想到奥密克戎
   image: /wp-content/uploads/2022/04/earth-4988154_1920.jpg

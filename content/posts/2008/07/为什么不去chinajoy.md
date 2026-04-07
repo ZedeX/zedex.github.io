@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - z:-zorro
+categories:
+  - z-zorro
 date: "2008-07-17T14:22:52+00:00"
 title: 为什么不去ChinaJoy？
 ---

@@ -1,8 +1,8 @@
 ---
 author: zx
-category:
-  - e:-english
-  - f:-feelings
+categories:
+  - e-english
+  - f-feelings
 date: "2013-05-26T13:19:00+00:00"
 title: Tell me sky
 ---

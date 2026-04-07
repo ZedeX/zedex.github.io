@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - k:-kao
+categories:
+  - k-kao
 cover:
   alt: news-1172463_1920
   image: /wp-content/uploads/2020/01/news-1172463_1920.jpg

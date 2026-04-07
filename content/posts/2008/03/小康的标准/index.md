@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - l:-life
+categories:
+  - l-life
 cover:
   alt: bear-3214226_1920
   image: /wp-content/uploads/2008/03/bear-3214226_1920.jpg

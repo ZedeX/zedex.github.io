@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - w:-5w1h
+categories:
+  - w-5w1h
 cover:
   alt: vaccine-4932430_1920
   image: /wp-content/uploads/2020/03/vaccine-4932430_1920.jpg
