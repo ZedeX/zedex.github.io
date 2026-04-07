@@ -28,12 +28,26 @@ pygmentsUseClasses = true
 
 [params]
   env = "production"
-  description = "At a glance"
+  description = "ZedeX - 分享技术、文化、生活与思考"
+  keywords = ["技术", "文化", "生活", "互联网", "游戏", "音乐", "阅读", "学习", "ZedeX"]
+  author = "zx"
   DateFormat = "2006-01-02"
+  contentLicense = "All Rights Reserved"
 
   # 首页显示文章数量
   showAllPostsOnHomePage = false
   paginate = 10
+
+  # Schema.org 配置
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://github.com/ZedeX"
+    ]
+
+  # 社交媒体配置
+  [params.social]
+    twitter = "ZedeX"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

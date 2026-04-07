@@ -1,0 +1,188 @@
+{{/* Enhanced Schema.org for SEO and AEO */}}
+
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "{{ site.Home.Permalink }}#website",
+      "url": "{{ site.Home.Permalink }}",
+      "name": {{ site.Title }},
+      "description": {{ site.Params.description | plainify }},
+      "inLanguage": "{{ .Language.Lang | default "zh-CN" }}",
+      "publisher": {
+        "@id": "{{ site.Home.Permalink }}#organization"
+      }
+    },
+    {
+      "@type": "{{ site.Params.schema.publisherType | default "Organization" }}",
+      "@id": "{{ site.Home.Permalink }}#organization",
+      "name": {{ site.Title }},
+      "url": "{{ site.Home.Permalink }}",
+      "description": {{ site.Params.description | plainify }},
+      {{- if (eq site.Params.schema.publisherType "Person") }}
+      "image": "{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}",
+      {{- else }}
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}"
+      },
+      {{- end }}
+      "sameAs": [
+        {{- if site.Params.schema.sameAs }}
+          {{ range $i, $e := site.Params.schema.sameAs }}{{ if $i }}, {{ end }}{{ trim $e " " }}{{ end }}
+        {{- else if site.Params.SocialIcons }}
+          {{ range $i, $e := site.Params.SocialIcons }}{{ if $i }}, {{ end }}{{ trim $e.url " " | safeURL }}{{ end }}
+        {{- end}}
+      ],
+      "knowsAbout": [
+        "技术",
+        "文化",
+        "生活",
+        "互联网",
+        "游戏",
+        "音乐",
+        "阅读",
+        "学习"
+      ],
+      "publishingPrinciples": "https://zedex.cn/pages/本站简介/"
+    },
+    {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "{{ site.Home.Permalink }}search/?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  ]
+}
+</script>
+{{- else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}#webpage",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title | plainify }}",
+      "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }},
+      "inLanguage": "{{ .Language.Lang | default "zh-CN" }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",
+      "isPartOf": {
+        "@id": "{{ site.Home.Permalink }}#website"
+      },
+      "primaryImageOfPage": {
+        "@id": "{{ .Permalink }}#primaryimage"
+      },
+      "breadcrumb": {
+        "@id": "{{ .Permalink }}#breadcrumb"
+      },
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": ["{{ .Permalink }}"]
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "{{ .Permalink }}#primaryimage",
+      "inLanguage": "{{ .Language.Lang | default "zh-CN" }}",
+      "url": {{ with .Params.cover.image }}{{ if (ne $.Params.cover.relative true) }}{{ . | absURL }}{{ else }}{{ (path.Join $.RelPermalink . ) | absURL }}{{ end }}{{ else }}{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}{{ end }},
+      "contentUrl": {{ with .Params.cover.image }}{{ if (ne $.Params.cover.relative true) }}{{ . | absURL }}{{ else }}{{ (path.Join $.RelPermalink . ) | absURL }}{{ end }}{{ else }}{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}{{ end }},
+      {{ with .Params.cover.caption }}"caption": {{ . }},{{ end }}
+      {{ with .Params.cover.alt }}"alternativeHeadline": {{ . }},{{ end }}
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ .Permalink }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "{{ site.Home.Permalink }}"
+        },
+        {{- if .Section }}
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ .Section | humanize }}",
+          "item": "{{ .Section | absURL }}"
+        },
+        {{- end }}
+        {
+          "@type": "ListItem",
+          "position": {{ if .Section }}3{{ else }}2{{ end }},
+          "name": "{{ .Title | plainify }}",
+          "item": "{{ .Permalink }}"
+        }
+      ]
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "{{ .Permalink }}#blogposting",
+      "headline": {{ .Title | plainify }},
+      "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ .Summary | plainify }}{{ end }},
+      "inLanguage": "{{ .Language.Lang | default "zh-CN" }}",
+      "datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" }}",
+      "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" }}",
+      "author": {
+        "@type": "Person",
+        "name": {{ with (.Params.author | default site.Params.author) }}{{ if reflect.IsSlice . }}{{ index . 0 }}{{ else }}{{ . }}{{ end }}{{ else }}"zx"{{ end }}
+      },
+      "publisher": {
+        "@id": "{{ site.Home.Permalink }}#organization"
+      },
+      "image": {
+        "@id": "{{ .Permalink }}#primaryimage"
+      },
+      "thumbnailUrl": {{ with .Params.cover.image }}{{ if (ne $.Params.cover.relative true) }}{{ . | absURL }}{{ else }}{{ (path.Join $.RelPermalink . ) | absURL }}{{ end }}{{ else }}{{ site.Params.assets.favicon | default "favicon.ico" | absURL }}{{ end }},
+      "wordCount": {{ .WordCount }},
+      "timeRequired": "PT{{ .ReadingTime }}M",
+      "keywords": [
+        {{- if .Params.keywords }}
+          {{ range $i, $e := .Params.keywords }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+        {{- else if .Params.tags }}
+          {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}
+        {{- end }}
+      ],
+      "articleSection": {{ with .GetTerms "categories" }}{{ range first 1 . }}{{ .Title }}{{ end }}{{ else }}{{ .Section }}{{ end }},
+      "mainEntityOfPage": {
+        "@id": "{{ .Permalink }}#webpage"
+      },
+      "isAccessibleForFree": true,
+      "copyrightYear": {{ .PublishDate.Year }},
+      "license": "https://zedex.cn/pages/本站简介/"
+    }
+  ]
+}
+</script>
+{{- else if .IsNode }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ .Permalink }}#collectionpage",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title | plainify }}",
+      "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ site.Params.description | plainify }}{{ end }},
+      "inLanguage": "{{ .Language.Lang | default "zh-CN" }}",
+      "isPartOf": {
+        "@id": "{{ site.Home.Permalink }}#website"
+      }
+    }
+  ]
+}
+</script>
+{{- end }}

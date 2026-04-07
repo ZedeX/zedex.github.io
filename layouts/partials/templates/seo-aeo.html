@@ -1,0 +1,44 @@
+{{/* AI-Friendly Meta Tags (AEO) */}}
+<meta name="ai-summary" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="ai-content-type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+
+{{/* Additional OpenGraph for AI */}}
+<meta property="og:article:word_count" content="{{ .WordCount }}">
+<meta property="og:article:reading_time" content="{{ .ReadingTime }}">
+
+{{/* AI Author and Attribution */}}
+{{- with (.Params.author | default site.Params.author) }}
+<meta name="author" content="{{ if reflect.IsSlice . }}{{ delimit . ", " }}{{ else }}{{ . }}{{ end }}">
+{{- end }}
+
+{{/* Content Freshness */}}
+{{- with .PublishDate }}
+<meta name="publication-date" content="{{ .Format "2006-01-02" }}">
+{{- end }}
+{{- with .Lastmod }}
+<meta name="last-modified" content="{{ .Format "2006-01-02" }}">
+{{- end }}
+
+{{/* Primary Category */}}
+{{- with .GetTerms "categories" }}
+{{- range first 1 . }}
+<meta name="primary-category" content="{{ .Title }}">
+{{- end }}
+{{- end }}
+
+{{/* Language and Region */}}
+<meta name="language" content="{{ .Language.Lang | default "zh" }}">
+<meta name="target-region" content="CN">
+
+{{/* Accessibility */}}
+<meta name="accessibility" content="fullKeyboardControl, screenReaderCompatible">
+
+{{/* Content License */}}
+{{- with site.Params.contentLicense }}
+<meta name="license" content="{{ . }}">
+{{- else }}
+<meta name="license" content="All Rights Reserved">
+{{- end }}
+
+{{/* AI Usage Guidelines */}}
+<meta name="ai-usage-policy" content="https://zedex.cn/pages/本站简介/">
