@@ -26,6 +26,9 @@ buildExpired = false
 enableEmoji = true
 pygmentsUseClasses = true
 
+[taxonomies]
+  category = "categories"
+
 [params]
   env = "production"
   description = "At a glance"
@@ -72,7 +75,7 @@ pygmentsUseClasses = true
   [[menu.main]]
     identifier = "category-guide"
     name = "分类导览"
-    url = "/categories/"
+    url = "/pages/分类导览/"
     weight = 7
   [[menu.main]]
     identifier = "financial-freedom"
