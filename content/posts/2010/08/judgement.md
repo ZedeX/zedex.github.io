@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
   - z-zorro
 date: "2010-08-18T15:45:03+00:00"
 title: Judgement

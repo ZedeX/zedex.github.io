@@ -2,7 +2,7 @@
 author: zx
 categories:
   - d-daily-life
-  - f-feelings
+  - l-life
 date: "2015-05-20T05:14:00+00:00"
 title: 感觉走过都会发出美妙的声音
 ---

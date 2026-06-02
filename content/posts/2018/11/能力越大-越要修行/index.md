@@ -1,7 +1,6 @@
 ---
 author: zx
 categories:
-  - f-feelings
   - l-life
 cover:
   alt: buddha-statues-3434553_1920

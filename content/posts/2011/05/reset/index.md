@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
   - t-tech
 date: "2011-05-16T13:14:47+00:00"
 summary: |-

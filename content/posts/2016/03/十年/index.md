@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2016-03-19T11:04:00+00:00"
 title: 十年
 ---

@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2009-12-31T11:24:02+00:00"
 title: 不做旧年总结和新年计划
 ---

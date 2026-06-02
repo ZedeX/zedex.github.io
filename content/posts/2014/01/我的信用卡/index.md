@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2014-01-18T14:12:00+00:00"
 tag:
   - 情感

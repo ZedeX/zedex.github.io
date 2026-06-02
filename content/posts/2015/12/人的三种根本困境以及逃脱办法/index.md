@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2015-12-15T10:18:00+00:00"
 title: 人的三种根本困境以及逃脱办法
 ---

@@ -1,7 +1,6 @@
 ---
 author: zx
 categories:
-  - f-feelings
   - l-life
 date: "2012-04-29T14:06:17+00:00"
 summary: |-

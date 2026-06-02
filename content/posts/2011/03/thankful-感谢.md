@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2011-03-14T13:09:37+00:00"
 title: Thankful 感谢
 ---

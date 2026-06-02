@@ -2,7 +2,7 @@
 author: zx
 categories:
   - d-daily-life
-  - f-feelings
+  - l-life
 date: "2014-05-15T23:34:00+00:00"
 title: 晨跑路上的花朵
 ---

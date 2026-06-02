@@ -2,7 +2,7 @@
 author: zx
 categories:
   - e-english
-  - f-feelings
+  - l-life
   - m-music
 date: "2011-05-23T13:33:19+00:00"
 summary: |-

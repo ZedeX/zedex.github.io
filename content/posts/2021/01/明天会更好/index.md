@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 cover:
   alt: mmexport1621763109739
   image: /wp-content/uploads/2021/05/mmexport1621763109739.jpg

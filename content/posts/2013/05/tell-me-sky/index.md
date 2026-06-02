@@ -2,7 +2,7 @@
 author: zx
 categories:
   - e-english
-  - f-feelings
+  - l-life
 date: "2013-05-26T13:19:00+00:00"
 title: Tell me sky
 ---

@@ -2,7 +2,7 @@
 author: zx
 categories:
   - d-daily-life
-  - f-feelings
+  - l-life
   - z-zorro
 date: "2018-03-22T10:40:41+00:00"
 title: 呕吐前感

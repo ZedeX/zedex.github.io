@@ -1,7 +1,6 @@
 ---
 author: zx
 categories:
-  - f-feelings
   - l-life
   - p-3ps
 date: "2006-01-04T08:19:16+00:00"

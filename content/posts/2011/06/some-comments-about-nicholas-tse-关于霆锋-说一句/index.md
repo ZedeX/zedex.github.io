@@ -1,7 +1,7 @@
 ---
 author: zx
 categories:
-  - f-feelings
+  - l-life
 date: "2011-06-22T23:12:57+00:00"
 tag:
   - family

@@ -2,7 +2,7 @@
 author: zx
 categories:
   - d-daily-life
-  - f-feelings
+  - l-life
 date: "2016-11-21T16:44:00+00:00"
 title: 苦难的价值
 ---
