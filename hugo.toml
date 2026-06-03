@@ -33,6 +33,7 @@ pygmentsUseClasses = true
   author = "zx"
   DateFormat = "2006-01-02"
   contentLicense = "All Rights Reserved"
+  comments = true
 
   # 首页显示文章数量
   showAllPostsOnHomePage = false
