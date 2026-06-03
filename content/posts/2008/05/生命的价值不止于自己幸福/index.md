@@ -24,9 +24,9 @@ title: 生命的价值不止于自己幸福
 
 **英文版：**(800x600)
 
-![Seism Redcross Donation EN3](seism-redcross-donation-en311.jpg)?  
+[Seism Redcross Donation EN3（图片缺失）]?  
 ![Seism Redcross Donation EN1](seism-redcross-donation-en1.jpg)  
-![Seism Redcross Donation EN2](seism-redcross-donation-en211.jpg)
+[Seism Redcross Donation EN2（图片缺失）]
 
 [红十字会地震捐款Banner PSD源文件打包下载](seism-redcross-donation.zip)
 

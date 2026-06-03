@@ -232,7 +232,7 @@ brew install \
 
 我们希望的终端实现的外观和感觉：
 
-![终端](https://www.robinwieruch.de/static/71f822a5fa11060457ac5df7923c4a1f/2bef9/terminal.png)
+
 
 - 将 iterm2 设为默认术语
 - 首选项->

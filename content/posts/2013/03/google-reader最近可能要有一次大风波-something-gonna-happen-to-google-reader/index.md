@@ -8,7 +8,7 @@ summary: |-
 
   > 如果是这样……你不要悲哀，共和国滴旗帜上有我们血染的风采。
 
-  ![](https://lh6.googleusercontent.com/-yIBITDPn7Po/UUEoS6shxXI/AAAAAAAAIFs/dcwRIYmv_-0/s800/rip_google_reader.jpg)Say goodbye to Google Reader
+  Say goodbye to Google Reader
 tag:
   - google
 title: Google Reader最近可能要有一次大风波? | Something Gonna Happen to Google Reader?
@@ -17,7 +17,7 @@ title: Google Reader最近可能要有一次大风波? | Something Gonna Happen 
 
 > 如果是这样……你不要悲哀，共和国滴旗帜上有我们血染的风采。
 
-![](https://lh6.googleusercontent.com/-yIBITDPn7Po/UUEoS6shxXI/AAAAAAAAIFs/dcwRIYmv_-0/s800/rip_google_reader.jpg)Say goodbye to Google Reader
+Say goodbye to Google Reader
 
 ![In Memory of Google Reader 01](greader-01.png)![In Memory of Google Reader 02](greader-02.png)![In Memory of Google Reader 03](greader-03.png)![In Memory of Google Reader 04](greader-04.png)![In Memory of Google Reader 05](greader-05.png)![In Memory of Google Reader 06](greader-06.png)
 

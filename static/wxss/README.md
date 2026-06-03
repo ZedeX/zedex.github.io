@@ -1,6 +1,6 @@
 # WechatMomentScreenshot
 
-[![HitCount](http://hits.dwyl.io/TransparentLC/WechatMomentScreenshot.svg)](http://hits.dwyl.io/TransparentLC/WechatMomentScreenshot)
+[[HitCount（图片已失效）]](http://hits.dwyl.io/TransparentLC/WechatMomentScreenshot)
 
 朋友圈转发截图生成工具
 

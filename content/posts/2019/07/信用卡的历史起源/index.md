@@ -13,19 +13,19 @@ summary: |-
 
   1、
 
-  ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072706.jpg)
+  
 
   20世纪早期，商品经济发展迅速，各种产品极大丰富。
 
   2、
 
-  ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072707.jpg)
+  
 
   最大的问题是，大部分人买不起这么多新产品。
 
   3、
 
-  ![](https://www.wangbase.com/blogimg/asset/201907/bg2019072708.jpg)
+  
 
   商家于是发明了分期付款。比如，购买汽车时，你不用一次付款，可以分12个月支付。这样就促进了销售。
 
@@ -38,19 +38,19 @@ title: 信用卡的历史起源
 
 1、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072706.jpg)
+
 
 20世纪早期，商品经济发展迅速，各种产品极大丰富。
 
 2、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072707.jpg)
+
 
 最大的问题是，大部分人买不起这么多新产品。
 
 3、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072708.jpg)
+
 
 商家于是发明了分期付款。比如，购买汽车时，你不用一次付款，可以分12个月支付。这样就促进了销售。
 
@@ -58,7 +58,7 @@ title: 信用卡的历史起源
 
 4、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072709.jpg)
+
 
 分期付款虽然促进了销售，但是对商家很麻烦，必须定期向消费者收款，还要承担消费者违约的风险。会计也因此变复杂了，必须安排专门的员工管理分期帐务。
 
@@ -66,7 +66,7 @@ title: 信用卡的历史起源
 
 5、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072710.jpg)
+
 
 1951年，一位商人发起了一个消费者互助组织 Diners Club，只要加入，都可以拿到一张会员卡，可以在会员商店凭卡消费。
 
@@ -76,13 +76,13 @@ title: 信用卡的历史起源
 
 6、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072711.jpg)
+
 
 1958年，加州的美国银行（Bank of America）决定借鉴 Diners Club，发行自己的会员卡 BankAmericard。
 
 7、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072712.jpg)
+
 
 BankAmericard 的最大创新，就是它允许消费者推迟还款，可以日后再还，但必须支付高额利息。相比之下，Diners Club 要求会员当月必须结清所有欠款。这种设计让会员卡变成了有利可图的小额高息贷款业务，它成了美国第一张信用卡。
 
@@ -90,7 +90,7 @@ BankAmericard 的最大创新，就是它允许消费者推迟还款，可以日
 
 8、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072713.jpg)
+
 
 三年之后，该卡终于盈利，并在60年代中期发展成获利丰厚的业务。消费者日益接受这种卡，并提出了一个新的要求：希望在全国范围内使用该卡，而不是只在加州。
 
@@ -98,7 +98,7 @@ BankAmericard 的最大创新，就是它允许消费者推迟还款，可以日
 
 9、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072714.jpg)
+
 
 1966年，美国银行终于想出了扩展到全国的对策。它决定成立一个联盟，加入的银行都能发行 BankAmericard，并且发展商户，每个月跟美国银行进行结算，这样就实现了跨行消费。不管何地，消费者只要看到贴着 BankAmericard 标志的商店，就可以进去刷卡消费。
 
@@ -106,7 +106,7 @@ BankAmericard 的最大创新，就是它允许消费者推迟还款，可以日
 
 10、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072715.jpg)
+
 
 1968年10月，美国银行召集所有成员行开会，讨论怎么解决上面的问题。最后决定成立一家独立的公司，专门负责银行间的信用卡业务。所有成员行发行的都是该公司的卡，且只与该公司进行结算，但每家银行可以用自己的名义发展持卡人和商家。
 
@@ -114,7 +114,7 @@ BankAmericard 的最大创新，就是它允许消费者推迟还款，可以日
 
 11、
 
-![](https://www.wangbase.com/blogimg/asset/201907/bg2019072716.jpg)
+
 
 美国银行发明了信用卡，并主导了早期的全国信用卡业务，加入联盟的银行都要向它付费。那些不愿付费的银行，就开始独立发展自己的信用卡。
 
