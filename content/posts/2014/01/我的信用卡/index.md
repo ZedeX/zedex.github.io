@@ -7,7 +7,7 @@ tag:
   - 情感
 title: 我的信用卡
 ---
-![image](/wp-content/uploads/2014/01/wpid-mmexport1390662815118.jpg)
+![image](wpid-mmexport1390662815118.jpg)
 
 我的信用卡，用了3年了。
 

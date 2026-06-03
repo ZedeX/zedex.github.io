@@ -19,4 +19,4 @@ title: 赞一下支付宝保险业务的陪审团制度
 
 总结：如果说风控和贷后是信贷业务数字化的切入点，准入和理赔就是保险业务数字化的切入点。
 
-![](/wp-content/uploads/2019/05/alipay-insurance-01.jpg)![](/wp-content/uploads/2019/05/alipay-insurance-02.jpg)![](/wp-content/uploads/2019/05/alipay-insurance-03.jpg)
+![](alipay-insurance-01.jpg)![](alipay-insurance-02.jpg)![](alipay-insurance-03.jpg)

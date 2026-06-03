@@ -15,5 +15,5 @@ I "eavesdrop" some other payer in Longua Temple last weekend.
 However, as I had heard, then I would do it.  
 不过，既然听到了，就这么做吧。
 
-![](/wp-content/uploads/2011/07/raining-out-the-window.jpeg)  
+![](raining-out-the-window.jpeg)  
 A Rainy Night (@ #2800 Longhua Rd, Shanghai) 下着雨的夜 (摄于龙华路2800号)

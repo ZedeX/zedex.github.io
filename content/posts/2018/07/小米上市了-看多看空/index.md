@@ -25,12 +25,12 @@ title: 小米上市了，看多看空？
 
 UPDATE1：（2019年7月更新）一年以后，小米的股价一路走低，甚至一点抵抗都没有，真实和想象差距很大，这是为什么呢？
 
-![](/wp-content/uploads/2018/07/xiaomi-stock.png)
+![](xiaomi-stock.png)
 
 * * *
 
 UPDATE2：（2020年9月更新）二年以后，小米价格震荡上行，多头排列，我也于第一波上涨之后买入持有，希望小米能更上一层楼~
 
-![](/wp-content/uploads/2020/09/image.png)
+![](image.png)
 
 * * *

@@ -9,7 +9,7 @@ title: 逢春不游乐 但恐是痴人
 
 所以，便发起了 [一个活动](http://www.douban.com/event/10614478/)。这次抓到了 [圆圆老师](http://yuanyuan.info) 及其好友助阵，还约到Paz和桑桑妹，惬意。
 
-[![](rimg1454s600b.jpg)](/wp-content/uploads/2011/07/rimg1454s600b.jpg)
+[![](rimg1454s600b.jpg)](rimg1454s600b.jpg)
 
 圆圆老师的游记主观些，他带来的小张同学是个弹唱高手，不过圆圆老师的吉他不争气，所以大部分清唱，不过难得心情爽朗，亦有所乐。
 

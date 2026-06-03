@@ -370,7 +370,7 @@ eval "$(starship init zsh)"
 
 我们希望通过 IDE 实现的外观和感觉：
 
-![](/wp-content/uploads/2022/05/ide.webp)
+![](ide.webp)
 
 **扩展：**
 

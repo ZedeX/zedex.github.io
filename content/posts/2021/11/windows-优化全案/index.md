@@ -42,7 +42,7 @@ shell:::{05d7b0f4-2121-4eff-bf6b-ed3f69b894d9}
 
 Windows11系统，右键菜单默认是折叠的，下面介绍如何将右键菜单恢复到Windows10（展开）模式。
 
-![](/wp-content/uploads/2022/07/image.png)
+![](image.png)
 
 解决方案：通过注册表修改
 

@@ -27,4 +27,4 @@ FFX的开场曲，主角们在篝火旁围坐成一圈，男主角Tidus起身来
 
 To Zanarkand就像是马上要进行一段漫长艰苦旅程，大家对即将到来的大战和未知的结局，心中不安，但又毅然决然的面对。不畏惧宿命，只担心对方的心情。
 
-![To Zanarkand](/wp-content/uploads/2013/11/Amano-ToZanarkand.jpg)
+![To Zanarkand](Amano-ToZanarkand.jpg)

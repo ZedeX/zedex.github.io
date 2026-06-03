@@ -27,4 +27,4 @@ title: PMP复习考试纪录
 
 终于在今天收到了PMI的邮件通知，取得了1P3M的结果。投入回报率很高。
 
-![PMP1](/wp-content/uploads/2013/07/PMP1.png)![PMP2](/wp-content/uploads/2013/07/PMP2.png)
+![PMP1](PMP1.png)![PMP2](PMP2.png)

@@ -41,4 +41,4 @@ title: RESET
 所以会定期“不插电”，让电脑失忆，仅保留最初某一时刻GHOST好的干净备份，然后RESET。
 
 如果我的回忆也能如此该多好啊！  
-![](/wp-content/uploads/2011/07/lonely.jpeg)
+![](lonely.jpeg)

@@ -3,10 +3,10 @@ author: zx
 categories:
   - v-voyage
 date: "2011-06-09T23:39:05+00:00"
-summary: '[![田子坊](cimg7639.jpg?w=300)](/wp-content/uploads/2011/07/cimg7639.jpg)被渲染过渡的一方天地，老外聚集。小摊都是淘宝货，缺乏文化沉积。速食文化惨兮，糊弄老外而已。'
+summary: '[![田子坊](cimg7639.jpg?w=300)](cimg7639.jpg)被渲染过渡的一方天地，老外聚集。小摊都是淘宝货，缺乏文化沉积。速食文化惨兮，糊弄老外而已。'
 title: Tian Zi Fang | 田子坊
 ---
-[![田子坊](cimg7639.jpg?w=300)](/wp-content/uploads/2011/07/cimg7639.jpg)  
+[![田子坊](cimg7639.jpg?w=300)](cimg7639.jpg)  
 被渲染过渡的一方天地，老外聚集。小摊都是淘宝货，缺乏文化沉积。速食文化惨兮，糊弄老外而已。  
 
 * * *

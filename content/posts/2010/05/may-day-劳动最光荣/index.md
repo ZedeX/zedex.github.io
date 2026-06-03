@@ -10,4 +10,4 @@ title: May Day 劳动最光荣
 洗衣服，刷鞋子，抖落床单晒被子，扫地擦桌子。  
 修雨伞，补腻子，做完面膜刮胡子，晚上煮饺子。
 
-[![](CIMG6486.jpg)](/wp-content/uploads/2010/05/CIMG6486.jpg)[![](CIMG6488.jpg)](/wp-content/uploads/2010/05/CIMG6488.jpg)[![](CIMG6489.jpg)](/wp-content/uploads/2010/05/CIMG6489.jpg)[![](CIMG6490.jpg)](/wp-content/uploads/2010/05/CIMG6490.jpg)
+[![](CIMG6486.jpg)](CIMG6486.jpg)[![](CIMG6488.jpg)](CIMG6488.jpg)[![](CIMG6489.jpg)](CIMG6489.jpg)[![](CIMG6490.jpg)](CIMG6490.jpg)

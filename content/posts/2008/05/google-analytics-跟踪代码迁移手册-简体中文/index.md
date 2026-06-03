@@ -33,6 +33,6 @@ Google Analytics 跟踪代码迁移手册
 
 下载地址：英文原版（已失效）  
 简体中文版下载页面  
-[备用存档-Google Analytics迁移手册简体中文版](./wp-content/uploads/2008/05/gatcmigrationguidecn.pdf "点击这里使用备用存档下载Google Analytics迁移手册简体中文版")
+[备用存档-Google Analytics迁移手册简体中文版](.gatcmigrationguidecn.pdf "点击这里使用备用存档下载Google Analytics迁移手册简体中文版")
 
 想要转载的朋友，请先跟在下通告一声，谢谢。

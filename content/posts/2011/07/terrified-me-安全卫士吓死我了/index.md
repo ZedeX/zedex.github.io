@@ -8,7 +8,7 @@ summary: |-
 
   今天在用360安全卫士给自己的电脑体检的时候，出现了惊人的一幕：
 
-  ![](/wp-content/uploads/2011/07/360-terrified-me.png)
+  ![](360-terrified-me.png)
 
   居然遇到了史上最低得分：鸭蛋。鼓掌撒花~
 
@@ -21,7 +21,7 @@ title: 360 Terrified Me | 360安全卫士吓死我了~
 
 今天在用360安全卫士给自己的电脑体检的时候，出现了惊人的一幕：
 
-![](/wp-content/uploads/2011/07/360-terrified-me.png)
+![](360-terrified-me.png)
 
 居然遇到了史上最低得分：鸭蛋。鼓掌撒花~
 

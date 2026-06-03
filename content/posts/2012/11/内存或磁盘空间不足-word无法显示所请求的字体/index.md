@@ -10,11 +10,11 @@ title: 内存或磁盘空间不足 Word无法显示所请求的字体
 ---
 最近整理字体，整理好之后将所有字体安装到系统中备用，今日打开Office Word程序时，却收到这样的警告：
 
-![内存或磁盘空间不足 Word无法显示所请求的字体](/wp-content/uploads/2013/02/out-of-memory-microsoft-office-word-font-request-1.png)
+![内存或磁盘空间不足 Word无法显示所请求的字体](out-of-memory-microsoft-office-word-font-request-1.png)
 
 同时Word中只有最基本的几个字体了。
 
-![out-of-memory-microsoft-office-word-font-request](/wp-content/uploads/2013/02/out-of-memory-microsoft-office-word-font-request-2.png)
+![out-of-memory-microsoft-office-word-font-request](out-of-memory-microsoft-office-word-font-request-2.png)
 
 后来将虚拟磁盘设置扩大，并且把不常用的字体卸载掉，才解决这个问题。
 

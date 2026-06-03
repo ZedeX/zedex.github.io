@@ -8,7 +8,7 @@ summary: |-
 
   解决方法有2个，第一个是直接在系统设置里，或者注册表里改系统日期和时间格式，如图所示：
 
-  ![](/wp-content/uploads/2019/12/change-date-format-1.png)![](/wp-content/uploads/2019/12/change-date-format-2.png)
+  ![](change-date-format-1.png)![](change-date-format-2.png)
 
   或直接导入注册表：（请将以下文字保存为“日期时间格式.reg”文件）
 
@@ -30,7 +30,7 @@ title: 如何让DOS输出的日期和时间在只有单字符时补0
 
 解决方法有2个，第一个是直接在系统设置里，或者注册表里改系统日期和时间格式，如图所示：
 
-![](/wp-content/uploads/2019/12/change-date-format-1.png)![](/wp-content/uploads/2019/12/change-date-format-2.png)
+![](change-date-format-1.png)![](change-date-format-2.png)
 
 或直接导入注册表：（请将以下文字保存为“日期时间格式.reg”文件）
 

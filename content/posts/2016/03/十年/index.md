@@ -25,7 +25,7 @@ title: 十年
 伴着我  
 携手同行
 
-![image](/wp-content/uploads/2016/03/mmexport1459422273849.jpg)
+![image](mmexport1459422273849.jpg)
 
 昔日的小伙伴都成了各行业的顶梁柱 欣慰
 

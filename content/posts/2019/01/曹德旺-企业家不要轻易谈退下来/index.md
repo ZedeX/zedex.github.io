@@ -16,7 +16,7 @@ summary: |-
 
   最近看到了曹老在《开讲啦》的采访，全文保存，时常翻看。
 
-  ![](/wp-content/uploads/2020/10/caodewang.jpg)
+  ![](caodewang.jpg)
 
   * * *
 
@@ -44,7 +44,7 @@ title: 曹德旺：企业家不要轻易谈退下来
 
 最近看到了曹老在《开讲啦》的采访，全文保存，时常翻看。
 
-![](/wp-content/uploads/2020/10/caodewang.jpg)
+![](caodewang.jpg)
 
 * * *
 

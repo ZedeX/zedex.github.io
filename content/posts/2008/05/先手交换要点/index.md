@@ -10,7 +10,7 @@ summary: |-
 
   举例：
 
-  ![俗手](/wp-content/uploads/2011/07/sushou1.png)
+  ![俗手](sushou1.png)
 title: 先手交换要点
 ---
 1. 不要存在“有先手就先交换掉，反正我走一个对方陪一个”的观点；
@@ -19,7 +19,7 @@ title: 先手交换要点
 
 举例：
 
-![俗手](/wp-content/uploads/2011/07/sushou1.png)
+![俗手](sushou1.png)
 
 这段棋白棋左侧很脆弱，黑棋虽无眼位但出路较广，不必担心死活，如果黑棋为走先手走成如下形状：
 

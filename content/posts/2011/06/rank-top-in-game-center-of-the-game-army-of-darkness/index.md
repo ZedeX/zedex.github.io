@@ -7,7 +7,7 @@ tag:
   - game
 title: Rank Top 1 in Game Center of the game Army of Darkness
 ---
-[![](img_0645.jpg)](/wp-content/uploads/2011/07/img_0645.jpg)![Unlock All Achievement in Game Center of the Game Army of Darkness](/wp-content/uploads/2011/07/img_0641.jpg)[![](img_0642.jpg)](/wp-content/uploads/2011/07/img_0642.jpg)
+[![](img_0645.jpg)](img_0645.jpg)![Unlock All Achievement in Game Center of the Game Army of Darkness](img_0641.jpg)[![](img_0642.jpg)](img_0642.jpg)
 
 Since there're limit time for me to play games. More time was spent on the common ground in different games, and try to find something beyond the game. And there are. I'll try to explain some of them in a series of entries later on.
 

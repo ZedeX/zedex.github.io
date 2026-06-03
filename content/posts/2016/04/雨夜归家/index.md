@@ -10,4 +10,4 @@ title: 雨夜归家
 雨夜归家路漫漫  
 幸好有你相伴
 
-![image](/wp-content/uploads/2016/05/wp-1463240753807.jpg)
+![image](wp-1463240753807.jpg)

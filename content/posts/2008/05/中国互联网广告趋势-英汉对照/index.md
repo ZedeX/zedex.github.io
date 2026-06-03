@@ -12,7 +12,7 @@ summary: |-
 
   关于中国互联网广告趋势我个人的看法
 
-  ![Internet Advertising Trends](/wp-content/uploads/2011/07/webmarketingtrends.gif)![互联网广告趋势](/wp-content/uploads/2011/07/webmarketingtrendscn.jpg)
+  ![Internet Advertising Trends](webmarketingtrends.gif)![互联网广告趋势](webmarketingtrendscn.jpg)
 
   ## **Internet Advertising Trend No. 1:Using the power of individual expression**
 title: 中国互联网广告趋势2008（英汉对照）
@@ -27,7 +27,7 @@ My personal view on trends I see for the Chinese Internet advertising in 2008:
 
 关于中国互联网广告趋势我个人的看法
 
-![Internet Advertising Trends](/wp-content/uploads/2011/07/webmarketingtrends.gif)![互联网广告趋势](/wp-content/uploads/2011/07/webmarketingtrendscn.jpg)
+![Internet Advertising Trends](webmarketingtrends.gif)![互联网广告趋势](webmarketingtrendscn.jpg)
 
 ##   
 **Internet Advertising Trend No. 1:  

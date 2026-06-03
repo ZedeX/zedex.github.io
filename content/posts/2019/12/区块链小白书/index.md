@@ -228,7 +228,7 @@ title: 区块链小白书
 
 十年前，比特币网络刚刚运行的时候，参与人数少，总算力也很低，那时候随便用一台笔记本电脑就可以 “挖” 出很多比特币 —— 当然，那时候的比特币也不值钱…… 第一笔比特币交易是，有人用1万个比特币买了一个披萨！
 
-![](/wp-content/uploads/2019/12/hash-rate.png)![](/wp-content/uploads/2019/12/hash-rate.png)
+![](hash-rate.png)![](hash-rate.png)
 
 > 上图来自： [https://www.blockchain.com/charts/hash-rate?timespan=all](https://www.blockchain.com/charts/hash-rate?timespan=all)
 
@@ -238,7 +238,7 @@ title: 区块链小白书
 
 如果你能把比特币（BTC）理解为 “一个叫做比特币（Bitcoin）的分布式世界银行应用” 的股票，那么就比较容易理解比特币（BTC）的价格上涨趋势了。
 
-![](/wp-content/uploads/2019/12/market-price-usd.png)
+![](market-price-usd.png)
 
 > 上图来自 [https://www.blockchain.com/charts/market-price?timespan=all](https://www.blockchain.com/charts/market-price?timespan=all)
 

@@ -14,7 +14,7 @@ title: 开启了HTTPS服务
 
 就是这么简单
 
-![](/wp-content/uploads/2019/06/cdn-zedex.png)
+![](cdn-zedex.png)
 
 但是访问时还是会被Chrome浏览器定义为“不安全的访问”。经查，是由于CDN默认没有开启https协议服务，开启一下，然后等待CDN同步，一切就都搞定了。
 

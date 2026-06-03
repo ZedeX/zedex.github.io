@@ -5,7 +5,7 @@ categories:
 date: "2010-09-16T08:41:24+00:00"
 title: This day next year
 ---
-![happy birthday](/wp-content/uploads/2011/07/happy_birthday.jpg)
+![happy birthday](happy_birthday.jpg)
 
 I've been near thirty, hard to believe that. Everyday this day comes, I call my mom and hug her in the phone. But today, I'm gotta do that in real world. Thanks, mum.
 

@@ -27,7 +27,7 @@ title: Need a Job
 
 如果愿意更深入了解的，可以看看 [我的简历](https://docs.google.com/Doc?docid=dh2dr64_126d5znjwc3)，或者直接打电话：①⑤⑨②①⑤〇②④⑤③，找xx。电面、见面均可。非诚也可以扰。
 
-![这个可以扰](/wp-content/uploads/2011/07/167_1236784722xz081.jpg)  
+![这个可以扰](167_1236784722xz081.jpg)  
 结束。
 
 --

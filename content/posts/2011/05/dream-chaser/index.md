@@ -7,7 +7,7 @@ date: "2011-05-24T15:50:49+00:00"
 summary: |-
   It's time to chase my dream.
 
-  ![](/wp-content/uploads/2011/07/dream-chaser.jpeg)
+  ![](dream-chaser.jpeg)
 
   * * *
 
@@ -16,7 +16,7 @@ title: Dream Chaser
 ---
 It's time to chase my dream.
 
-![](/wp-content/uploads/2011/07/dream-chaser.jpeg)
+![](dream-chaser.jpeg)
 
 * * *
 

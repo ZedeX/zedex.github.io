@@ -6,7 +6,7 @@ categories:
 date: "2013-05-26T13:19:00+00:00"
 title: Tell me sky
 ---
-![image](/wp-content/uploads/2014/01/wpid-IMG_20140116_201004.jpg)![image](/wp-content/uploads/2014/01/wpid-IMG_20140116_202332_HDR.jpg)
+![image](wpid-IMG_20140116_201004.jpg)![image](wpid-IMG_20140116_202332_HDR.jpg)
 
 Come closer, to touch the sky.  
 What's the feeling when touching it?  

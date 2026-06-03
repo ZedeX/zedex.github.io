@@ -5,7 +5,7 @@ categories:
 date: "2011-05-30T10:17:04+00:00"
 title: Just Before You Fly Abroad Across the Pacific | 就在你飞往大洋彼岸的前几天
 ---
-![就在你飞往大洋彼岸的前几天](/wp-content/uploads/2011/07/12348857200.jpg)
+![就在你飞往大洋彼岸的前几天](12348857200.jpg)
 
 * * *
 

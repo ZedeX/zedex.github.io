@@ -30,4 +30,4 @@ title: 呼吁为毛玉国捐款
 >
 > 毕业后十几年没见，看到他如今儿女双全也替他高兴。希望能够乐观面对，坚守希望，积极治疗，早日康复！
 
-![](/wp-content/uploads/2018/12/181206-myg-donation-02.jpg)![](/wp-content/uploads/2018/12/181206-myg-donation-03.jpg)
+![](181206-myg-donation-02.jpg)![](181206-myg-donation-03.jpg)

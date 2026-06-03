@@ -31,4 +31,4 @@ title: 多转一圈的人
 
 “是呀~”
 
-![](/wp-content/uploads/2022/04/dance-4782870_1920.jpg)
+![](dance-4782870_1920.jpg)

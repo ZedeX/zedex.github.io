@@ -7,7 +7,7 @@ title: 2010世博会之旅
 ---
 托Paz同学的福，得以赶在开幕前就瞻仰到宣传了近一年的世博盛世。
 
-[![世博会门票（正面）](cimg6248.jpg)](/wp-content/uploads/2011/07/cimg6248.jpg)[![世博会门票（背面）](cimg6248.jpg)](/wp-content/uploads/2011/07/cimg6248.jpg)
+[![世博会门票（正面）](cimg6248.jpg)](cimg6248.jpg)[![世博会门票（背面）](cimg6248.jpg)](cimg6248.jpg)
 
 Paz同学贪睡的程度比家父有过之无不及，几近中午才姗姗来迟。
 

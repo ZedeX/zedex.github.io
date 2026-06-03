@@ -16,7 +16,7 @@ var player = new WGo.Player({elem: document.getElementById("wgo-sgf-20100329"),s
 
 [下载棋谱](20100329.sgf)
 
-[![对弈：变幻莫测 图](20100329-1.png)](/wp-content/uploads/2010/03/20100329-1.png)
+[![对弈：变幻莫测 图](20100329-1.png)](20100329-1.png)
 
 变幻莫测 图  
 执黑终盘 胜5.5目  

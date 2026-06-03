@@ -6,7 +6,7 @@ categories:
 date: "2016-03-09T10:16:00+00:00"
 title: AlphaGo的奇迹
 ---
-![image](/wp-content/uploads/2016/03/mmexport1459419362294.jpg)
+![image](mmexport1459419362294.jpg)
 
 今日我走在回家的路上，心情依旧平静，却又有些激动。
 

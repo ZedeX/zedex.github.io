@@ -7,13 +7,13 @@ title: 第一件奢侈品
 ---
 是 [Ermenegildo Zegna](http://en.wikipedia.org/wiki/Ermenegildo_Zegna) 的男士钱包。
 
-- [![](cimg3112.jpg)](/wp-content/uploads/2011/07/cimg3112.jpg)
-- [![](cimg3114.jpg)](/wp-content/uploads/2011/07/cimg3114.jpg)
-- [![](cimg3115.jpg)](/wp-content/uploads/2011/07/cimg3115.jpg)
-- [![](cimg3116.jpg)](/wp-content/uploads/2011/07/cimg3116.jpg)
-- [![](cimg3117.jpg)](/wp-content/uploads/2011/07/cimg3117.jpg)
-- [![](cimg3118.jpg)](/wp-content/uploads/2011/07/cimg3118.jpg)
-- [![](cimg3121.jpg)](/wp-content/uploads/2011/07/cimg3121.jpg)
-- [![](cimg3125.jpg)](/wp-content/uploads/2011/07/cimg3125.jpg)
-- [![](cimg3111.jpg)](/wp-content/uploads/2011/07/cimg3111.jpg)
-- [![](cimg3111.jpg)](/wp-content/uploads/2011/07/cimg3111.jpg)
+- [![](cimg3112.jpg)](cimg3112.jpg)
+- [![](cimg3114.jpg)](cimg3114.jpg)
+- [![](cimg3115.jpg)](cimg3115.jpg)
+- [![](cimg3116.jpg)](cimg3116.jpg)
+- [![](cimg3117.jpg)](cimg3117.jpg)
+- [![](cimg3118.jpg)](cimg3118.jpg)
+- [![](cimg3121.jpg)](cimg3121.jpg)
+- [![](cimg3125.jpg)](cimg3125.jpg)
+- [![](cimg3111.jpg)](cimg3111.jpg)
+- [![](cimg3111.jpg)](cimg3111.jpg)

@@ -3,14 +3,14 @@ author: zx
 categories:
   - z-zorro
 date: "2011-04-24T07:14:22+00:00"
-summary: It takes a really long time to make me realize and accept that I'm just an ordinary being, like everybody else.[![](greenland-xujiahui.jpg)](/wp-content/uploads/2011/07/greenland-xujiahui.jpg)Greenland Xujiahui Shanghai
+summary: It takes a really long time to make me realize and accept that I'm just an ordinary being, like everybody else.[![](greenland-xujiahui.jpg)](greenland-xujiahui.jpg)Greenland Xujiahui Shanghai
 tag:
   - lifestyle
   - thinking
 title: I'm Just an Ordinary Human Being
 ---
 It takes a really long time to make me realize and accept that I'm just an ordinary being, like everybody else.  
-[![](greenland-xujiahui.jpg)](/wp-content/uploads/2011/07/greenland-xujiahui.jpg)  
+[![](greenland-xujiahui.jpg)](greenland-xujiahui.jpg)  
 Greenland Xujiahui Shanghai
 
 * * *

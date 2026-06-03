@@ -9,4 +9,4 @@ title: 不做旧年总结和新年计划
 
 现在找个借口不过年，是为了以后不找借口天天过年。
 
-[![](cimg6025.jpg)](/wp-content/uploads/2011/07/cimg6025.jpg)
+[![](cimg6025.jpg)](cimg6025.jpg)

@@ -5,7 +5,7 @@ categories:
 date: "2010-01-08T05:14:09+00:00"
 title: 一个好消息
 ---
-![](/wp-content/uploads/2011/07/congrates-to-my-first-love.png)
+![](congrates-to-my-first-love.png)
 
 今天早上获悉我的初恋 [通过了国家公务员的笔试](http://www.edu.cn/html/gwy/2010mianshi/771.shtml)，表示祝贺。
 

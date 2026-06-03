@@ -21,6 +21,6 @@ PAUSE
 这段代码的作用是把Cygwin文件夹下的所有文件的所有权都赋予给管理员用户，去除了诸如SYSTEM用户等的权限，然后再直接删除目录即可
 
 第二个方法：在Cygwin安装文件执行的时候，选中uninstall，如图，然后执行安装过程。  
-![](/wp-content/uploads/2019/10/cygwin-uninstall.png)
+![](cygwin-uninstall.png)
 
 使用愉快！

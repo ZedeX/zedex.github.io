@@ -16,4 +16,4 @@ type: 聊天
 
 当然，这还不构成致命威胁。但，消费者行为改变之后，谁又会知道会发生什么呢？
 
-[![image](mmexport1456151973240.jpg)](/wp-content/uploads/2016/02/mmexport1456151973240.jpg)
+[![image](mmexport1456151973240.jpg)](mmexport1456151973240.jpg)

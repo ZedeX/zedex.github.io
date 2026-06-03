@@ -115,7 +115,7 @@ For the [45-day “bootcamp” period](https://open.buffer.com/inside-buffer-
 
 You can see all our salaries, at any time, [at this public spreadsheet](https://docs.google.com/a/bufferapp.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&usp=drive_web#gid=1). Here’s where they stand right now:
 
-[![buffer salaries](https://open.bufferapp.com/wp-content/uploads/2013/12/buffer-salaries.png)](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&usp=gmail#gid=1)
+[![buffer salaries](/wp-content/uploads/2013/12/buffer-salaries.png)](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&usp=gmail#gid=1)
 
 We also make public our [equity formula and full individual breakdown](https://open.buffer.com/buffer-open-equity-formula/ "Introducing Open Equity: Buffer’s Equity Formula and Full Individual Breakdown"). You can see our equity choices and individual percentages on the same spreadsheet.
 
@@ -129,4 +129,4 @@ It feels incredibly liberating to put this out into the open. I’d love your th
 
 原文：https://open.buffer.com/introducing-open-salaries-at-buffer-including-our-transparent-formula-and-all-individual-salaries/
 
-![](/wp-content/uploads/2020/08/gear-384743_1920.jpg)
+![](gear-384743_1920.jpg)

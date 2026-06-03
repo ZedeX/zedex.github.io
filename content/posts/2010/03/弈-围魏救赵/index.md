@@ -14,6 +14,6 @@ custom_comments:
     content: "@Hong Xiaowan 这回可以了，不过是flash的。以后有时间改个JS版的出来。"
     depth: 1
 ---
-[![](20100226.png)](/wp-content/uploads/2010/03/20100226.png)
+[![](20100226.png)](20100226.png)
 
 围魏救赵 图

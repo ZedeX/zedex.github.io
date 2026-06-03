@@ -9,4 +9,4 @@ title: 应急车道被占用
 ○  
 另外，眼看着旁边一辆救护车被堵在应急车道上，警笛声声仿佛索命曲，划破天空般刺耳的无力感，让我终生难忘。
 
-[![image](wpid-mmexport1427217250240.jpg)](/wp-content/uploads/2015/03/wpid-mmexport1427217250240.jpg)
+[![image](wpid-mmexport1427217250240.jpg)](wpid-mmexport1427217250240.jpg)

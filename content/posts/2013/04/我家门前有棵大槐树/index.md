@@ -4,7 +4,7 @@ categories:
   - k-kao
 date: "2013-04-16T07:16:56+00:00"
 summary: |-
-  ![huaishu](/wp-content/uploads/2013/08/huaishu.jpg)。夏天的时候，几家人在树荫下打牌，都不觉得挤。
+  ![huaishu](huaishu.jpg)。夏天的时候，几家人在树荫下打牌，都不觉得挤。
 
   我小的时候也经常在下面玩耍，围着槐树一圈一圈的跑。那时，我经常想知道，这棵树究竟有多大。从树的粗细程度来看，起码得有七八十年吧！
 
@@ -13,7 +13,7 @@ summary: |-
   直到那天，家里告诉我，原来的老房子要动迁了。我赶忙放下工作回到老家。
 title: 我家门前有棵大槐树
 ---
-![huaishu](/wp-content/uploads/2013/08/huaishu.jpg)。  
+![huaishu](huaishu.jpg)。  
 夏天的时候，几家人在树荫下打牌，  
 都不觉得挤。
 

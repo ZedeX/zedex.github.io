@@ -8,7 +8,7 @@ tag:
   - featured
 title: Not Delay 不跳票
 ---
-![NotDelay](/wp-content/uploads/2013/06/NotDelay.jpg)  
+![NotDelay](NotDelay.jpg)  
 Not delay, is an attitude, to the post promises and to the future hopes.
 
 It is a kind of self-confidence, to the telling of macroscopic and to the operation of details.

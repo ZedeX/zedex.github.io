@@ -5,7 +5,7 @@ categories:
   - l-life
 date: "2011-12-07T23:15:11+00:00"
 summary: |-
-  ![](/wp-content/uploads/2011/07/fangchanzheng.jpg)现实是残酷的 许多爱情败在房产证上(图： [罗半仙的倒灌](http://blog.sina.com.cn/s/blog_4c5dd4420100v7dy.html))
+  ![](fangchanzheng.jpg)现实是残酷的 许多爱情败在房产证上(图： [罗半仙的倒灌](http://blog.sina.com.cn/s/blog_4c5dd4420100v7dy.html))
 
   * * *
 
@@ -18,7 +18,7 @@ summary: |-
   买房产权七十年，地皮租赁五十年，个人还贷二十年，花费数百万元。现如今，二十年房龄已破遍，翻修大改年复年，管道生锈水难饮，老鼠乱窜蟑螂玩，能否颐养天年？
 title: Rent, Buy or Other Channel | 租、买，别的渠道
 ---
-![](/wp-content/uploads/2011/07/fangchanzheng.jpg)  
+![](fangchanzheng.jpg)  
 现实是残酷的 许多爱情败在房产证上(图： [罗半仙的倒灌](http://blog.sina.com.cn/s/blog_4c5dd4420100v7dy.html))
 
 * * *

@@ -6,14 +6,14 @@ categories:
   - m-music
 date: "2011-05-23T13:33:19+00:00"
 summary: |-
-  ![money takes elephant](/wp-content/uploads/2011/07/money-takes-elephant.jpeg)Being risk is always an option, if being fun.
+  ![money takes elephant](money-takes-elephant.jpeg)Being risk is always an option, if being fun.
 
   * * *
 
   You guys know I love Cello. I struggled a long time thinking whether bought a cello or not in SH. I didn't buy it. But here in SZ, I got one! Volla!
 title: Cello Bought Finally
 ---
-![money takes elephant](/wp-content/uploads/2011/07/money-takes-elephant.jpeg)  
+![money takes elephant](money-takes-elephant.jpeg)  
 Being risk is always an option, if being fun.
 
 * * *

@@ -10,14 +10,14 @@ title: 我妈当家庭主妇真是可惜
 ---
 当个大厨不好么？
 
-- ![](/wp-content/uploads/2020/07/mmexport1594945963447.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945966315.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945969237.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945974331.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945979461.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945981949.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945984456.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945971679-1.jpg)
-- ![](/wp-content/uploads/2020/07/mmexport1594945976992-1.jpg)
+- ![](mmexport1594945963447.jpg)
+- ![](mmexport1594945966315.jpg)
+- ![](mmexport1594945969237.jpg)
+- ![](mmexport1594945974331.jpg)
+- ![](mmexport1594945979461.jpg)
+- ![](mmexport1594945981949.jpg)
+- ![](mmexport1594945984456.jpg)
+- ![](mmexport1594945971679-1.jpg)
+- ![](mmexport1594945976992-1.jpg)
 
 妈妈的一些手工

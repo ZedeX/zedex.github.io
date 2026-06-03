@@ -16,7 +16,7 @@ var player = new WGo.Player({elem: document.getElementById("wgo-sgf-20100614"),s
 
 [下载棋谱](20100614.sgf)
 
-[![](201006143.png?w=300)](/wp-content/uploads/2011/07/201006143.png)
+[![](201006143.png?w=300)](201006143.png)
 
 理性至上 图  
 执白 胜25.5目

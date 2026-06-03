@@ -8,7 +8,7 @@ summary: |-
 
   【北京】
 
-  ![腾讯搜搜风向标-北京](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-1.png)
+  ![腾讯搜搜风向标-北京](Tencent-soso-top-keywords-1.png)
 
   - 地税出新政策了？
   - 分类导航比较有市场
@@ -21,7 +21,7 @@ summary: |-
 
   【上海】
 
-  ![腾讯搜搜风向标-上海](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-2.png)
+  ![腾讯搜搜风向标-上海](Tencent-soso-top-keywords-2.png)
 
   - 本地门户声势浩大
   - 出门消费和购物是人民生活的主要部分
@@ -36,7 +36,7 @@ title: 随便写写
 
 【北京】
 
-![腾讯搜搜风向标-北京](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-1.png)
+![腾讯搜搜风向标-北京](Tencent-soso-top-keywords-1.png)
 
 - 地税出新政策了？
 - 分类导航比较有市场
@@ -49,7 +49,7 @@ title: 随便写写
 
 【上海】
 
-![腾讯搜搜风向标-上海](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-2.png)
+![腾讯搜搜风向标-上海](Tencent-soso-top-keywords-2.png)
 
 - 本地门户声势浩大
 - 出门消费和购物是人民生活的主要部分
@@ -61,7 +61,7 @@ title: 随便写写
 
 【天津】
 
-![腾讯搜搜风向标-天津](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-3.png)
+![腾讯搜搜风向标-天津](Tencent-soso-top-keywords-3.png)
 
 - 流行换号
 - 女排美女
@@ -74,7 +74,7 @@ title: 随便写写
 
 【重庆】
 
-![腾讯搜搜风向标-重庆](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-4.png)
+![腾讯搜搜风向标-重庆](Tencent-soso-top-keywords-4.png)
 
 - 本地门户
 - 求贤若渴
@@ -88,7 +88,7 @@ title: 随便写写
 
 【黑龙江】
 
-![腾讯搜搜风向标-黑龙江](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-5.png)
+![腾讯搜搜风向标-黑龙江](Tencent-soso-top-keywords-5.png)
 
 - 边境腐败是头等大事
 - 分类导航
@@ -103,7 +103,7 @@ title: 随便写写
 
 【吉林】
 
-![腾讯搜搜风向标-吉林](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-6.png)
+![腾讯搜搜风向标-吉林](Tencent-soso-top-keywords-6.png)
 
 - 本地facebook
 - 彩票
@@ -118,7 +118,7 @@ title: 随便写写
 
 【辽宁】
 
-![腾讯搜搜风向标-辽宁](/wp-content/uploads/2009/12/Tencent-soso-top-keywords-7.png)
+![腾讯搜搜风向标-辽宁](Tencent-soso-top-keywords-7.png)
 
 - 地方门户
 - 评书

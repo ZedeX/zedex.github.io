@@ -19,8 +19,8 @@ title: Google Reader最近可能要有一次大风波? | Something Gonna Happen 
 
 ![](https://lh6.googleusercontent.com/-yIBITDPn7Po/UUEoS6shxXI/AAAAAAAAIFs/dcwRIYmv_-0/s800/rip_google_reader.jpg)Say goodbye to Google Reader
 
-![In Memory of Google Reader 01](/wp-content/uploads/2013/03/greader-01.png)![In Memory of Google Reader 02](/wp-content/uploads/2013/03/greader-02.png)![In Memory of Google Reader 03](/wp-content/uploads/2013/03/greader-03.png)![In Memory of Google Reader 04](/wp-content/uploads/2013/03/greader-04.png)![In Memory of Google Reader 05](/wp-content/uploads/2013/03/greader-05.png)![In Memory of Google Reader 06](/wp-content/uploads/2013/03/greader-06.png)
+![In Memory of Google Reader 01](greader-01.png)![In Memory of Google Reader 02](greader-02.png)![In Memory of Google Reader 03](greader-03.png)![In Memory of Google Reader 04](greader-04.png)![In Memory of Google Reader 05](greader-05.png)![In Memory of Google Reader 06](greader-06.png)
 
 UPDATE: 最后一天的截图：
 
-![Last-Google-Reader-SnapShot](/wp-content/uploads/2013/03/Last-Google-Reader-SnapShot.png)
+![Last-Google-Reader-SnapShot](Last-Google-Reader-SnapShot.png)

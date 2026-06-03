@@ -34,10 +34,10 @@ Here's a list of my favorite:
 - [Yoga HD](http://itunes.apple.com/us/app/all-in-yoga-hd-200-poses-yoga/id386277055): A fully basic Yoga program with video and audio clips.
 - [Pranayama](http://itunes.apple.com/us/app/health-through-breath-pranayama/id341935130): A tool to help you practice deep breathing.
 
-![My iPad Health Apps](/wp-content/uploads/2011/07/ipad-health-apps.jpg)
+![My iPad Health Apps](ipad-health-apps.jpg)
 
 It is really wonderful to see the growth of these numbers.
 
-![200 Squats Graph Log](/wp-content/uploads/2011/07/200squats-graph-log.jpg)
+![200 Squats Graph Log](200squats-graph-log.jpg)
 
 And I can feel my body getting stronger than early. The abdominal and pectorals muscles are coming back!

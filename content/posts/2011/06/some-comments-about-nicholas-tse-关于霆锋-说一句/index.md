@@ -19,6 +19,6 @@ title: Some Comments About Nicholas Tse | 关于霆锋 说一句
 
 更新： 反例，参见绝望主妇S01EP10里Bree怎样对待对她不忠的丈夫的。
 
-![](/wp-content/uploads/2011/07/desperate-housewives-s01ep10-bree-revenge-rex.png)
+![](desperate-housewives-s01ep10-bree-revenge-rex.png)
 
 Bree一定是个天蝎座。

@@ -5,7 +5,7 @@ categories:
 date: "2011-05-31T12:30:36+00:00"
 title: The Playing Generation
 ---
-![](/wp-content/uploads/2011/10/wandade.png)
+![](wandade.png)
 
 We all play electric games once upon a time. Everybody could tell some stories about their childhood in memory of playing electric games. We named ourselves: the playing generation.
 
