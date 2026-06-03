@@ -8,27 +8,27 @@ summary: |-
 
   > **Wind**
   >
-  > Cultivate your hunger before you idealize.{{ double-space-with-newline }}motivate your anger to make them all realize.{{ double-space-with-newline }}Climbing the mountain, never coming down.{{ double-space-with-newline }}Break into the contents, never falling down.
+  > Cultivate your hunger before you idealize.motivate your anger to make them all realize.Climbing the mountain, never coming down.Break into the contents, never falling down.
   >
-  > My knee is still shaking, like i was twelve{{ double-space-with-newline }}sneaking out of the classroom, by the back door.{{ double-space-with-newline }}A man railed at me twice though, but i didn't care.{{ double-space-with-newline }}Waiting is wasting for people like me.
+  > My knee is still shaking, like i was twelvesneaking out of the classroom, by the back door.A man railed at me twice though, but i didn't care.Waiting is wasting for people like me.
   >
-  > Don't try to live so wise.{{ double-space-with-newline }}Don't cry 'cause you're so right.{{ double-space-with-newline }}Don't dry with fakes or fears,{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > Don't try to live so wise.Don't cry 'cause you're so right.Don't dry with fakes or fears,'cause you will hate yourself in the end.
   >
-  > Don't try to live so wise.{{ double-space-with-newline }}Don't cry 'cause you're so right.{{ double-space-with-newline }}Don't dry with fakes or fears,{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > Don't try to live so wise.Don't cry 'cause you're so right.Don't dry with fakes or fears,'cause you will hate yourself in the end.
   >
-  > You say,"dreams are dreams.{{ double-space-with-newline }}I ain't gonna play the fool anymore."{{ double-space-with-newline }}You say,"cause i still got my soul."
+  > You say,"dreams are dreams.I ain't gonna play the fool anymore."You say,"cause i still got my soul."
   >
-  > Take your time, baby, your blood needs slowing down.{{ double-space-with-newline }}Breach your soul to reach yourself before you gloom.{{ double-space-with-newline }}Reflection of fear makes shadows of nothing,{{ double-space-with-newline }}shadows of nothing.
+  > Take your time, baby, your blood needs slowing down.Breach your soul to reach yourself before you gloom.Reflection of fear makes shadows of nothing,shadows of nothing.
   >
-  > You still are blind, if you see a winding road,{{ double-space-with-newline }}'cause there's always a straight way to the point you see.
+  > You still are blind, if you see a winding road,'cause there's always a straight way to the point you see.
   >
-  > Don't try to live so wise.{{ double-space-with-newline }}Don't cry 'cause you're so right.{{ double-space-with-newline }}Don't dry with fakes or fears,{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > Don't try to live so wise.Don't cry 'cause you're so right.Don't dry with fakes or fears,'cause you will hate yourself in the end.
   >
-  > Don't try to live so wise.{{ double-space-with-newline }}Don't cry 'cause you're so right.{{ double-space-with-newline }}Don't dry with fakes or fears,{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > Don't try to live so wise.Don't cry 'cause you're so right.Don't dry with fakes or fears,'cause you will hate yourself in the end.
   >
-  > Don't try to live so wise.{{ double-space-with-newline }}Don't cry 'cause you're so right.{{ double-space-with-newline }}Don't dry with fakes or fears,{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > Don't try to live so wise.Don't cry 'cause you're so right.Don't dry with fakes or fears,'cause you will hate yourself in the end.
   >
-  > 'cause you will hate yourself in the end.{{ double-space-with-newline }}'cause you will hate yourself in the end.{{ double-space-with-newline }}'cause you will hate yourself in the end.{{ double-space-with-newline }}'cause you will hate yourself in the end.
+  > 'cause you will hate yourself in the end.'cause you will hate yourself in the end.'cause you will hate yourself in the end.'cause you will hate yourself in the end.
 title: Wind
 ---
 [http://www.xiami.com/widget/7281/_1768920796/singlePlayer.swf](http://www.xiami.com/widget/7281_1768920796/singlePlayer.swf)

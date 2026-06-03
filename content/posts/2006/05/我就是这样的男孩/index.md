@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: play-2735975_1920
-  image: /wp-content/uploads/2006/05/play-2735975_1920.jpg
+  image: play-2735975_1920.jpg
 date: "2006-05-21T14:12:50+00:00"
 title: 我就是这样的男孩
 ---

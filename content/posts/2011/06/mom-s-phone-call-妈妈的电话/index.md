@@ -10,7 +10,7 @@ summary: |-
 
   家里的电话费有公家报销，而我家的话费又总打不完。
 
-  所以，每次都是等妈妈的电话。{{ double-space-with-newline }}![](/wp-content/uploads/2011/07/phone-call.jpg){{ double-space-with-newline }}
+  所以，每次都是等妈妈的电话。![](/wp-content/uploads/2011/07/phone-call.jpg)
 tag:
   - family
 title: Mom's Phone Call | 妈妈的电话

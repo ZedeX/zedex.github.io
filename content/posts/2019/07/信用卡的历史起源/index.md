@@ -4,7 +4,7 @@ categories:
   - c-culture
 cover:
   alt: money-256314_1920
-  image: /wp-content/uploads/2022/04/money-256314_1920.jpg
+  image: money-256314_1920.jpg
 date: "2019-07-28T13:07:32+00:00"
 summary: |-
   最近，我读到 [一篇文章](http://minesafetydisclosures.com/blog/2019/5/29/part-l-a-history-of-visa)，介绍信用卡的来历，讲得非常清楚，既增长金融知识，又富有趣味。

@@ -4,7 +4,7 @@ categories:
   - u-uncategoried
 cover:
   alt: windows-11-6379123_1920
-  image: /wp-content/uploads/2022/07/windows-11-6379123_1920.png
+  image: windows-11-6379123_1920.png
 date: "2021-11-11T01:40:00+00:00"
 title: Windows  11  优化全案
 ---

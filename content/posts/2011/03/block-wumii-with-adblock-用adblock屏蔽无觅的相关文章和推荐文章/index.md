@@ -6,16 +6,25 @@ date: "2011-03-20T12:46:15+00:00"
 summary: |-
   无觅太多啦，到处无觅，就有觅了。非诚勿扰，屏蔽之。
 
-  熟手直接看 [步骤4](/wp-content/uploads/2011/07/adblock-block-wumii311.png#adblock-wumii-filter)
+  熟手直接看 [步骤4](adblock-block-wumii311.png#adblock-wumii-filter)
 
   方法：
 
   1、安装 [Adblock](http://goo.gl/FTjA9) 之后找到Adblock的Option选项；
 title: Block Wumii with Adblock 用Adblock屏蔽无觅的相关文章和推荐文章
+custom_comments:
+  - author: "tdeathx"
+    date: "2011-05-24"
+    content: "对出现在reader中的表示很无奈"
+    depth: 0
+  - author: "ZX"
+    date: "2011-06-09"
+    content: "的确，这要无觅自己改进才行了。"
+    depth: 1
 ---
 无觅太多啦，到处无觅，就有觅了。非诚勿扰，屏蔽之。
 
-熟手直接看 [步骤4](/wp-content/uploads/2011/07/adblock-block-wumii311.png#adblock-wumii-filter)
+熟手直接看 [步骤4](adblock-block-wumii311.png#adblock-wumii-filter)
 
 方法：
 
@@ -57,4 +66,4 @@ Adblock自己带了个很方便的工具“Block an ad on this page”，有点F
 
 * * *
 
-更新： [屏蔽Google Reader中的无觅广告](/wp-content/uploads/2011/07/adblock-block-wumii311.png?p=6091)
+更新： [屏蔽Google Reader中的无觅广告](adblock-block-wumii311.png?p=6091)

@@ -4,7 +4,7 @@ categories:
   - x-x
 cover:
   alt: jack-ma
-  image: /wp-content/uploads/2019/01/jack-ma.jpeg
+  image: jack-ma.jpeg
 date: "2018-11-23T10:46:14+00:00"
 title: 怎么评价马云？
 ---

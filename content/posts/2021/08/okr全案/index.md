@@ -5,7 +5,7 @@ categories:
   - w-5w1h
 cover:
   alt: OKR Objectives and Key Results word pinned to a desk.
-  image: /wp-content/uploads/2021/08/okr.jpg
+  image: okr.jpg
 date: "2021-08-04T15:27:00+00:00"
 title: OKR全案
 ---

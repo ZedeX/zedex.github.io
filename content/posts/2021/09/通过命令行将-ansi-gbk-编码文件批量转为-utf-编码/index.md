@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: coding-gd12f75a25_1920
-  image: /wp-content/uploads/2022/04/coding-gd12f75a25_1920.jpg
+  image: coding-gd12f75a25_1920.jpg
 date: "2021-09-29T02:00:00+00:00"
 title: 通过命令行将 ANSI/GBK 编码文件批量转为 UTF-8 编码
 ---

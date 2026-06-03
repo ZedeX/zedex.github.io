@@ -11,4 +11,4 @@ title: 培训拾趣
 
 恩，壮观～
 
-[![image](/wp-content/uploads/2016/05/wp-1463242420758.jpg)](/wp-content/uploads/2016/05/wp-1463242420758.jpg)
+[![image](wp-1463242420758.jpg)](/wp-content/uploads/2016/05/wp-1463242420758.jpg)

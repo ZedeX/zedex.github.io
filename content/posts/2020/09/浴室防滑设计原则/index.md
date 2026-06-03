@@ -4,7 +4,7 @@ categories:
   - w-5w1h
 cover:
   alt: bathroom-1336167_1920
-  image: /wp-content/uploads/2020/09/bathroom-1336167_1920.jpg
+  image: bathroom-1336167_1920.jpg
 date: "2020-09-01T02:37:00+00:00"
 title: 浴室防滑设计原则
 ---

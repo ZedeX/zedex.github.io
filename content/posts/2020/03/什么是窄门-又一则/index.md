@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: door-2132807_1920
-  image: /wp-content/uploads/2020/08/door-2132807_1920.jpg
+  image: door-2132807_1920.jpg
 date: "2020-03-16T14:12:15+00:00"
 title: 什么是窄门？又一则
 ---

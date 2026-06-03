@@ -5,7 +5,7 @@ categories:
 date: "2010-04-15T13:28:06+00:00"
 title: 20100415 弈 见好就收
 ---
-[![20100415 对弈 围棋](/wp-content/uploads/2010/04/20100415.png)](/wp-content/uploads/2010/04/20100415.png)
+[![20100415 对弈 围棋](20100415.png)](/wp-content/uploads/2010/04/20100415.png)
 
 见好就收 图  
 执黑中盘胜  

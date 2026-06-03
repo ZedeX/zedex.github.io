@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: laptop-2620118_1920
-  image: /wp-content/uploads/2022/04/laptop-2620118_1920.jpg
+  image: laptop-2620118_1920.jpg
 date: "2021-03-07T13:59:00+00:00"
 title: 小米摄像头视频文件批量合并处理脚本
 ---
@@ -82,7 +82,7 @@ del /f /s /q *.lst
 
 批处理打包下载：
 
-[xiaomi\_camera\_videos\_bat](/wp-content/uploads/2021/06/xiaomi_camera_videos_bat.zip) [下载](/wp-content/uploads/2021/06/xiaomi_camera_videos_bat.zip)
+[xiaomi\_camera\_videos\_bat](xiaomi_camera_videos_bat.zip) [下载](xiaomi_camera_videos_bat.zip)
 
 * * *
 

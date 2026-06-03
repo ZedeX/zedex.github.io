@@ -3,6 +3,7 @@ author: zx
 categories:
   - j-joke
 date: "2011-06-17T23:42:28+00:00"
+draft: true
 title: Longer, Harder, Stronger | 更长 更硬 更强
 ---
 Ha, you got it! It's a wish and maybe a goal. But not mine;)  

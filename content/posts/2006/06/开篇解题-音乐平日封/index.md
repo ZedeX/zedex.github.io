@@ -4,7 +4,7 @@ categories:
   - m-music
 cover:
   alt: 音乐平日封
-  image: /wp-content/uploads/2006/06/record-336626_1920.jpg
+  image: record-336626_1920.jpg
 date: "2006-06-01T13:47:36+00:00"
 title: 开篇解题：音乐平日封
 ---

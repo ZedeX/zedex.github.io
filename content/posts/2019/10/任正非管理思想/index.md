@@ -4,7 +4,7 @@ categories:
   - s-study
 cover:
   alt: logistics-3125136_1920
-  image: /wp-content/uploads/2022/04/logistics-3125136_1920.jpg
+  image: logistics-3125136_1920.jpg
 date: "2019-10-04T14:51:44+00:00"
 summary: |-
   前一段日子，网上出现了一个仓库，收集了华为公司创始人任正非的讲话稿，从1994年直到2018年，一共400多篇。

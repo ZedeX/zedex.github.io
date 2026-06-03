@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: paint-2108185_1920
-  image: /wp-content/uploads/2019/05/paint-2108185_1920.jpg
+  image: paint-2108185_1920.jpg
 date: "2019-05-02T08:52:00+00:00"
 title: 给小朋友报幼儿园
 ---

@@ -49,4 +49,4 @@ title: 平常节第五年：New CT New Star'
 发送短信：34条  
 收到回复：7条
 
-[![](/wp-content/uploads/2011/07/image3.jpg?w=150)](/wp-content/uploads/2011/07/image3.jpg)
+[![](image3.jpg?w=150)](/wp-content/uploads/2011/07/image3.jpg)

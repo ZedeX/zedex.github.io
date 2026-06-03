@@ -22,6 +22,18 @@ summary: |-
   - 显示正确的最大上传文件大小和错误的信息。
   - 增加'rel'属性到下一篇、上一篇博文的链接。（我个人只用'title'）
 title: 也赶个早班车说说WordPress 2.9
+custom_comments:
+  - author: "AlexBlair"
+    date: "2009-12-21"
+    content: |
+      呵呵,不错的更新
+      
+      感谢汉化
+    depth: 0
+  - author: "FlyChina"
+    date: "2010-02-25"
+    content: "客气，有力出力吧。"
+    depth: 1
 ---
 WordPress 2.9 [发布](http://codex.wordpress.org/Version_2.9) 了，新版对MyQL数据库的最低要求，从原来的4.0，更新到4.1.2。不过更多的是用户使用上的变化。意译（拼音首字母是YY）一下：
 

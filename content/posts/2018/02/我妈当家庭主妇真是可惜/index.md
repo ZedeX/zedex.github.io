@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: mmexport1594945974331
-  image: /wp-content/uploads/2020/07/mmexport1594945974331.jpg
+  image: mmexport1594945974331.jpg
 date: "2018-02-17T00:32:00+00:00"
 title: 我妈当家庭主妇真是可惜
 ---

@@ -4,8 +4,9 @@ categories:
   - x-x
 cover:
   alt: onboard-rmb-history
-  image: /wp-content/uploads/2019/09/onboard-rmb-history.png
+  image: onboard-rmb-history.png
 date: "2019-09-15T15:56:19+00:00"
+draft: true
 summary: |-
   按：这篇文章简单介绍了离岸人民币形成的历史背景、原因、机制等科普，适合小白阅读。
 

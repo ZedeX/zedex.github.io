@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: woman-1807533_1920
-  image: /wp-content/uploads/2020/08/woman-1807533_1920.jpg
+  image: woman-1807533_1920.jpg
 date: "2020-05-31T15:55:03+00:00"
 title: “你快乐所以我快乐”的三重境界
 ---

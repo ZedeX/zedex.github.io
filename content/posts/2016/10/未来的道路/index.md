@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: 未来的道路
-  image: /wp-content/uploads/2019/05/highway-3212540_1920.jpg
+  image: highway-3212540_1920.jpg
 date: "2016-10-10T08:25:23+00:00"
 title: 未来的道路
 ---

@@ -6,7 +6,7 @@ categories:
   - t-tech
 cover:
   alt: tech-5090539_1920
-  image: /wp-content/uploads/2022/04/tech-5090539_1920.jpg
+  image: tech-5090539_1920.jpg
 date: "2020-11-09T14:49:00+00:00"
 title: 《关于平台经济领域反垄断指南》利好的项目
 ---

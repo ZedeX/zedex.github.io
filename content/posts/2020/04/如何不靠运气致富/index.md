@@ -4,7 +4,7 @@ categories:
   - o-opportunities
 cover:
   alt: investment-2400559_1920
-  image: /wp-content/uploads/2020/05/investment-2400559_1920.jpg
+  image: investment-2400559_1920.jpg
 date: "2020-04-20T00:50:40+00:00"
 summary: |-
   1\. Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.

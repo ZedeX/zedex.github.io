@@ -4,7 +4,7 @@ categories:
   - w-5w1h
 cover:
   alt: vaccine-4932430_1920
-  image: /wp-content/uploads/2020/03/vaccine-4932430_1920.jpg
+  image: vaccine-4932430_1920.jpg
 date: "2020-01-20T07:16:37+00:00"
 title: 关于冠状病毒的思考
 ---

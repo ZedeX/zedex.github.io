@@ -4,7 +4,7 @@ categories:
   - d-daily-life
 cover:
   alt: pots-716579_1920
-  image: /wp-content/uploads/2018/10/pots-716579_1920.jpg
+  image: pots-716579_1920.jpg
 date: "2018-10-07T10:26:38+00:00"
 title: 十一生活小结
 ---

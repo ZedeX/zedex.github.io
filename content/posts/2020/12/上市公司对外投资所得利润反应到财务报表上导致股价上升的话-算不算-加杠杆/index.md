@@ -5,7 +5,7 @@ categories:
   - w-5w1h
 cover:
   alt: 投资的风险
-  image: /wp-content/uploads/2020/12/analysis-4937349_1920.jpg
+  image: analysis-4937349_1920.jpg
 date: "2020-12-03T02:00:53+00:00"
 title: 上市公司对外投资所得利润反应到财务报表上导致股价上升的话，算不算“加杠杆”
 ---

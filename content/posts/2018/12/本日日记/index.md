@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: imac-605421_1920
-  image: /wp-content/uploads/2019/05/imac-605421_1920.jpg
+  image: imac-605421_1920.jpg
 date: "2018-12-31T15:06:37+00:00"
 title: 181231-本日日记
 ---

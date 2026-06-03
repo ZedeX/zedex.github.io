@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: cyber-glasses-4685055_960_720
-  image: /wp-content/uploads/2023/02/cyber-glasses-4685055_960_720.jpg
+  image: cyber-glasses-4685055_960_720.jpg
 date: "2022-02-22T14:22:00+00:00"
 title: 视频点播类服务和CDN服务的区别
 ---

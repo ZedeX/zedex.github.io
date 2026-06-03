@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: 信仰
-  image: /wp-content/uploads/2019/05/monk-555391_1920.jpg
+  image: monk-555391_1920.jpg
 date: "2016-09-16T11:37:12+00:00"
 summary: |-
   本篇是 [我在知乎的回答](https://www.zhihu.com/question/38518954/answer/95682164)。原文已不可访问，我的回答如下：

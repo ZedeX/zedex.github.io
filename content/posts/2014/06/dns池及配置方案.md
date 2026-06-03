@@ -12,12 +12,12 @@ summary: |-
 
   `42.120.21.30`
 
-  2\. 114DNS：{{ double-space-with-newline }}`114.114.114.114
+  2\. 114DNS：`114.114.114.114
   114.114.115.115`
 
-  3\. oneDNS：{{ double-space-with-newline }}`112.124.47.27`
+  3\. oneDNS：`112.124.47.27`
 
-  4\. aliDNS：{{ double-space-with-newline }}`223.5.5.5
+  4\. aliDNS：`223.5.5.5
   223.6.6.6`
 
   国际服务器：

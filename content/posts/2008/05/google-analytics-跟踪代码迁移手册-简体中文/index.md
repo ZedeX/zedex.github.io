@@ -4,12 +4,17 @@ categories:
   - i-internet
 date: "2008-05-15T17:57:53+00:00"
 summary: |-
-  Google Analytics 跟踪代码迁移手册{{ double-space-with-newline }}-从urchin.js到ga.js
+  Google Analytics 跟踪代码迁移手册-从urchin.js到ga.js
 
-  > **目录**{{ double-space-with-newline }}新版中有什么变化？ / 新跟踪代码的优势 / 我可以仍旧使用urchin.js吗？ / 新的跟踪代码和旧的兼容吗？ / 跟踪代码是什么？ / 基础跟踪代码 / 跟踪实际页面浏览量 / 跟踪下载文件 / 多用户跟踪同一页面 / 跟踪子域 / 使用链接跟踪跨域用户 / 使用表单跟踪跨域用户 / 电子交易处理 / 增加搜索引擎源 / 区分用户类型 / 为子目录限制cookies / 控制数据搜集选项 / 控制会话过期时间 / 控制活动转化过期时间 / 定制活动表单 / 使用锚点在URL中传递数据 / 设置关键字忽视参数 / 控制数据采样率 / 使用Google Analytics和Urchin
+  > **目录**新版中有什么变化？ / 新跟踪代码的优势 / 我可以仍旧使用urchin.js吗？ / 新的跟踪代码和旧的兼容吗？ / 跟踪代码是什么？ / 基础跟踪代码 / 跟踪实际页面浏览量 / 跟踪下载文件 / 多用户跟踪同一页面 / 跟踪子域 / 使用链接跟踪跨域用户 / 使用表单跟踪跨域用户 / 电子交易处理 / 增加搜索引擎源 / 区分用户类型 / 为子目录限制cookies / 控制数据搜集选项 / 控制会话过期时间 / 控制活动转化过期时间 / 定制活动表单 / 使用锚点在URL中传递数据 / 设置关键字忽视参数 / 控制数据采样率 / 使用Google Analytics和Urchin
 
-  {{ double-space-with-newline }}花费了大概6个小时左右的“作品”。其中有四处不确定意思正确，不过应该不影响理解：
+  花费了大概6个小时左右的“作品”。其中有四处不确定意思正确，不过应该不影响理解：
 title: Google Analytics 跟踪代码迁移手册 - 简体中文
+custom_comments:
+  - author: "cleverpig"
+    date: "2008-05-20"
+    content: "精彩译文，申请转载到matrix社区！"
+    depth: 0
 ---
 Google Analytics 跟踪代码迁移手册  
 -从urchin.js到ga.js

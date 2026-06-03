@@ -5,7 +5,7 @@ categories:
   - l-life
 cover:
   alt: 30th-anniversary-of-the-world-wide-web-4871946884874240-2xa
-  image: /wp-content/uploads/2019/03/30th-anniversary-of-the-world-wide-web-4871946884874240-2xa.gif
+  image: 30th-anniversary-of-the-world-wide-web-4871946884874240-2xa.gif
 date: "2019-03-13T02:25:55+00:00"
 title: 纪念互联网诞生30年
 ---

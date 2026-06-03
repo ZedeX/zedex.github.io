@@ -11,4 +11,4 @@ title: 比特币失败了 我很欣慰
 
 所有这种以“分布式”来运作的业务模式，涉及的只能是非核心需求，因为我们是在和恶魔共舞。
 
-[![image](/wp-content/uploads/2016/02/mmexport1456160245764.jpg)](/wp-content/uploads/2016/02/mmexport1456160245764.jpg)
+[![image](mmexport1456160245764.jpg)](/wp-content/uploads/2016/02/mmexport1456160245764.jpg)

@@ -7,17 +7,17 @@ date: "2011-09-28T14:32:35+00:00"
 summary: |-
   February 2009
 
-  One of the things I always tell startups is a principle I learned from Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy. I was saying recently to a reporter that if I could only tell startups 10 things, this would be one of them. Then I thought: what would the other 9 be?{{ double-space-with-newline }}我经常给创业者讲的关于创业的一个原则是：尽你的所能，使得少数人获得百分百满意，这样比让大多数人获得一半的满意来得更为重要。这是我从保罗·布希海特（Paul Buchheit）那里学到的。我最近接受了一个记者的采访，他让我说出创业者应该注意的十件事情，我说，这就是其一。但是其他的九个注意事项又是什么？
+  One of the things I always tell startups is a principle I learned from Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy. I was saying recently to a reporter that if I could only tell startups 10 things, this would be one of them. Then I thought: what would the other 9 be?我经常给创业者讲的关于创业的一个原则是：尽你的所能，使得少数人获得百分百满意，这样比让大多数人获得一半的满意来得更为重要。这是我从保罗·布希海特（Paul Buchheit）那里学到的。我最近接受了一个记者的采访，他让我说出创业者应该注意的十件事情，我说，这就是其一。但是其他的九个注意事项又是什么？
 
-  When I made the list there turned out to be 13:{{ double-space-with-newline }}于是我简单罗列了一下，发现原来有13样：
+  When I made the list there turned out to be 13:于是我简单罗列了一下，发现原来有13样：
 
-  **1\. Pick good cofounders.**{{ double-space-with-newline }}1、选择一个好的搭档。
+  **1\. Pick good cofounders.**1、选择一个好的搭档。
 
-  Cofounders are for a startup what location is for real estate. You can change anything about a house except where it is. In a startup you can change your idea easily, but changing your cofounders is hard.?\[1\]?And the success of a startup is almost always a function of its founders.{{ double-space-with-newline }}对于创业者来说，一个创业搭档的重要性就有如地点对于房地产的重要性一般。一间房子，你怎么改都行，就是不能改它的地点。对于创业者而言，要改变想法是很容易的，但是要改换创业搭档就很难了。\[1\] 而每一个草创之业能够取得成功，皆离不开其创立者的共同影响。
+  Cofounders are for a startup what location is for real estate. You can change anything about a house except where it is. In a startup you can change your idea easily, but changing your cofounders is hard.?\[1\]?And the success of a startup is almost always a function of its founders.对于创业者来说，一个创业搭档的重要性就有如地点对于房地产的重要性一般。一间房子，你怎么改都行，就是不能改它的地点。对于创业者而言，要改变想法是很容易的，但是要改换创业搭档就很难了。\[1\] 而每一个草创之业能够取得成功，皆离不开其创立者的共同影响。
 
-  **2\. Launch fast.**{{ double-space-with-newline }}2、及早出笼。
+  **2\. Launch fast.**2、及早出笼。
 
-  The reason to launch fast is not so much that it's critical to get your product to market early, but that you haven't really started working on it till you've launched. Launching teaches you what you should have been building. Till you know that you're wasting your time. So the main value of whatever you launch with is as a pretext for engaging users.{{ double-space-with-newline }}及早出笼的意思不是说让你的产品第一时间推出市场，而是说，只有当你真正将想法付诸行动之后才表明你在工作了。而这一个过程中你也学会了该做什么样的产品。在此之前，你都只是在浪费自己的时间。这时候，不管你拿出的是什么东西，都不过是用来吊客户的胃口而已。
+  The reason to launch fast is not so much that it's critical to get your product to market early, but that you haven't really started working on it till you've launched. Launching teaches you what you should have been building. Till you know that you're wasting your time. So the main value of whatever you launch with is as a pretext for engaging users.及早出笼的意思不是说让你的产品第一时间推出市场，而是说，只有当你真正将想法付诸行动之后才表明你在工作了。而这一个过程中你也学会了该做什么样的产品。在此之前，你都只是在浪费自己的时间。这时候，不管你拿出的是什么东西，都不过是用来吊客户的胃口而已。
 title: 写给创业者的13句话 | Startups in 13 Sentences
 ---
 February 2009

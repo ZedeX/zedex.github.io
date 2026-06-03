@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: 健康零食
-  image: /wp-content/uploads/2019/05/pretzels-1649483_1920.jpg
+  image: pretzels-1649483_1920.jpg
 date: "2016-09-14T11:29:28+00:00"
 title: 健康食品的挑选标准
 ---

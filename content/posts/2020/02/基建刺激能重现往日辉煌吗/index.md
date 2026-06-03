@@ -4,8 +4,9 @@ categories:
   - y-yy
 cover:
   alt: sunset-219354_1920
-  image: /wp-content/uploads/2020/02/sunset-219354_1920.jpg
+  image: sunset-219354_1920.jpg
 date: "2020-02-22T06:51:22+00:00"
+draft: true
 title: 基建刺激能重现往日辉煌吗？
 ---
 为对冲疫情对经济的影响，新闻说要加大基建力度，刺激经济，但我对本轮基建刺激的效果较之前几轮的效果比较，持保守态度。

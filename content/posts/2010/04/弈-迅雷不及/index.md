@@ -5,12 +5,19 @@ categories:
 date: "2010-04-12T15:20:04+00:00"
 title: 20100411 弈 迅雷不及
 ---
-[![20100411 对弈 围棋](/wp-content/uploads/2010/04/20100411.png)](/wp-content/uploads/2010/04/20100411.png)
+[![20100411 对弈 围棋](20100411.png)](/wp-content/uploads/2010/04/20100411.png)
 
 迅雷不及图
 
 执黑中盘胜
 
-抱歉，您的浏览器不支持本脚本，请直接 [下载棋谱](/wp-content/uploads/2010/04/20100411.sgf)
+<link rel="stylesheet" href="/wgo/wgo.player.css">
+<script src="/wgo/wgo.min.js"></script>
+<script src="/wgo/wgo.player.min.js"></script>
 
-[棋谱下载](/wp-content/uploads/2010/04/20100411.sgf)
+<div id="wgo-20100411" style="width: 600px; margin: 1em auto;"></div>
+<script>
+new WGo.Player.BasicPlayer(document.getElementById("wgo-20100411"), { sgfFile: "20100411.sgf" });
+</script>
+
+[棋谱下载](20100411.sgf)

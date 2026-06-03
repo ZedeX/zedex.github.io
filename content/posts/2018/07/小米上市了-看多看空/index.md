@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: blur-1853262_1920
-  image: /wp-content/uploads/2018/07/blur-1853262_1920.jpg
+  image: blur-1853262_1920.jpg
 date: "2018-07-08T11:13:42+00:00"
 title: 小米上市了，看多看空？
 ---

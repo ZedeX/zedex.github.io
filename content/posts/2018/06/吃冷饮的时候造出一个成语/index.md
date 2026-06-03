@@ -4,7 +4,7 @@ categories:
   - j-joke
 cover:
   alt: 冷饮
-  image: /wp-content/uploads/2018/12/beverage-3511212_1920.jpg
+  image: beverage-3511212_1920.jpg
 date: "2018-06-12T13:21:47+00:00"
 title: 吃冷饮的时候造出一个成语
 ---

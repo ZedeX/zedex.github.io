@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: jackey-cheung-08
-  image: /wp-content/uploads/2019/05/jackey-cheung-08.jpg
+  image: jackey-cheung-08.jpg
 date: "2019-04-21T08:36:17+00:00"
 summary: |-
   喜欢一件事，就会激发主动，再加上时间的打磨，就能培养出匠人之风。

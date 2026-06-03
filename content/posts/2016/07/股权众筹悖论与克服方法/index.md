@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: chess-316658
-  image: /wp-content/uploads/2016/07/chess-316658.jpg
+  image: chess-316658.jpg
 date: "2016-07-06T06:10:00+00:00"
 title: 股权众筹悖论与克服方法
 ---

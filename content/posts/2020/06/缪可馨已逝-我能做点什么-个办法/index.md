@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: school-1782427_1920
-  image: /wp-content/uploads/2020/08/school-1782427_1920.jpg
+  image: school-1782427_1920.jpg
 date: "2020-06-16T15:15:21+00:00"
 title: 缪可馨已逝，我能做点什么？5个办法
 ---

@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: bear-3214226_1920
-  image: /wp-content/uploads/2008/03/bear-3214226_1920.jpg
+  image: bear-3214226_1920.jpg
 date: "2008-03-07T09:19:58+00:00"
 title: 小康的标准2008
 ---

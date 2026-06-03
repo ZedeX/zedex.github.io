@@ -5,7 +5,7 @@ categories:
   - z-zorro
 cover:
   alt: dance-4782870_1920
-  image: /wp-content/uploads/2022/04/dance-4782870_1920.jpg
+  image: dance-4782870_1920.jpg
 date: "2021-04-04T09:32:00+00:00"
 title: 多转一圈的人
 ---

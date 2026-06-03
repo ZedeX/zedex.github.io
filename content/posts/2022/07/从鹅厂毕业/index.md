@@ -5,7 +5,7 @@ categories:
   - z-zorro
 cover:
   alt: brief-1[1]
-  image: /wp-content/uploads/2022/07/brief-11-scaled.jpg
+  image: brief-11-scaled.jpg
 date: "2022-07-08T05:30:00+00:00"
 title: 从鹅厂毕业
 ---

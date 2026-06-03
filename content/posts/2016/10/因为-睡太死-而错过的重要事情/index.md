@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: 车票
-  image: /wp-content/uploads/2019/05/miss-ticket.jpg
+  image: miss-ticket.jpg
 date: "2016-10-18T11:43:48+00:00"
 title: 因为「睡太死」而错过的重要事情
 ---

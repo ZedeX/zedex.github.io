@@ -6,7 +6,7 @@ date: "2011-03-06T12:58:05+00:00"
 summary: |-
   刚才看到一对大学情侣的一段短信生活：
 
-  > \- 加你的手机号我现在记得的号不超过三个。{{ double-space-with-newline }}\- 我自己号多少来着？
+  > \- 加你的手机号我现在记得的号不超过三个。\- 我自己号多少来着？
 
   [http://www.xiami.com/widget/7281/_1769572686/singlePlayer.swf](http://www.xiami.com/widget/7281_1769572686/singlePlayer.swf)
 

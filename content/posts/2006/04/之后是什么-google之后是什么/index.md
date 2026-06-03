@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: trace-3157431_1920
-  image: /wp-content/uploads/2006/04/trace-3157431_1920.jpg
+  image: trace-3157431_1920.jpg
 date: "2006-04-30T03:05:50+00:00"
 title: 2.0之后是什么？ Google之后是什么？
 ---

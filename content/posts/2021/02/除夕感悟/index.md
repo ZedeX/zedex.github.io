@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: mmexport1617013751867
-  image: /wp-content/uploads/2021/03/mmexport1617013751867.jpg
+  image: mmexport1617013751867.jpg
 date: "2021-02-11T18:29:00+00:00"
 title: 2021除夕感悟
 ---

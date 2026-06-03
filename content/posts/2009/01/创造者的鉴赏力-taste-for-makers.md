@@ -10,21 +10,21 @@ summary: |-
 
   \- Thomas Kuhn,? _The Copernican Revolution_
 
-  “哥白尼对天动说美学上的反对是他拒绝托勒密体系的重要原因…”{{ double-space-with-newline }}\- Thomas Kuhn, The Copernican Revolution
+  “哥白尼对天动说美学上的反对是他拒绝托勒密体系的重要原因…”\- Thomas Kuhn, The Copernican Revolution
 
   "All of us had been trained by Kelly Johnson and believed fanatically in his insistence that an airplane that looked beautiful would fly the same way."
 
   \- Ben Rich,? _Skunk Works_
 
-  “在Kelly Johnson的训练之下,我们狂热地坚信他的主张: 一架看上去很美的飞机飞得也会同样的美.”{{ double-space-with-newline }}\- Ben Rich, Skunk Works
+  “在Kelly Johnson的训练之下,我们狂热地坚信他的主张: 一架看上去很美的飞机飞得也会同样的美.”\- Ben Rich, Skunk Works
 
   "Beauty is the first test: there is no permanent place in this world for ugly mathematics."
 
   \- G. H. Hardy,? _A Mathematician's Apology_
 
-  “美是第一道检验: 世上没有永久的地方容纳丑陋的数学.”{{ double-space-with-newline }}\- G. H. Hardy, A Mathematician’s Apology
+  “美是第一道检验: 世上没有永久的地方容纳丑陋的数学.”\- G. H. Hardy, A Mathematician’s Apology
 
-  {{ double-space-with-newline }}I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can't tell is whether they have any kind of taste."{{ double-space-with-newline }}我最近与一位在MIT任教的朋友聊天. 他的领域现在很热门,来自即将成为研究生的申请表每年都潮水般地涌向他. “他们中的大多数看上去都很聪明,”他说. “我不能确定的是他们是否有鉴赏力.”
+  I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can't tell is whether they have any kind of taste."我最近与一位在MIT任教的朋友聊天. 他的领域现在很热门,来自即将成为研究生的申请表每年都潮水般地涌向他. “他们中的大多数看上去都很聪明,”他说. “我不能确定的是他们是否有鉴赏力.”
 title: 创造者的鉴赏力 | Taste for Makers
 ---
 February 2002

@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: euro-641912_1920
-  image: /wp-content/uploads/2020/01/euro-641912_1920.jpg
+  image: euro-641912_1920.jpg
 date: "2020-01-16T07:20:26+00:00"
 title: 做了全球资产配置的好处
 ---

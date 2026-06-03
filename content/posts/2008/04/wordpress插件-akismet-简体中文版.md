@@ -12,7 +12,7 @@ summary: |-
 
   ### 功能描述 Description
 
-  Akismet通过全球服务器搜集所有的垃圾信息来自动判断你文章中的评论是不是垃圾评论（广告spam）。{{ double-space-with-newline }}Akismet is a spam-fighting service that it checks the content of the comment anonymously with an online server, to determine whether it is spam or not.
+  Akismet通过全球服务器搜集所有的垃圾信息来自动判断你文章中的评论是不是垃圾评论（广告spam）。Akismet is a spam-fighting service that it checks the content of the comment anonymously with an online server, to determine whether it is spam or not.
 
   ### 支持版本 Supported Version
 
@@ -20,7 +20,7 @@ summary: |-
 
   ### 用法 Usage
 
-  1、上传到WordPress插件目录；{{ double-space-with-newline }}2、在后台插件管理页面中激活该插件；{{ double-space-with-newline }}3、到后台在“设置”中找到本插件(Akismet)；{{ double-space-with-newline }}4、输入WordPress API Key；{{ double-space-with-newline }}5、如果你不知道该怎么做，请参照页面上的说明。
+  1、上传到WordPress插件目录；2、在后台插件管理页面中激活该插件；3、到后台在“设置”中找到本插件(Akismet)；4、输入WordPress API Key；5、如果你不知道该怎么做，请参照页面上的说明。
 title: WordPress插件：Akismet 简体中文版
 ---
 English Name: WordPress Plugin: Akismet Simplified Chinese Version?

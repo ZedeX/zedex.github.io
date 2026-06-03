@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: facebook-5445671
-  image: /wp-content/uploads/2021/10/facebook-5445671.png
+  image: facebook-5445671.png
 date: "2021-10-06T07:28:00+00:00"
 title: 各种自媒体尺寸（微信、抖音、小红书等）
 ---

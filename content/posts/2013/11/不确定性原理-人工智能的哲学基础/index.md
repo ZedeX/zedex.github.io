@@ -29,7 +29,7 @@ summary: |-
 
   九、人工智能
 
-  {{ double-space-with-newline }}
+  
 tag:
   - ai
   - featured

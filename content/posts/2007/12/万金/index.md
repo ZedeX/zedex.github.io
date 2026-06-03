@@ -5,9 +5,9 @@ categories:
 date: "2007-12-09T03:33:23+00:00"
 title: 万金
 ---
-[![家书1](/wp-content/uploads/2011/07/home-letter-111.jpg?w=216)](/wp-content/uploads/2011/07/home-letter-111.jpg)
+[![家书1](home-letter-111.jpg?w=216)](/wp-content/uploads/2011/07/home-letter-111.jpg)
 
-[![家书2](/wp-content/uploads/2011/07/home-letter-211.jpg?w=209)](/wp-content/uploads/2011/07/home-letter-211.jpg)
+[![家书2](home-letter-211.jpg?w=209)](/wp-content/uploads/2011/07/home-letter-211.jpg)
 
 勋儿：
 

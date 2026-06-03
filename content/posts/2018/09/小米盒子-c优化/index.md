@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: programming-1873854_1920
-  image: /wp-content/uploads/2020/11/programming-1873854_1920.png
+  image: programming-1873854_1920.png
 date: "2018-09-30T04:54:34+00:00"
 title: 小米盒子4C优化
 ---

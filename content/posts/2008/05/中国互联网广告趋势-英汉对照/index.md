@@ -4,9 +4,9 @@ categories:
   - i-internet
 date: "2008-05-16T07:26:00+00:00"
 summary: |-
-  China Internet Advertising Trends 2008{{ double-space-with-newline }}中国互联网广告趋势2008
+  China Internet Advertising Trends 2008中国互联网广告趋势2008
 
-  January 15th, 2008{{ double-space-with-newline }}2008年1月15日
+  January 15th, 20082008年1月15日
 
   My personal view on trends I see for the Chinese Internet advertising in 2008:
 
@@ -14,7 +14,7 @@ summary: |-
 
   ![Internet Advertising Trends](/wp-content/uploads/2011/07/webmarketingtrends.gif)![互联网广告趋势](/wp-content/uploads/2011/07/webmarketingtrendscn.jpg)
 
-  ## {{ double-space-with-newline }}**Internet Advertising Trend No. 1:{{ double-space-with-newline }}Using the power of individual expression**
+  ## **Internet Advertising Trend No. 1:Using the power of individual expression**
 title: 中国互联网广告趋势2008（英汉对照）
 ---
 China Internet Advertising Trends 2008  

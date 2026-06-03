@@ -5,7 +5,7 @@ categories:
   - t-tech
 cover:
   alt: regulation-3246979
-  image: /wp-content/uploads/2021/03/regulation-3246979.jpg
+  image: regulation-3246979.jpg
 date: "2018-05-24T14:39:00+00:00"
 title: 创业项目：让数据在受保护和可控的情况下流通的产品
 ---

@@ -5,7 +5,7 @@ categories:
   - x-x
 cover:
   alt: artificial-intelligence-2167835_1920
-  image: /wp-content/uploads/2020/03/artificial-intelligence-2167835_1920.jpg
+  image: artificial-intelligence-2167835_1920.jpg
 date: "2007-12-23T06:56:01+00:00"
 title: 自我修复的程序设计
 ---

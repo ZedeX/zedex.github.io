@@ -5,7 +5,7 @@ categories:
   - z-zorro
 cover:
   alt: cover
-  image: /wp-content/uploads/2023/02/cover.jpg
+  image: cover.jpg
 date: "2019-10-28T14:00:00+00:00"
 summary: |-
   外公在去世前把自己的亲身经历写了下来，我后面整理润色了一下，本来准备申请版权后出版发行，结果国内的审批过程异常艰难。遂放弃出版，直接在网上发表。
@@ -25,4 +25,4 @@ title: 我的外公苏谓忠的回忆录
 
 所以，虽然外公的回忆录，在不相干的人看来只是平行世界里某人的某个回忆录，但对于真正能够通过文字汲取养分的人来说，还是有借鉴和参考的意义。起码对我来说是这样。我也是真正做到了外公回忆录前言说的“激励他们奋勇向前并鞭策自己”了，外公在天有灵我想也会心安了。
 
-[苏渭忠回忆录Memoris\_of\_WeizhongSu\_A\_Lifetime\_Striver\_during\_Old\_And\_New\_China](/wp-content/uploads/2023/02/苏渭忠回忆录Memoris_of_Weizhong_Su_A_Lifetime_Striver_during_the_Old_And_New_China（公文版）.pdf) [下载](/wp-content/uploads/2023/02/苏渭忠回忆录Memoris_of_Weizhong_Su_A_Lifetime_Striver_during_the_Old_And_New_China（公文版）.pdf)
+[苏渭忠回忆录Memoris\_of\_WeizhongSu\_A\_Lifetime\_Striver\_during\_Old\_And\_New\_China](苏渭忠回忆录Memoris_of_Weizhong_Su_A_Lifetime_Striver_during_the_Old_And_New_China（公文版）.pdf) [下载](苏渭忠回忆录Memoris_of_Weizhong_Su_A_Lifetime_Striver_during_the_Old_And_New_China（公文版）.pdf)

@@ -10,7 +10,7 @@ summary: |-
 
   但还该感谢老郑给了我这个机会，不过这也是我正取得，因被评上市优干，很高兴，但也背了不少饥荒。刚刚见过高三四的孟超，见面第一句就劈头盖脸地说：“我正找你呢！”煞有介事的表情下的我连忙问“啥事儿啊？”
 
-  “请客吃饭啊…！”{{ double-space-with-newline }}　　“…”{{ double-space-with-newline }}　　“怎么？娶了老婆忘了娘啊！”{{ double-space-with-newline }}　　“哪能？走，除去喝点儿去！”{{ double-space-with-newline }}　　“喝点儿啥？”{{ double-space-with-newline }}　　“西北风！～”{{ double-space-with-newline }}　　“＃％￥……％—·！”
+  “请客吃饭啊…！”　　“…”　　“怎么？娶了老婆忘了娘啊！”　　“哪能？走，除去喝点儿去！”　　“喝点儿啥？”　　“西北风！～”　　“＃％￥……％—·！”
 
   ……
 

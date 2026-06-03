@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: iphone-1836071_1920
-  image: /wp-content/uploads/2022/04/iphone-1836071_1920.jpg
+  image: iphone-1836071_1920.jpg
 date: "2020-11-04T03:06:00+00:00"
 summary: |-
   FFmpeg是一个十分方便的多媒体文件全家桶，我在治理摄像头视频存档的时候，发现很多视频编辑软件的底层都是FFmpeg实现的，所以就直接拿FFmpeg来作为视频编辑工具。发现网上很多教程要不就是只言片语，要不就是整段的官方文档，很难有半个小时之内就能看懂上手掌握其基本用法的文章，故有此文。

@@ -16,7 +16,7 @@ summary: |-
   >
   > 谢谢，祝好！
   >
-  > --{{ double-space-with-newline }}<签名>
+  > --<签名>
 title: 写给Miller先生的一封信
 ---
 > 亲爱的Miller先生：

@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: 打车服务
-  image: /wp-content/uploads/2014/04/japan-2014617_1920.jpg
+  image: japan-2014617_1920.jpg
 date: "2014-04-26T06:28:00+00:00"
 title: 嘀嘀嗒车补贴费用
 ---

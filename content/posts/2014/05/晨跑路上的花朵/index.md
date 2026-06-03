@@ -6,7 +6,7 @@ categories:
 date: "2014-05-15T23:34:00+00:00"
 title: 晨跑路上的花朵
 ---
-[![image](/wp-content/uploads/2014/05/wpid-wp-1400196962719.jpeg)](/wp-content/uploads/2014/05/wpid-wp-1400196962719.jpeg)
+[![image](wpid-wp-1400196962719.jpeg)](/wp-content/uploads/2014/05/wpid-wp-1400196962719.jpeg)
 
 晨跑中的花朵，每天都稍稍开了一些。
 

@@ -4,7 +4,7 @@ categories:
   - c-culture
 cover:
   alt: fog-3774626_1920
-  image: /wp-content/uploads/2022/04/fog-3774626_1920.jpg
+  image: fog-3774626_1920.jpg
 date: "2019-12-03T03:05:57+00:00"
 summary: |-
   我们经常确切地知道故事的结局，却不知道故事因何而起。

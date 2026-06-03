@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: thief-2831254
-  image: /wp-content/uploads/2020/08/thief-2831254.png
+  image: thief-2831254.png
 date: "2019-11-09T02:27:47+00:00"
 title: 银联高端卡的权益是样子货
 ---

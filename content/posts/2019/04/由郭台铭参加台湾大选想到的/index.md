@@ -4,8 +4,9 @@ categories:
   - x-x
 cover:
   alt: 台湾地区
-  image: /wp-content/uploads/2019/05/buildings-1846728_1920.jpg
+  image: buildings-1846728_1920.jpg
 date: "2019-04-27T08:29:40+00:00"
+draft: true
 title: 由郭台铭参加台湾大选想到的
 ---
 政治一直以来对我来说是晦测莫深的，之前自以为有规律，但许多臆测都被打脸。后来渐渐发现制定决策的人也控制不了局势啊，故。

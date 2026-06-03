@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: cdn-zedex
-  image: /wp-content/uploads/2019/06/cdn-zedex.png
+  image: cdn-zedex.png
 date: "2019-06-19T08:13:16+00:00"
 title: 开启了HTTPS服务
 ---

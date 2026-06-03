@@ -4,8 +4,9 @@ categories:
   - k-kao
 cover:
   alt: abe-shinzo
-  image: /wp-content/uploads/2019/08/abe-shinzo-.jpg
+  image: abe-shinzo-.jpg
 date: "2019-08-03T23:09:05+00:00"
+draft: true
 title: 安倍的政治手段很准
 ---
 看新闻说日本在韩国反日的档口，给电子芯片等原材料断货了。

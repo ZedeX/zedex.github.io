@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: the-dilemma
-  image: /wp-content/uploads/2019/05/the-dilemma.jpg
+  image: the-dilemma.jpg
 date: "2017-12-10T08:23:18+00:00"
 title: 小诗：最两难的事情
 ---

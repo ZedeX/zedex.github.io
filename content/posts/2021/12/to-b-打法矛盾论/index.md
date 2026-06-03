@@ -5,7 +5,7 @@ categories:
   - w-5w1h
 cover:
   alt: physics-7249773_1920
-  image: /wp-content/uploads/2022/07/physics-7249773_1920.jpg
+  image: physics-7249773_1920.jpg
 date: "2021-12-01T05:30:00+00:00"
 title: To B 打法矛盾论
 ---

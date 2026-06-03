@@ -6,15 +6,15 @@ categories:
   - z-zorro
 date: "2011-06-02T23:51:48+00:00"
 summary: |-
-  ![900 Month Countdown](/wp-content/uploads/2011/07/900-countdown.png){{ double-space-with-newline }}I heard that people's life is only lasts 900 months. And I made a table to count it down. Shocked, 334 months had silently passed without noticed, and 568 remain. I printed a countdown table and stick it on my desk. Time is everything.
+  ![900 Month Countdown](/wp-content/uploads/2011/07/900-countdown.png)I heard that people's life is only lasts 900 months. And I made a table to count it down. Shocked, 334 months had silently passed without noticed, and 568 remain. I printed a countdown table and stick it on my desk. Time is everything.
 
-  [900 Countdown Table](/wp-content/uploads/2011/07/900-downcount.xlsx)
+  [900 Countdown Table](900-downcount.xlsx)
 title: Life Only 900 Months - Que Sera Sera
 ---
 ![900 Month Countdown](/wp-content/uploads/2011/07/900-countdown.png)  
 I heard that people's life is only lasts 900 months. And I made a table to count it down. Shocked, 334 months had silently passed without noticed, and 568 remain. I printed a countdown table and stick it on my desk. Time is everything.
 
-[900 Countdown Table](/wp-content/uploads/2011/07/900-downcount.xlsx)
+[900 Countdown Table](900-downcount.xlsx)
 
 * * *
 

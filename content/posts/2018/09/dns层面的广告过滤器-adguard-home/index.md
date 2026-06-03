@@ -5,7 +5,7 @@ categories:
   - t-tech
 cover:
   alt: AdGuardHome
-  image: /wp-content/uploads/2020/12/AdGuardHome.jpg
+  image: AdGuardHome.jpg
 date: "2018-09-05T03:37:08+00:00"
 summary: |-
   AdGuard是优秀的广告过滤工具，其公司推出了一系列广告过滤工具包括：浏览器插件层面的广告过滤器、各操作系统（Windows、iOS、Android、Mac、Linux等）层面的广告过滤器，也卖带广告过滤功能的路由器设备，最近还推出了AdGuard DNS，只要将DNS地址设置为94.140.14.14或94.140.15.15即可，但是速度据国内的朋友反馈很不理想。不过这个问题现在可以解决了。

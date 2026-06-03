@@ -4,7 +4,7 @@ categories:
   - g-games
 cover:
   alt: wujiangzhengba-01
-  image: /wp-content/uploads/2019/03/wujiangzhengba-01.jpg
+  image: wujiangzhengba-01.jpg
 date: "2019-02-26T13:12:19+00:00"
 summary: |-
   趁着过年整理硬盘的时候，找到了之前搜集整理的DOS游戏。大概占了6G多，感觉后面应该不太会有机会玩了，也没必要专门留全档怀旧，就决定删除了。谨以此文留念。

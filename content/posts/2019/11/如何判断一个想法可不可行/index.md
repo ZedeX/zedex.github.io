@@ -4,7 +4,7 @@ categories:
   - w-5w1h
 cover:
   alt: 如何判断主意是否靠谱？
-  image: /wp-content/uploads/2019/11/questions-1328466_1920.jpg
+  image: questions-1328466_1920.jpg
 date: "2019-11-26T13:28:10+00:00"
 title: 如何判断一个想法可不可行？
 ---

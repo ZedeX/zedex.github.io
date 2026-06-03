@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: buddha-statues-3434553_1920
-  image: /wp-content/uploads/2018/11/buddha-statues-3434553_1920.jpg
+  image: buddha-statues-3434553_1920.jpg
 date: "2018-11-03T10:30:56+00:00"
 title: 能力越大 越要修行
 ---

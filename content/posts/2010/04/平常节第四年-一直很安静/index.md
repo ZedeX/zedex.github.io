@@ -6,7 +6,7 @@ date: "2010-04-11T14:00:02+00:00"
 summary: |-
   ### 统计
 
-  发送短信：38条{{ double-space-with-newline }}收到回复： 9条
+  发送短信：38条收到回复： 9条
 
   ### 评选
 
@@ -16,7 +16,7 @@ summary: |-
 
   吃过早饭去踏青，路遇春雨。在陌生的屋檐下避雨。就这样，在午饭的时间，听到了阿桑…
 
-  http://www.tudou.com/programs/view/-8md5TfGzzE{{ double-space-with-newline }}一直很安静 阿桑
+  http://www.tudou.com/programs/view/-8md5TfGzzE一直很安静 阿桑
 
   第一次听到 [阿桑](http://zh.wikipedia.org/zh-cn/%E9%98%BF%E6%A1%91) 的时候，是2003年的一个盛夏的夜晚。从吴卓成那里随手借了一张CD，躺寝室床上当做入眠音乐。却不知不觉从《叶子》、《受了点伤》、《寂寞在唱歌》一口气听完。
 
@@ -30,7 +30,7 @@ summary: |-
 
   ![](/wp-content/uploads/2011/07/20100411-emotion-by-time11.png)
 
-  {{ double-space-with-newline }}由于前几天的 [跌宕](/wp-content/uploads/2011/07/20100411-emotion-by-time.png) [起伏](/wp-content/uploads/2011/07/20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)
+  由于前几天的 [跌宕](20100411-emotion-by-time.png) [起伏](20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)
 
   在物质有了一定基础之后，渴望一份感情，也是人之常情吧！但是，要一份彼此承诺的感情，不是那么简单的啊。爱很简单，婚姻很难。一旦理性地考虑到婚姻，就总是避免感性地去谈感情。发乎情，止乎礼，对像我这个年纪的人来说，也许很难。尤其在听到别人把“坐怀不乱”说成是“身体有问题”的时候。
 
@@ -72,7 +72,7 @@ http://www.tudou.com/programs/view/LP9HC50jxvg/
 ![](/wp-content/uploads/2011/07/20100411-emotion-by-time11.png)
 
 
-由于前几天的 [跌宕](/wp-content/uploads/2011/07/20100411-emotion-by-time.png) [起伏](/wp-content/uploads/2011/07/20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)
+由于前几天的 [跌宕](20100411-emotion-by-time.png) [起伏](20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)
 
 在物质有了一定基础之后，渴望一份感情，也是人之常情吧！但是，要一份彼此承诺的感情，不是那么简单的啊。爱很简单，婚姻很难。一旦理性地考虑到婚姻，就总是避免感性地去谈感情。发乎情，止乎礼，对像我这个年纪的人来说，也许很难。尤其在听到别人把“坐怀不乱”说成是“身体有问题”的时候。
 

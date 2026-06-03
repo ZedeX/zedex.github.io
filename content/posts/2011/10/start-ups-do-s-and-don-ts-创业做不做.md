@@ -6,7 +6,7 @@ date: "2011-10-29T12:30:08+00:00"
 summary: |-
   搜集了一些大佬们关于创业的建议意见，权作参考。
 
-  【袁岳：创始人要有当大哥的霸气】{{ double-space-with-newline }}1、先行给予者；{{ double-space-with-newline }}2、敢于拍板者，即便拍错了；{{ double-space-with-newline }}3、具备多元化知识，多角度思考者；{{ double-space-with-newline }}4、冒着利益受损的风险敢于担当者。
+  【袁岳：创始人要有当大哥的霸气】1、先行给予者；2、敢于拍板者，即便拍错了；3、具备多元化知识，多角度思考者；4、冒着利益受损的风险敢于担当者。
 tag:
   - 创业
 title: Start-ups Do's And Don'ts | 创业做不做

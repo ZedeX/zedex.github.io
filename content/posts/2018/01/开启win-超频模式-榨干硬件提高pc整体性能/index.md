@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: zhuoyuexingnengmoshi
-  image: /wp-content/uploads/2021/01/zhuoyuexingnengmoshi.png
+  image: zhuoyuexingnengmoshi.png
 date: "2018-01-31T09:56:15+00:00"
 title: 开启Win10超频模式 榨干硬件提高PC整体性能
 ---

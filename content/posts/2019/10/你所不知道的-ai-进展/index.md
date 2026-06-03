@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: fashion-6341759_1920
-  image: /wp-content/uploads/2022/04/fashion-6341759_1920.jpg
+  image: fashion-6341759_1920.jpg
 date: "2019-10-30T15:17:27+00:00"
 summary: |-
   人工智能现在是常见词汇，大多数人可能觉得，它是学术话题，跟普通人关系不大。

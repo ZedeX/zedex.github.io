@@ -4,7 +4,7 @@ categories:
   - x-x
 cover:
   alt: fudaren-farewell
-  image: /wp-content/uploads/2019/05/fudaren-farewell.jpg
+  image: fudaren-farewell.jpg
 date: "2018-09-10T09:06:57+00:00"
 title: 由傅达仁安乐死想到的
 ---

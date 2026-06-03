@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: Bertrand_Russell_transparent_bg
-  image: /wp-content/uploads/2020/04/Bertrand_Russell_transparent_bg.png
+  image: Bertrand_Russell_transparent_bg.png
 date: "2009-01-07T14:48:58+00:00"
 title: 罗素对1000年后的人类的建议
 ---

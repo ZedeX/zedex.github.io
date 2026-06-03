@@ -6,7 +6,7 @@ date: "2011-06-13T23:27:23+00:00"
 summary: |-
   For most [offline browsing software](http://en.wikipedia.org/wiki/Online_and_offline#Offline_browsing) (such as: Webzip, Offline Explorer), they could only grab the web by the source code which html file offers. Once they face JavaScript, they will doomed.
 
-  ![Offline Explorer Doomed](/wp-content/uploads/2011/07/offline-explorer-doomed3.png){{ double-space-with-newline }}Offline Explorer Meet Errors When Dumping HTML5 Sites{{ double-space-with-newline }}
+  ![Offline Explorer Doomed](/wp-content/uploads/2011/07/offline-explorer-doomed3.png)Offline Explorer Meet Errors When Dumping HTML5 Sites
 title: HTML5 Makes Offline Browsing Doomed
 ---
 For most [offline browsing software](http://en.wikipedia.org/wiki/Online_and_offline#Offline_browsing) (such as: Webzip, Offline Explorer), they could only grab the web by the source code which html file offers. Once they face JavaScript, they will doomed.

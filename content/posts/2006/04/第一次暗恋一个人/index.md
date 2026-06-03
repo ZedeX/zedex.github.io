@@ -4,7 +4,7 @@ categories:
   - a-my-firsts
 cover:
   alt: blue-sky-2387410_1920
-  image: /wp-content/uploads/2006/04/blue-sky-2387410_1920.jpg
+  image: blue-sky-2387410_1920.jpg
 date: "2006-04-08T19:56:39+00:00"
 summary: |-
   是小学三年级的时候，暗恋班长。

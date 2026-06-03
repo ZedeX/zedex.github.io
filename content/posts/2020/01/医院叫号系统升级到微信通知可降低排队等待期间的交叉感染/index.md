@@ -4,7 +4,7 @@ categories:
   - y-yy
 cover:
   alt: hospitalqueue
-  image: /wp-content/uploads/2020/01/hospitalqueue.jpeg
+  image: hospitalqueue.jpeg
 date: "2020-01-26T07:31:24+00:00"
 title: 医院叫号系统升级到微信通知可降低排队等待期间的交叉感染
 ---

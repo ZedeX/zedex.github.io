@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: luckin-logo
-  image: /wp-content/uploads/2020/07/luckin-logo.png
+  image: luckin-logo.png
 date: "2020-04-03T14:07:37+00:00"
 title: 瑞幸现在自曝是一步好棋
 ---

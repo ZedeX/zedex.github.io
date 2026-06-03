@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: shanghai-423022_1920
-  image: /wp-content/uploads/2022/04/shanghai-423022_1920.jpg
+  image: shanghai-423022_1920.jpg
 date: "2021-06-12T17:06:00+00:00"
 title: 我是魔都加班狂
 ---

@@ -5,7 +5,7 @@ categories:
   - t-tech
 cover:
   alt: world-map
-  image: /wp-content/uploads/2020/09/world-map.png
+  image: world-map.png
 date: "2020-08-22T14:10:00+00:00"
 summary: |-
   开发应用程序其实可以和培养一朵小花一样浪漫，你需要找到适合的种子，精心的培育，等待花开。本篇会介绍独立应用程序开发的完整流程，从灵感汇集到设计考量，从落实代码到应用上架等，来和我一起培养属于你的「花」吧。

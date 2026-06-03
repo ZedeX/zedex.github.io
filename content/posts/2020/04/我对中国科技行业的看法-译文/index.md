@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: industry-3087393_1920
-  image: /wp-content/uploads/2022/04/industry-3087393_1920.jpg
+  image: industry-3087393_1920.jpg
 date: "2020-04-15T15:17:21+00:00"
 summary: |-
   danwwang 是彭博社的一个技术分析师，写了一篇2019年回顾，详细谈了他对中国科技行业、中美贸易战的看法。

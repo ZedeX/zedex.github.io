@@ -5,13 +5,19 @@ categories:
 date: "2010-03-25T13:03:57+00:00"
 title: 20100325 弈 模仿棋胜
 ---
-[![对弈：模仿棋](/wp-content/uploads/2010/03/20100325-1.png)](/wp-content/uploads/2010/03/20100325-1.png)[![对弈：模仿棋](/wp-content/uploads/2010/03/20100325-2.png)](/wp-content/uploads/2010/03/20100325-2.png)
+[![对弈：模仿棋](20100325-1.png)](/wp-content/uploads/2010/03/20100325-1.png)[![对弈：模仿棋](20100325-2.png)](/wp-content/uploads/2010/03/20100325-2.png)
 
 执黑  
 终盘胜5.5目  
 模仿棋
 
-抱歉，您的浏览器不支持本脚本，请直接 [下载棋谱](/wp-content/uploads/2010/03/20100325.sgf)
+<link rel="stylesheet" href="/wgo/wgo.player.css">
+<script src="/wgo/wgo.min.js"></script>
+<script src="/wgo/wgo.player.min.js"></script>
 
+<div id="wgo-20100325" style="width: 600px; margin: 1em auto;"></div>
+<script>
+new WGo.Player.BasicPlayer(document.getElementById("wgo-20100325"), { sgfFile: "20100325.sgf" });
+</script>
 
-[棋谱下载](/wp-content/uploads/2010/03/20100325.sgf "棋谱下载")
+[棋谱下载](20100325.sgf)

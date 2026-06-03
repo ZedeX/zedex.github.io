@@ -5,7 +5,18 @@ categories:
 date: "2010-04-14T03:02:23+00:00"
 title: 20100414 弈 得理不饶
 ---
-[![20100414 对弈 围棋 游戏](/wp-content/uploads/2010/04/20100414.png)](/wp-content/uploads/2010/04/20100414.png)
+<link rel="stylesheet" href="/wgo/wgo.player.css">
+<script src="/wgo/wgo.min.js"></script>
+<script src="/wgo/wgo.player.min.js"></script>
+
+<div id="wgo-sgf-20100414" style="width: 500px; margin: 10px auto;"></div>
+<script>
+var player = new WGo.Player({elem: document.getElementById("wgo-sgf-20100414"),sgfFile: "20100414.sgf",move: 1});
+</script>
+
+[下载棋谱](20100414.sgf)
+
+[![20100414 对弈 围棋 游戏](20100414.png)](/wp-content/uploads/2010/04/20100414.png)
 
 得理不饶人 图  
 执黑中盘胜
@@ -13,10 +24,10 @@ title: 20100414 弈 得理不饶
 白44的一手无理，黑43点明显是先手刺白的断点，如果白接的话棋形不佳，且黑就势围地。
 
 又或如其下三种边发，白要么连失要地，要么无功而返，注定开盘失利。  
-[![20100414 对弈 变化1](/wp-content/uploads/2010/04/20100414-1.png)](/wp-content/uploads/2010/04/20100414-1.png)[![20100414 对弈 变化2](/wp-content/uploads/2010/04/20100414-2.png)](/wp-content/uploads/2010/04/20100414-2.png)[![20100414 对弈 变化3](/wp-content/uploads/2010/04/20100414-3.png)](/wp-content/uploads/2010/04/20100414-3.png)
+[![20100414 对弈 变化1](20100414-1.png)](/wp-content/uploads/2010/04/20100414-1.png)[![20100414 对弈 变化2](20100414-2.png)](/wp-content/uploads/2010/04/20100414-2.png)[![20100414 对弈 变化3](20100414-3.png)](/wp-content/uploads/2010/04/20100414-3.png)
 
 另外，白50-54点角走法也有失误，如果按如下两种走法，无论最终选择哪种，都可以在角上顺利做活。  
-[![](/wp-content/uploads/2010/04/20100414-4.png)](/wp-content/uploads/2010/04/20100414-4.png)[![20100414 对弈 点角2](/wp-content/uploads/2010/04/20100414-5.png)](/wp-content/uploads/2010/04/20100414-5.png)
+[![](20100414-4.png)](/wp-content/uploads/2010/04/20100414-4.png)[![20100414 对弈 点角2](20100414-5.png)](/wp-content/uploads/2010/04/20100414-5.png)
 
 最后，白130是自毁前程的一步，也许考虑到盘面上白棋的劫材比黑棋要多得多，所以不得不放弃打劫，这也是白自讨苦吃的结果。
 

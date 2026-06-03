@@ -6,17 +6,17 @@ categories:
   - i-internet
 date: "2007-09-27T12:34:31+00:00"
 summary: |-
-  Hacker and Painter{{ double-space-with-newline }}黑客与画家
+  Hacker and Painter黑客与画家
 
   May 2003
 
   _(This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)_
 
-  When I finished grad school in computer science I went to art school to study painting. A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work-- that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.{{ double-space-with-newline }}我读完计算机本科以后，去艺术学校学习绘画。许多人感到奇怪，喜欢计算机的人也会喜欢美术吗？他们大概认为编程序和画画是两种完全不同的工作，编程需要冷静，精密，和正确的方法，而画画是表达某种狂热的情感。
+  When I finished grad school in computer science I went to art school to study painting. A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work-- that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.我读完计算机本科以后，去艺术学校学习绘画。许多人感到奇怪，喜欢计算机的人也会喜欢美术吗？他们大概认为编程序和画画是两种完全不同的工作，编程需要冷静，精密，和正确的方法，而画画是表达某种狂热的情感。
 
-  Both of these images are wrong. Hacking and painting have a lot in common. In fact, of all the different types of people I've known, hackers and painters are among the most alike.{{ double-space-with-newline }}这种印象是不对的，编程和画画有很多共同之处，实际上，在我认识的不同类型的人中间，画家和黑客是最相似的。
+  Both of these images are wrong. Hacking and painting have a lot in common. In fact, of all the different types of people I've known, hackers and painters are among the most alike.这种印象是不对的，编程和画画有很多共同之处，实际上，在我认识的不同类型的人中间，画家和黑客是最相似的。
 
-  What hackers and painters have in common is that they're both makers. Along with composers, architects, and writers, what hackers and painters are trying to do is make good things. They're not doing research per se, though if in the course of trying to make good things they discover some new technique, so much the better.{{ double-space-with-newline }}画家和黑客的相似之处在于：他们都是创造者，就好像作曲家，建筑师，以及作家一样。黑客和画家类似，他们的目的是创造某种美好的事物。尽管在创造的过程中，也许会发现新技术，但他们的根本目的并不是研究技术。
+  What hackers and painters have in common is that they're both makers. Along with composers, architects, and writers, what hackers and painters are trying to do is make good things. They're not doing research per se, though if in the course of trying to make good things they discover some new technique, so much the better.画家和黑客的相似之处在于：他们都是创造者，就好像作曲家，建筑师，以及作家一样。黑客和画家类似，他们的目的是创造某种美好的事物。尽管在创造的过程中，也许会发现新技术，但他们的根本目的并不是研究技术。
 title: 黑客与画家 | Hacker and Painter
 ---
 Hacker and Painter  

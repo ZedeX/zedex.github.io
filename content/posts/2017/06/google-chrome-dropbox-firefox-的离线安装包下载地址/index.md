@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: Google_Chrome_icon
-  image: /wp-content/uploads/2017/06/Google_Chrome_icon.png
+  image: Google_Chrome_icon.png
 date: "2017-06-13T01:53:28+00:00"
 title: Google Chrome , Dropbox , Firefox 的离线安装包下载地址
 ---

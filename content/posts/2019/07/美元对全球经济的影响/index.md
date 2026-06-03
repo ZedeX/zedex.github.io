@@ -4,7 +4,7 @@ categories:
   - x-x
 cover:
   alt: dollar-499481_1920
-  image: /wp-content/uploads/2019/07/dollar-499481_1920.jpg
+  image: dollar-499481_1920.jpg
 date: "2019-07-30T23:12:56+00:00"
 title: 美元对全球经济的影响
 ---

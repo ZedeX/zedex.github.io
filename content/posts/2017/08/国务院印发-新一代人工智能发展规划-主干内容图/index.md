@@ -9,6 +9,6 @@ title: 国务院印发《新一代人工智能发展规划》主干内容图
 
 ![](/wp-content/uploads/2020/02/states-council-ai-mindmap.png)
 
-[国务院印发《新一代人工智能发展规划》思维导图](/wp-content/uploads/2020/02/states-council-ai-mindmap.zip)
+[国务院印发《新一代人工智能发展规划》思维导图](states-council-ai-mindmap.zip)
 
 UUID:ZX20170815M00010257AI

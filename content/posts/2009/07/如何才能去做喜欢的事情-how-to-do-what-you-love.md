@@ -6,9 +6,9 @@ date: "2009-07-28T04:27:17+00:00"
 summary: |-
   January 2006
 
-  To do something well you have to like it. That idea is not exactly novel. We've got it down to four words: "Do what you love." But it's not enough just to tell people that. Doing what you love is complicated.{{ double-space-with-newline }}喜欢一件事才能做好它，这可不是什么新想法，用4个字概括：”Do what you love.”（“做你喜欢的事”）。然而，知易行难。
+  To do something well you have to like it. That idea is not exactly novel. We've got it down to four words: "Do what you love." But it's not enough just to tell people that. Doing what you love is complicated.喜欢一件事才能做好它，这可不是什么新想法，用4个字概括：”Do what you love.”（“做你喜欢的事”）。然而，知易行难。
 
-  The very idea is foreign to what most of us learn as kids. When I was a kid, it seemed as if work and fun were opposites by definition. Life had two states: some of the time adults were making you do things, and that was called work; the rest of the time you could do what you wanted, and that was called playing. Occasionally the things adults made you do were fun, just as, occasionally, playing wasn't—for example, if you fell and hurt yourself. But except for these few anomalous cases, work was pretty much defined as not-fun.{{ double-space-with-newline }}小时候没有人告诉我们这些。当我还是个孩子的时候，以为工作和娱乐截然不同。生活分成两部分：有时候大人给点活干；剩下的时间就去玩，随心所欲。偶尔，大人让做的事居然挺有趣，而玩也会有不开心的时候，比如摔倒受伤。但这种情况不多见，通常，干活都没啥意思。{{ double-space-with-newline }}既然上学是为了工作，那它肯定也很枯燥。
+  The very idea is foreign to what most of us learn as kids. When I was a kid, it seemed as if work and fun were opposites by definition. Life had two states: some of the time adults were making you do things, and that was called work; the rest of the time you could do what you wanted, and that was called playing. Occasionally the things adults made you do were fun, just as, occasionally, playing wasn't—for example, if you fell and hurt yourself. But except for these few anomalous cases, work was pretty much defined as not-fun.小时候没有人告诉我们这些。当我还是个孩子的时候，以为工作和娱乐截然不同。生活分成两部分：有时候大人给点活干；剩下的时间就去玩，随心所欲。偶尔，大人让做的事居然挺有趣，而玩也会有不开心的时候，比如摔倒受伤。但这种情况不多见，通常，干活都没啥意思。既然上学是为了工作，那它肯定也很枯燥。
 
   And it did not seem to be an accident. School, it was implied, was tedious? _because_?it was preparation for grownup work.
 title: 如何才能去做喜欢的事情 | How to Do What You Love

@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: poison-pill
-  image: /wp-content/uploads/2019/06/poison-pill.jpg
+  image: poison-pill.jpg
 date: "2019-06-13T23:17:44+00:00"
 title: 梁宁的毒丸
 ---

@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: soap-bubbles-3517247_1920
-  image: /wp-content/uploads/2022/04/soap-bubbles-3517247_1920.jpg
+  image: soap-bubbles-3517247_1920.jpg
 date: "2021-04-18T04:25:20+00:00"
 summary: |-
   我的小学是大南三小学，出了校门往右转是自己家的方向，因为奶奶家是在同一个方向，而且奶奶家在回自己家的路上，所以奶奶家更像是一个“日常”的存在。而姥姥家因为是学校的另一个方向，所以心中的距离比奶奶家“远”。

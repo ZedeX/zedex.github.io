@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: conference-room-768441_1920
-  image: /wp-content/uploads/2006/03/conference-room-768441_1920.jpg
+  image: conference-room-768441_1920.jpg
 date: "2006-03-22T02:25:41+00:00"
 title: 关于管理论坛
 ---

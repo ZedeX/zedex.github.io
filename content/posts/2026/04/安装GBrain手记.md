@@ -1,7 +1,7 @@
 ---
 author: zx
-category:
-  - t:-tech
+categories:
+  - t-tech
 date: 2026-04-16T00:53:38+08:00
 title: 安装GBrain手记
 ---

@@ -4,7 +4,7 @@ categories:
   - w-5w1h
 cover:
   alt: Jiddu_Krishnamurti
-  image: /wp-content/uploads/2020/11/Jiddu_Krishnamurti.jpg
+  image: Jiddu_Krishnamurti.jpg
 date: "2011-08-05T06:50:42+00:00"
 summary: |-
   这篇文章是我认真看的克里希那穆提（Jiddu Krishnamurti）的第一篇文章，我看了27次才看完整的看完第一遍，看完觉得怎么可以把事情讲的这么透彻，拔高了思维的深度和广度，看事物的方法。我觉得有必要将这篇文章记录下来，传承下去。

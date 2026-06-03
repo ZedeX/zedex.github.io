@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: mmexport1621763109739
-  image: /wp-content/uploads/2021/05/mmexport1621763109739.jpg
+  image: mmexport1621763109739.jpg
 date: "2021-01-23T09:43:00+00:00"
 title: 明天会更好
 ---

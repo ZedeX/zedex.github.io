@@ -10,7 +10,7 @@ summary: |-
 
   魔兽世界堪称世界上最成功的网络游戏，不过最近几年里和一些国内的策划朋友聊天时，发现他们对于wow玩家（一般是指只玩过wow而没有玩过其他游戏的玩家）来应聘游戏策划都有很大的成见，他们认为这种人如果成为游戏策划将是一种灾难。这其中最主要的原因可能是这些受魔兽世界影响而希望成为策划、并制作出牛逼游戏的年轻人往往一叶障目，即便对于魔兽世界的了解也仅限于了解表象，不能领会魔兽世界成功的精髓，所以将这篇演讲纪要翻译出来并分享给国内的游戏策划和魔兽世界的玩家们，希望对你们有所帮助。
 
-  {{ double-space-with-newline }}文章索引：{{ double-space-with-newline }}易于上手 难于精通{{ double-space-with-newline }}新手指引的重要性{{ double-space-with-newline }}任务设计的哲学{{ double-space-with-newline }}游戏设计之“度”{{ double-space-with-newline }}专注于精华和特色{{ double-space-with-newline }}游戏的平衡性{{ double-space-with-newline }}暴雪式的千锤百炼{{ double-space-with-newline }}精益求精的例子{{ double-space-with-newline }}总结与结束语{{ double-space-with-newline }}英文原文
+  文章索引：易于上手 难于精通新手指引的重要性任务设计的哲学游戏设计之“度”专注于精华和特色游戏的平衡性暴雪式的千锤百炼精益求精的例子总结与结束语英文原文
 title: 魔兽世界的设计之道
 ---
 ![](/wp-content/uploads/2011/07/wow-design.jpg)

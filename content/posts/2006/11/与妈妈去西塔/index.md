@@ -4,11 +4,11 @@ categories:
   - d-daily-life
 date: "2006-11-13T15:59:29+00:00"
 summary: |-
-  我家旁边的高架桥，{{ double-space-with-newline }}桥下是火车道，{{ double-space-with-newline }}看见火车道总会令我们想起些什么……
+  我家旁边的高架桥，桥下是火车道，看见火车道总会令我们想起些什么……
 
   ![001](/wp-content/uploads/2006/11/001.jpg)
 
-  有的时候会想起某些人，{{ double-space-with-newline }}有些时候会想起某些事情，{{ double-space-with-newline }}有的时候会想起某些歌……
+  有的时候会想起某些人，有些时候会想起某些事情，有的时候会想起某些歌……
 title: 与妈妈去西塔
 ---
 我家旁边的高架桥，  

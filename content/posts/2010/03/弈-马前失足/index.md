@@ -5,11 +5,18 @@ categories:
 date: "2010-03-22T16:35:25+00:00"
 title: 20100323 弈 马前失足
 ---
-[![20100323 弈](/wp-content/uploads/2010/03/20100323.png)](/wp-content/uploads/2010/03/20100323.png)
+[![20100323 弈](20100323.png)](/wp-content/uploads/2010/03/20100323.png)
 
 马前失足 图  
 执黑 中盘负
 
-抱歉，您的浏览器不支持本脚本，请直接 [下载棋谱](/wp-content/uploads/2010/03/20100323.sgf)
+<link rel="stylesheet" href="/wgo/wgo.player.css">
+<script src="/wgo/wgo.min.js"></script>
+<script src="/wgo/wgo.player.min.js"></script>
 
-[棋谱下载](/wp-content/uploads/2010/03/20100323.sgf "棋谱下载")
+<div id="wgo-20100323" style="width: 600px; margin: 1em auto;"></div>
+<script>
+new WGo.Player.BasicPlayer(document.getElementById("wgo-20100323"), { sgfFile: "20100323.sgf" });
+</script>
+
+[棋谱下载](20100323.sgf)

@@ -5,7 +5,7 @@ categories:
   - t-tech
 cover:
   alt: anatomy-1751201
-  image: /wp-content/uploads/2006/05/anatomy-1751201.png
+  image: anatomy-1751201.png
 date: "2006-05-02T07:58:16+00:00"
 title: The Hacker's Code
 ---

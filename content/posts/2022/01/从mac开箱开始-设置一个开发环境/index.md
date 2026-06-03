@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: ide
-  image: /wp-content/uploads/2022/05/ide.webp
+  image: ide.webp
 date: "2022-01-07T08:56:00+00:00"
 title: 从Mac开箱开始 设置一个开发环境
 ---

@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: tree-736877
-  image: /wp-content/uploads/2006/05/tree-736877.jpg
+  image: tree-736877.jpg
 date: "2006-05-17T12:18:27+00:00"
 title: Wineglass to the Moon, No One to Be Boon 金樽空对月 无处话凄凉
 ---

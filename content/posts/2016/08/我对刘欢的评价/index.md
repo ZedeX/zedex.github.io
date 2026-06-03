@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: 唱歌
-  image: /wp-content/uploads/2019/05/face-2378823_1920.jpg
+  image: face-2378823_1920.jpg
 date: "2016-08-12T10:41:35+00:00"
 title: 我对刘欢的评价
 ---

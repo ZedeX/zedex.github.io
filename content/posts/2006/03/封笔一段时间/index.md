@@ -4,7 +4,7 @@ categories:
   - d-daily-life
 cover:
   alt: letters-2742640_1920
-  image: /wp-content/uploads/2006/03/letters-2742640_1920.jpg
+  image: letters-2742640_1920.jpg
 date: "2006-03-31T15:40:31+00:00"
 title: 封笔一段时间
 ---

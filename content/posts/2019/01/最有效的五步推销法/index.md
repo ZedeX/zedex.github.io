@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: clothing-store-984396_1920
-  image: /wp-content/uploads/2020/08/clothing-store-984396_1920.jpg
+  image: clothing-store-984396_1920.jpg
 date: "2019-01-06T06:04:11+00:00"
 summary: |-
   很多场合，我们需要说服别人。比如，说服客户购买产品，说服风投投钱。

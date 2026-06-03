@@ -12,7 +12,7 @@ summary: |-
 
   ### 功能描述 Description
 
-  本插件允许你给分类(Category)和页面(Page)增加快捷键，方便终极用户访问。插件很小，速度很快，几乎不占用系统资源。{{ double-space-with-newline }}This plugin allows you to add Access Keys to Category and Page navigation menus to make your website far more accessible.
+  本插件允许你给分类(Category)和页面(Page)增加快捷键，方便终极用户访问。插件很小，速度很快，几乎不占用系统资源。This plugin allows you to add Access Keys to Category and Page navigation menus to make your website far more accessible.
 
   ### 支持版本 Supported Version
 
@@ -20,7 +20,7 @@ summary: |-
 
   ### 用法 Usage
 
-  1、上传到WordPress插件目录；{{ double-space-with-newline }}2、在后台插件管理页面中激活该插件；{{ double-space-with-newline }}3、到后台在“管理”中找到本插件(Access Keys)；{{ double-space-with-newline }}4、阅读其指南，并继续下一步操作。
+  1、上传到WordPress插件目录；2、在后台插件管理页面中激活该插件；3、到后台在“管理”中找到本插件(Access Keys)；4、阅读其指南，并继续下一步操作。
 title: WordPress插件：Access Keys 简体中文版
 ---
 English Name: WordPress Plugin: Access Keys Simplified Chinese Version?

@@ -4,7 +4,7 @@ categories:
   - m-music
 cover:
   alt: love-560783
-  image: /wp-content/uploads/2006/04/love-560783.jpg
+  image: love-560783.jpg
 date: "2006-04-12T16:05:56+00:00"
 title: Valentine's Day 情人节
 ---

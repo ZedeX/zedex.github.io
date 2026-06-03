@@ -4,7 +4,7 @@ categories:
   - l-life
 cover:
   alt: mmexport1617013977585
-  image: /wp-content/uploads/2021/03/mmexport1617013977585.jpg
+  image: mmexport1617013977585.jpg
 date: "2020-10-02T17:33:00+00:00"
 title: 十一小聚有感
 ---

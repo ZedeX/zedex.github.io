@@ -5,7 +5,7 @@ categories:
   - t-tech
 cover:
   alt: security-265130_1920
-  image: /wp-content/uploads/2021/03/security-265130_1920.jpg
+  image: security-265130_1920.jpg
 date: "2019-02-23T17:52:00+00:00"
 title: 攻防演练业务人员自查清单 Checklist
 ---

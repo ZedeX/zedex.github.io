@@ -12,4 +12,4 @@ title: 双十一：狂欢节的冷思考
 4、从消费者角度来说，商家比你精明、比你专业。所以，显性成本越低的事情，隐性成本越高，只不过你没意识到而已。打折、满减、红包，对应了人性的贪、嗔、痴；  
 5、羡慕那些别人狂欢我自孤单的人，他们其实才是真正的人生赢家。
 
-[![image](/wp-content/uploads/2016/02/mmexport1456160382186.jpg)](/wp-content/uploads/2016/02/mmexport1456160382186.jpg)
+[![image](mmexport1456160382186.jpg)](/wp-content/uploads/2016/02/mmexport1456160382186.jpg)

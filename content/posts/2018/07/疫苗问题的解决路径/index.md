@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: vaccination-2722937_1920
-  image: /wp-content/uploads/2018/07/vaccination-2722937_1920.jpg
+  image: vaccination-2722937_1920.jpg
 date: "2018-07-23T01:09:01+00:00"
 title: 疫苗问题的解决路径
 ---

@@ -5,7 +5,7 @@ categories:
   - z-zorro
 cover:
   alt: book-1822474_1920
-  image: /wp-content/uploads/2019/10/book-1822474_1920.jpg
+  image: book-1822474_1920.jpg
 date: "2019-10-18T13:21:36+00:00"
 summary: |-
   孩子所在的幼儿园请了朱泽华老师来做讲座，觉得挺有帮助。特笔记如下：
@@ -32,7 +32,7 @@ summary: |-
 
   要传授学习的方法、学习态度、学习能力和情绪管理
 
-  来适应学校、适应社会、适应环境{{ double-space-with-newline }}
+  来适应学校、适应社会、适应环境
 title: 如何让孩子爱上学习
 ---
 孩子所在的幼儿园请了朱泽华老师来做讲座，觉得挺有帮助。特笔记如下：

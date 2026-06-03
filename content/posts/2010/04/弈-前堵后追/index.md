@@ -5,7 +5,7 @@ categories:
 date: "2010-04-21T15:12:28+00:00"
 title: 20100421 弈 前堵后追
 ---
-[![20100421 对弈 围棋](/wp-content/uploads/2010/04/20100421.png)](/wp-content/uploads/2010/04/20100421.png)
+[![20100421 对弈 围棋](20100421.png)](/wp-content/uploads/2010/04/20100421.png)
 
 前堵后追 图  
 执白 中盘胜  

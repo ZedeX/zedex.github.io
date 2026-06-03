@@ -4,6 +4,17 @@ categories:
   - l-life
 date: "2010-02-23T06:53:59+00:00"
 title: lsn出国
+custom_comments:
+  - author: "老赵"
+    date: "2010-02-23"
+    content: |
+      王宝森？咒人家呢你。。。
+      想说的是“赖昌星”吧
+    depth: 0
+  - author: "FlyChina"
+    date: "2010-02-25"
+    content: "对，是赖昌星，不过不改了。"
+    depth: 1
 ---
 lsn同学是我们这一批人中，走在前面的，无论结婚还是出国。
 

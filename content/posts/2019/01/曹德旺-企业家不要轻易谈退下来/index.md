@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: caodewang
-  image: /wp-content/uploads/2020/10/caodewang.jpg
+  image: caodewang.jpg
 date: "2019-01-21T04:13:19+00:00"
 summary: |-
   曹德旺是我非常尊敬的企业家，他留给我的主要印象是：

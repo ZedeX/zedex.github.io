@@ -4,17 +4,17 @@ categories:
   - z-zorro
 cover:
   alt: baoxiulan
-  image: /wp-content/uploads/2019/08/baoxiulan.png
+  image: baoxiulan.png
 date: "2019-08-15T08:16:23+00:00"
 summary: |-
   这本书简单的把宝宝的性格分成了九个维度，对于没有学过儿童心理学的家长们有些操偶作指引、科普、对照的作用。
 
-  [![](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)
+  [![](鲍秀兰谈婴幼儿健全人格培养.png)](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)
 title: 思维导图：鲍秀兰谈婴幼儿健全人格培养
 ---
 这本书简单的把宝宝的性格分成了九个维度，对于没有学过儿童心理学的家长们有些操偶作指引、科普、对照的作用。
 
-[![](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)
+[![](鲍秀兰谈婴幼儿健全人格培养.png)](/wp-content/uploads/2019/09/鲍秀兰谈婴幼儿健全人格培养.png)
 
 **鲍秀兰谈婴幼儿健全人格培养**
 

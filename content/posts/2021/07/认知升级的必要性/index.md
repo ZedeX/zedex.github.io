@@ -5,7 +5,7 @@ categories:
   - z-zorro
 cover:
   alt: 认知升级
-  image: /wp-content/uploads/2021/07/brain-4372153_1920-e1649133678683.jpg
+  image: brain-4372153_1920-e1649133678683.jpg
 date: "2021-07-24T14:56:00+00:00"
 title: 认知升级的必要性
 ---

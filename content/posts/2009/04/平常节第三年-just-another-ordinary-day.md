@@ -12,7 +12,7 @@ summary: |-
 
   晚上到家已是一身疲惫，不过还是坚持打扫屋子，下楼运动。
 
-  再平常的一天，有规律的作息和必要的运动也是必不可少的。{{ double-space-with-newline }}
+  再平常的一天，有规律的作息和必要的运动也是必不可少的。
 tag:
   - 平常节
 title: 平常节第三年：Just Another Ordinary Day...

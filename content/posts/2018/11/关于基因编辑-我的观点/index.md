@@ -4,7 +4,7 @@ categories:
   - x-x
 cover:
   alt: gene-edit
-  image: /wp-content/uploads/2019/01/gene-edit.jpg
+  image: gene-edit.jpg
 date: "2018-11-26T10:19:04+00:00"
 title: 关于基因编辑 我的观点
 ---

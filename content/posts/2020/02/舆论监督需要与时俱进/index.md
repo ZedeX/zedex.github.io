@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: news-1172463_1920
-  image: /wp-content/uploads/2020/01/news-1172463_1920.jpg
+  image: news-1172463_1920.jpg
 date: "2020-02-25T02:15:17+00:00"
 title: 舆论监督需要与时俱进
 ---

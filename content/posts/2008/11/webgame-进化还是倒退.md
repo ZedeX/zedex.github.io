@@ -22,7 +22,7 @@ summary: |-
 
   原因是什么？
 
-  公司的唯利益论，忽视真正有用的创新。{{ double-space-with-newline }}
+  公司的唯利益论，忽视真正有用的创新。
 title: 'Webgame: 进化还是倒退？'
 ---
 随着SNS概念的不断发展，越来越多的创业公司希望通过SNS的“开放平台”，开发出相应的“APP应用”，这样既可以借助SNS的用户数量不必过多的在市场营销上花费更多的投入，又可以通过口碑营销或病毒营销给自己的应用带来流量。再通过流量吸引广告主获取广告收入，前景似乎一片光明。
@@ -46,8 +46,8 @@ title: 'Webgame: 进化还是倒退？'
 公司的唯利益论，忽视真正有用的创新。  
 
 Mud Game的早期形态：通过telnet登录到服务器进行实时操作  
-[![aardwolf-mud-2](/wp-content/uploads/2011/07/aardwolf-mud-211.jpg?w=300)](/wp-content/uploads/2011/07/aardwolf-mud-211.jpg)  
+[![aardwolf-mud-2](aardwolf-mud-211.jpg?w=300)](/wp-content/uploads/2011/07/aardwolf-mud-211.jpg)  
 一种进化版的Mud：专用客户端，更丰富的功能，更完善的文字界面，更便捷的操作
 
-[![](/wp-content/uploads/2011/07/webgame-screen-shot11.png?w=300)](/wp-content/uploads/2011/07/webgame-screen-shot11.png)  
+[![](webgame-screen-shot11.png?w=300)](/wp-content/uploads/2011/07/webgame-screen-shot11.png)  
 现代的Webgame：图片化了的无质Mud

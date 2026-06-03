@@ -4,7 +4,7 @@ categories:
   - k-kao
 cover:
   alt: game-bank-1003151_1920
-  image: /wp-content/uploads/2022/04/game-bank-1003151_1920.jpg
+  image: game-bank-1003151_1920.jpg
 date: "2021-05-22T06:15:48+00:00"
 title: 全球首个基于微信的挖矿平台正式成立
 ---

@@ -8,7 +8,7 @@ summary: |-
 
   So what's the trend after all?
 
-  ![](/wp-content/uploads/2011/07/bring_to_life3.jpg){{ double-space-with-newline }}Would the virtual world combine to the real one?
+  ![](/wp-content/uploads/2011/07/bring_to_life3.jpg)Would the virtual world combine to the real one?
 
   * * *
 tag:

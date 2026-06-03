@@ -4,21 +4,21 @@ categories:
   - b-books
 cover:
   alt: ray-dalio
-  image: /wp-content/uploads/2019/09/ray-dalio.jpg
+  image: ray-dalio.jpg
 date: "2019-05-10T03:09:26+00:00"
 summary: |-
   这篇文章是瑞·达利欧在其官网最新的一篇文章，瑞是我生活工作的精神导师之一。
 
   点击下图下载高清大图：
 
-  [![](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.jpg)](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.pdf)
+  [![](190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.jpg)](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.pdf)
 title: 思维导图：美国社会的矛盾及如何改良（原文：为什么以及如何改革资本主义） - 瑞·达利欧
 ---
 这篇文章是瑞·达利欧在其官网最新的一篇文章，瑞是我生活工作的精神导师之一。
 
 点击下图下载高清大图：
 
-[![](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.jpg)](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.pdf)
+[![](190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.jpg)](/wp-content/uploads/2019/05/190509-ray-dalio-why-and-how-capitalism-needs-to-be-reformed.pdf)
 
 **瑞达利欧：美国社会的矛盾及如何改良（原文：为什么以及如何改革资本主义）**
 

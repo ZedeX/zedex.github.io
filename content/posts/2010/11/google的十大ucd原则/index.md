@@ -4,7 +4,7 @@ categories:
   - t-tech
 date: "2010-11-28T04:19:24+00:00"
 summary: |-
-  1\. Focus on people – their lives, their work, their dreams.{{ double-space-with-newline }}1\. 以用户为中心 - 他们的生活，工作以及梦想。
+  1\. Focus on people – their lives, their work, their dreams.1\. 以用户为中心 - 他们的生活，工作以及梦想。
 
   The Google User Experience team works to discover people’s actual needs, including needs they can’t always articulate. Armed with that information, Google can create products that solve real-world problems and spark the creativity of all kinds of people. Improving people’s lives, not just easing step-by-step tasks, is our goal.
 
@@ -12,7 +12,7 @@ summary: |-
 
   谷歌的用户体验组专注于研究人们的真正需求，甚至包括一些人们难以表达的。基于研究出来的一些信息，谷歌可以做出一些产品来解决人们现实生活中的难题，来激发不同类型人的创造性。我们的目标是改善人们的生活，而不是简单的循规蹈矩的任务。
 
-  综上所述，一个好的谷歌设计的产品在日常生活中很有用的。它不会试图用尖端科技和视觉风格来让用户印象深刻 \- 尽管它有时是这样的。它不会强烈的要求用户使用他们不想使用的功能 \- 却会为感兴趣的人提供一个自然的学习途径。它不会侵犯到人们的生活 \- 却会为想要展示信息的人们提供途径，为想要更快捷又有创造性的工作的人提供途径，为想要将想法分享给朋友和世界的人提供途径。{{ double-space-with-newline }}
+  综上所述，一个好的谷歌设计的产品在日常生活中很有用的。它不会试图用尖端科技和视觉风格来让用户印象深刻 \- 尽管它有时是这样的。它不会强烈的要求用户使用他们不想使用的功能 \- 却会为感兴趣的人提供一个自然的学习途径。它不会侵犯到人们的生活 \- 却会为想要展示信息的人们提供途径，为想要更快捷又有创造性的工作的人提供途径，为想要将想法分享给朋友和世界的人提供途径。
 title: Google的十大UCD原则
 ---
 1\. Focus on people – their lives, their work, their dreams.  

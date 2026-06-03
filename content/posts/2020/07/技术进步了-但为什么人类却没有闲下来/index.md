@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: pedestrians-400811_1920
-  image: /wp-content/uploads/2020/08/pedestrians-400811_1920.jpg
+  image: pedestrians-400811_1920.jpg
 date: "2020-07-03T03:49:00+00:00"
 title: 技术进步了，但为什么人类却没有闲下来？
 ---

@@ -4,7 +4,7 @@ categories:
   - w-5w1h
 cover:
   alt: hsbc_logo_sc
-  image: /wp-content/uploads/2019/09/hsbc_logo_sc.png
+  image: hsbc_logo_sc.png
 date: "2019-01-24T06:38:57+00:00"
 title: 汇丰香港银行开户记录
 ---

@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html><head>
+	<title>傅里叶变换交互式入门</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="fourier_files/styles.css" rel="stylesheet" type="text/css">
+	<link href="fourier_files/css.css" rel="stylesheet">
+	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <meta name="viewport" content="width=device-width">
+
+	<!-- Favicon magic -->
+	<link rel="apple-touch-icon" sizes="180x180" href="http://www.jezzamon.com/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="http://www.jezzamon.com/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="http://www.jezzamon.com/favicon-16x16.png">
+	<link rel="manifest" href="http://www.jezzamon.com/site.webmanifest">
+	<link rel="mask-icon" href="http://www.jezzamon.com/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#ffc40d">
+	<meta name="theme-color" content="#ffffff">
+	
+	<!-- Stuff for Facebook/Twitter -->
+	<meta property="og:url" content="http://www.jezzamon.com/fourier/zh-cn.html">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="傅里叶变换交互式入门">
+	<meta property="og:description" content="傅里叶变换是一种在各个领域都经常使用的数学工具。这个网站将为你介绍傅里叶变换能干什么，为什么傅里叶变换非常有用，以及你如何利用傅里叶变换干漂亮的事。">
+	<meta property="og:image" content="http://www.jezzamon.com/fourier/preview.png">
+	<meta property="og:image:type" content="image/png">
+	<meta property="og:image:width" content="1200">
+	<meta property="og:image:height" content="630">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@jezzamonn">
+    <meta property="fb:app_id" content="264785490940720">
+</head>
+<body>
+<header>
+	<canvas id="header-background" class="header-background" width="1687" height="222"></canvas>
+	<h1>傅里叶变换交互式入门</h1>
+</header>
+<main id="content">
+	<p>傅里叶变换是一种在各个领域都经常使用的数学工具。这个网站将为你介绍傅里叶变换能干什么，为什么傅里叶变换非常有用，以及你如何利用傅里叶变换干漂亮的事。就像下面这样：</p>
+<canvas id="self-draw" class="sketch" width="500" height="500"></canvas>
+<p>我将为你解释这个动画是如何工作的，顺便为你详细地解释傅里叶变换！</p>
+<p>这次旅途结束后，你将会掌握下面这些知识：</p>
+<ul>
+<li>什么是傅里叶变换</li>
+<li>傅里叶变换的一些实际用途</li>
+<li>傅立叶变换的一些很酷的用法（虽然有些没有实际意义）</li>
+</ul>
+<p>我们现在暂时不提那些复杂的数学公式。傅里叶背后的数学原理十分有趣，但最好还是先从它的实际应用开始，以及为什么要使用它。 如果你想了解更多，下面提供了一些进一步的阅读建议！</p>
+<h2 id="">傅里叶变换是什么</h2>
+<p>简而言之，傅里叶变换把一个输入信号分解成一堆正弦波的叠加。就像大多数数学方法一样，这个名字来自一个名叫傅立叶的人。</p>
+<p>让我们从一些简单的例子开始，然后继续前进。首先，我们来看看什么是波 —— 波随着时间的推移，一直按照某一规律变化。</p>
+<p>这是一个波的例子：</p>
+<canvas id="combo-sine-wave" class="sketch" width="500" height="300"></canvas>
+<p>这个波可以分解为两个正弦波的叠加。也就是说，当我们将两个正弦波相加时，就会得到原来的波。</p>
+<canvas id="combo-sine-wave-split" class="sketch" width="500" height="500"></canvas>
+<p>傅里叶变换可以让我们从一个复杂的波形里面，把构成这个波的单个正弦波分离出来。在这个例子中，你几乎可以通过“脑补”完成这一操作。</p>
+<p>为什么？事实证明，现实世界中的许多事物间的互相交互，都是基于正弦波。我们通常将这种波的快慢的性质，称为波的频率。</p>
+<p>最明显的例子就是声音 —— 当我们听到声音时，我们听不到那条波浪线，但我们听到构成声音的正弦波的不同频率。</p>
+<p><button id="together-button" class="button">播放整个波形</button></p>
+<p><button id="split-button-1" class="button">播放高频成分</button></p>
+<p><button id="split-button-2" class="button">播放低频成分</button></p>
+<p>能够在计算机上区分这两个音调，我们就可以了解一个人实际可以听到的内容。我们可以理解声音的高低，或弄清楚这个波包含了什么音符。</p>
+<p>一些波看起来不像由正弦波构成，我们也可以用这个分解的过程来进行分析。</p>
+<p>我们来看看这个家伙吧。这个波称为方波。</p>
+<canvas id="square-wave" class="sketch" width="500" height="300"></canvas>
+<p>虽然看起来不太可能，但它确实也可以分解成正弦波。</p>
+<canvas id="square-wave-split" class="sketch" width="500" height="500"></canvas>
+<p>这次我们需要很多 —— 理论上是无限多的正弦波来完美地表达一个方波。 随着我们加入越来越多的正弦波，叠加出的波形就越来越接近方波。</p>
+<canvas id="square-wave-build-up" class="sketch" width="500" height="500"></canvas>
+<p><input id="square-wave-build-up-slider" type="range" min="0" max="1" value="0.6273853628416373" step="any"></p>
+<p><button id="square-wave-button" class="button">播放波形</button></p>
+<p><em>移动滑块来试试我们需要多少个正弦波。</em>*</p>
+<p>在视觉上，你会注意到前几个正弦波的叠加可以在结果中产生最大差异。滑块滑到一半时，就有一些方波的样子了，但它看起来摇摆不定。加上更多小的正弦波，组合出的波形看起来就平坦了。</p>
+<p>当播放这个波形时，你会发现使用的正弦波少时，声音听起来更低沉一些。这是因为我们把高频率的成分去掉了。</p>
+<p>这一过程可以用来处理任何有周期的波。试一试，画一个你喜欢的波形吧。</p>
+<div class="multi-container">
+<div class="sketch">
+    <canvas id="wave-draw" class="sketch-child" width="500" height="300"></canvas>
+    <p id="wave-draw-instruction" class="instruction wave-instruction">画一个波形！</p>
+</div>
+<canvas id="wave-draw-split" class="sketch" width="500" height="500"></canvas>
+</div>
+<p><input id="wave-draw-slider" type="range" min="0" max="1" value="1" step="any">
+<button id="wave-draw-button" class="button">播放波形</button></p>
+<p><em>移动滑块来观察，正弦波加得越多，组合出的波形越接近你画的原始波形。</em></p>
+<p>和上一个方波类似，除了有些额外的摆动之外，滑块移动到中间位置，生成的波形就很接近你画的了。</p>
+<p>我们可以利用这个事实：使用傅里叶变换，我们可以把音频中最重要的成分表达出来，并且得到和原始声音非常接近的波形。</p>
+<p>在计算机中，波形以一系列数据点的形式来存储。</p>
+<canvas id="wave-samples" class="sketch" width="500" height="500"></canvas>
+<p>我们可以做的是，将声音表示为一堆正弦波。然后可以通过忽略掉较小幅度的高频成分来压缩声音。尽管得出的波形与原始波形不一样，但是听起来将会和原始声音很接近。</p>
+<canvas id="wave-frequencies" class="sketch" width="500" height="500"></canvas>
+<p>这基本上就是MP3做的事情。MP3除此之外还可以更聪明地知道需要保留哪些频率以及扔掉哪些频率。</p>
+<p>所以在这种情况下，我们可以使用傅里叶变换来理解波的基本属性，然后我们可以将它用于数据的压缩之类的事情。</p>
+<p>好的，现在让我们深入了解傅立叶变换。下一部分看起来很酷，也让你更加了解傅立叶变换的作用。但大多只是“看起来”很酷。</p>
+<h2 id="-1">周转圆</h2>
+<p>在开始时，我介绍了傅里叶变换可以将事物分成正弦波。但更酷的是，它产生的正弦波不仅仅是一般的正弦波，它们都是“三维”的正弦波。你可以称之为“复杂的”正弦曲线，或者，“螺旋”。</p>
+<canvas id="complex-sinusoid" class="sketch" width="500" height="500"></canvas>
+<p>如果我们从侧面看，它们看起来像正弦波。但是，从正面看，它们看起来像圆圈。</p>
+<canvas id="complex-sinusoid-turn" class="sketch" width="500" height="500"></canvas>
+<p>到目前为止，我们所做的一切只需要常规的2D正弦波。 当我们对2D波进行傅里叶变换时，“复杂的”部分被忽略了，所以我们最终也只能得到正弦波。</p>
+<p>但是我们可以使用3D正弦波来制作看起来很有趣的东西，就像这个：</p>
+<canvas id="peace-epicycles" class="sketch" width="500" height="500"></canvas>
+<p>这里发生了什么事情呢？</p>
+<p>我们可以将一个手绘图理解为一个3D的形状，因为点的位置在随时间移动。如果你想象一个人正在绘制一只手，那么这三个维度就代表了某一时刻铅笔尖的位置。除了x和y维度告诉我们笔尖的位置，还有一个时间维度。</p>
+<canvas id="peace-3d" class="sketch" width="500" height="500"></canvas>
+<p>现在我们有一个3D的形状，我们不能使用常规2D正弦波把它表示出来。无论我们添加多少2D正弦波，我们都永远不会得到3D。所以我们需要些别的东西。</p>
+<p>我们可以使用的是之前的3D螺旋正弦波。如果我们添加很多这些螺旋，得到的东西就看起来像我们的3D形状。</p>
+<p>请记住，当我们从前面看它们时，这些波浪看起来像圆圈。围绕另一个圆圈移动的圆圈图案，被称为“周转圆”。</p>
+<canvas id="peace-build-up" class="sketch" width="500" height="500"></canvas>
+<p><input id="peace-build-up-slider" type="range" min="0" max="1" value="0.6273853628416373" step="any"></p>
+<p><em>移动滑块来控制加入多少个圆。</em></p>
+<p>像以前一样，我们只用几个圆圈就可以很好地近似表达出原始图案。因为这是一个相当简单的形状，所有后面添加的小圆都是使边缘更加锐利。</p>
+<p>这些适用于任何一个图案。真的，现在你创作的机会来了。</p>
+<div class="multi-container">
+<div class="sketch">
+    <canvas id="draw-zone" class="sketch-child" width="500" height="500"></canvas>
+    <p id="draw-zone-instruction" class="instruction">画一个波形！</p>
+    <button id="draw-zone-undo-button" class="button embedded-button">撤销</button>
+</div>
+<canvas id="circle-zone" class="sketch" width="500" height="500"></canvas>
+</div>
+<p><input id="circle-zone-slider" type="range" min="0" max="1" value="1" step="any"></p>
+<p><em>移动滑块来控制加入多少个圆。</em></p>
+<p>同样，你会发现，对于大多数形状，我们可以用很少的圆圈很好地近似表达它们，要保存一个形状，我们不必保存形状上所有的点。</p>
+<p>这个方法可以应用于实际数据吗？ 答案是可以！ 实际上，我们有另一种称为SVG的数据格式，比我们在这里绘制图案更好用一些。所以目前，我们只是制作了些炫酷的小GIF。</p>
+<canvas id="fourier-title" class="sketch" width="500" height="300"></canvas>
+<p>然而，还有另一种类型的视觉数据使用傅里叶变换。</p>
+<h2 id="jpegs">JPEGs</h2>
+<p>你知道傅立叶变换除了可以表达简单的手绘线条，还可以用于图像吗？ 事实上，我们一直都在使用它，因为这就是JPEG的工作原理！我们将相同的原理应用于图像 —— 将某些东西分成一堆正弦波，然后只存储重要的东西。</p>
+<p>要处理图像，我们需要一种不同类型的正弦波。我们需要这样的一种“正弦波”：无论我们有什么样的图像，我们都可以添加一堆这些正弦波来回到原始图像。</p>
+<p>要做到这一点，我们使用的每个正弦波也将是一个个小图像。我们现在使用一些黑白条纹的小图像，这些更可以表达为“线”，而不是波。为了表示“波”的大小，每个图像将具有或多或少的明暗对比。</p>
+<p>我们也可以以类似的方式表示出颜色，但我们先从灰度图像开始玩。为了表示灰度图像，我们需要一些水平的波图案，</p>
+<p><img id="img-y-component" src="fourier_files/components-7-0.png" class="sketch sketch-small"></p>
+<p>还有一些垂直的波图案。</p>
+<p><img id="img-x-component" src="fourier_files/components-0-7.png" class="sketch sketch-small"></p>
+<p>就其本身而言，只有水平和垂直图像还不足以表达出我们可以看到的图像。我们还需要一些额外的图案，将两者相乘。</p>
+<div class="multi-container">
+<img id="img-mult-x-component" src="fourier_files/components-0-7.png" class="sketch sketch-mult">
+<div class="maths">×</div>
+<img id="img-mult-y-component" src="fourier_files/components-7-0.png" class="sketch sketch-mult">
+<div class="maths">=</div>
+<img id="img-x-y-component" src="fourier_files/components-7-7.png" class="sketch sketch-mult">
+</div>
+<p>要得到一个8x8分辨率的图像，这里是我们需要的所有小图案。</p>
+<div class="img-component-container">
+    <img src="fourier_files/components-0-0.png" class="img-component">
+    <img src="fourier_files/components-0-1.png" class="img-component">
+    <img src="fourier_files/components-0-2.png" class="img-component">
+    <img src="fourier_files/components-0-3.png" class="img-component">
+    <img src="fourier_files/components-0-4.png" class="img-component">
+    <img src="fourier_files/components-0-5.png" class="img-component">
+    <img src="fourier_files/components-0-6.png" class="img-component">
+    <img src="fourier_files/components-0-7.png" class="img-component">
+    <img src="fourier_files/components-1-0.png" class="img-component">
+    <img src="fourier_files/components-1-1.png" class="img-component">
+    <img src="fourier_files/components-1-2.png" class="img-component">
+    <img src="fourier_files/components-1-3.png" class="img-component">
+    <img src="fourier_files/components-1-4.png" class="img-component">
+    <img src="fourier_files/components-1-5.png" class="img-component">
+    <img src="fourier_files/components-1-6.png" class="img-component">
+    <img src="fourier_files/components-1-7.png" class="img-component">
+    <img src="fourier_files/components-2-0.png" class="img-component">
+    <img src="fourier_files/components-2-1.png" class="img-component">
+    <img src="fourier_files/components-2-2.png" class="img-component">
+    <img src="fourier_files/components-2-3.png" class="img-component">
+    <img src="fourier_files/components-2-4.png" class="img-component">
+    <img src="fourier_files/components-2-5.png" class="img-component">
+    <img src="fourier_files/components-2-6.png" class="img-component">
+    <img src="fourier_files/components-2-7.png" class="img-component">
+    <img src="fourier_files/components-3-0.png" class="img-component">
+    <img src="fourier_files/components-3-1.png" class="img-component">
+    <img src="fourier_files/components-3-2.png" class="img-component">
+    <img src="fourier_files/components-3-3.png" class="img-component">
+    <img src="fourier_files/components-3-4.png" class="img-component">
+    <img src="fourier_files/components-3-5.png" class="img-component">
+    <img src="fourier_files/components-3-6.png" class="img-component">
+    <img src="fourier_files/components-3-7.png" class="img-component">
+    <img src="fourier_files/components-4-0.png" class="img-component">
+    <img src="fourier_files/components-4-1.png" class="img-component">
+    <img src="fourier_files/components-4-2.png" class="img-component">
+    <img src="fourier_files/components-4-3.png" class="img-component">
+    <img src="fourier_files/components-4-4.png" class="img-component">
+    <img src="fourier_files/components-4-5.png" class="img-component">
+    <img src="fourier_files/components-4-6.png" class="img-component">
+    <img src="fourier_files/components-4-7.png" class="img-component">
+    <img src="fourier_files/components-5-0.png" class="img-component">
+    <img src="fourier_files/components-5-1.png" class="img-component">
+    <img src="fourier_files/components-5-2.png" class="img-component">
+    <img src="fourier_files/components-5-3.png" class="img-component">
+    <img src="fourier_files/components-5-4.png" class="img-component">
+    <img src="fourier_files/components-5-5.png" class="img-component">
+    <img src="fourier_files/components-5-6.png" class="img-component">
+    <img src="fourier_files/components-5-7.png" class="img-component">
+    <img src="fourier_files/components-6-0.png" class="img-component">
+    <img src="fourier_files/components-6-1.png" class="img-component">
+    <img src="fourier_files/components-6-2.png" class="img-component">
+    <img src="fourier_files/components-6-3.png" class="img-component">
+    <img src="fourier_files/components-6-4.png" class="img-component">
+    <img src="fourier_files/components-6-5.png" class="img-component">
+    <img src="fourier_files/components-6-6.png" class="img-component">
+    <img src="fourier_files/components-6-7.png" class="img-component">
+    <img src="fourier_files/components-7-0.png" class="img-component">
+    <img src="fourier_files/components-7-1.png" class="img-component">
+    <img src="fourier_files/components-7-2.png" class="img-component">
+    <img src="fourier_files/components-7-3.png" class="img-component">
+    <img src="fourier_files/components-7-4.png" class="img-component">
+    <img src="fourier_files/components-7-5.png" class="img-component">
+    <img src="fourier_files/components-7-6.png" class="img-component">
+    <img src="fourier_files/components-7-7.png" class="img-component">
+</div>
+<p>如果我们把这些小图案的对比度调整到适当的值，然后将它们相加，我们就可以得出任意图像。</p>
+<p>让我们从一个字母"A"开始。它非常小，但我们需要它很小，否则我们最终会得到太多其他的图像。</p>
+<p><img src="fourier_files/a.png" class="sketch sketch-letter"></p>
+<p>随着我们添加越来越多的这些图案，我们最终得到的东西越来越接近实际图像。我觉得你只要添加很少一部分图案，就能看出字母“A”的样子来。</p>
+<div class="hidden-preload">
+    <img src="fourier_files/img-buildup-0-0.png">
+    <img src="fourier_files/img-buildup-0-1.png">
+    <img src="fourier_files/img-buildup-0-2.png">
+    <img src="fourier_files/img-buildup-0-3.png">
+    <img src="fourier_files/img-buildup-0-4.png">
+    <img src="fourier_files/img-buildup-0-5.png">
+    <img src="fourier_files/img-buildup-0-6.png">
+    <img src="fourier_files/img-buildup-0-7.png">
+    <img src="fourier_files/img-buildup-1-0.png">
+    <img src="fourier_files/img-buildup-1-1.png">
+    <img src="fourier_files/img-buildup-1-2.png">
+    <img src="fourier_files/img-buildup-1-3.png">
+    <img src="fourier_files/img-buildup-1-4.png">
+    <img src="fourier_files/img-buildup-1-5.png">
+    <img src="fourier_files/img-buildup-1-6.png">
+    <img src="fourier_files/img-buildup-1-7.png">
+    <img src="fourier_files/img-buildup-2-0.png">
+    <img src="fourier_files/img-buildup-2-1.png">
+    <img src="fourier_files/img-buildup-2-2.png">
+    <img src="fourier_files/img-buildup-2-3.png">
+    <img src="fourier_files/img-buildup-2-4.png">
+    <img src="fourier_files/img-buildup-2-5.png">
+    <img src="fourier_files/img-buildup-2-6.png">
+    <img src="fourier_files/img-buildup-2-7.png">
+    <img src="fourier_files/img-buildup-3-0.png">
+    <img src="fourier_files/img-buildup-3-1.png">
+    <img src="fourier_files/img-buildup-3-2.png">
+    <img src="fourier_files/img-buildup-3-3.png">
+    <img src="fourier_files/img-buildup-3-4.png">
+    <img src="fourier_files/img-buildup-3-5.png">
+    <img src="fourier_files/img-buildup-3-6.png">
+    <img src="fourier_files/img-buildup-3-7.png">
+    <img src="fourier_files/img-buildup-4-0.png">
+    <img src="fourier_files/img-buildup-4-1.png">
+    <img src="fourier_files/img-buildup-4-2.png">
+    <img src="fourier_files/img-buildup-4-3.png">
+    <img src="fourier_files/img-buildup-4-4.png">
+    <img src="fourier_files/img-buildup-4-5.png">
+    <img src="fourier_files/img-buildup-4-6.png">
+    <img src="fourier_files/img-buildup-4-7.png">
+    <img src="fourier_files/img-buildup-5-0.png">
+    <img src="fourier_files/img-buildup-5-1.png">
+    <img src="fourier_files/img-buildup-5-2.png">
+    <img src="fourier_files/img-buildup-5-3.png">
+    <img src="fourier_files/img-buildup-5-4.png">
+    <img src="fourier_files/img-buildup-5-5.png">
+    <img src="fourier_files/img-buildup-5-6.png">
+    <img src="fourier_files/img-buildup-5-7.png">
+    <img src="fourier_files/img-buildup-6-0.png">
+    <img src="fourier_files/img-buildup-6-1.png">
+    <img src="fourier_files/img-buildup-6-2.png">
+    <img src="fourier_files/img-buildup-6-3.png">
+    <img src="fourier_files/img-buildup-6-4.png">
+    <img src="fourier_files/img-buildup-6-5.png">
+    <img src="fourier_files/img-buildup-6-6.png">
+    <img src="fourier_files/img-buildup-6-7.png">
+    <img src="fourier_files/img-buildup-7-0.png">
+    <img src="fourier_files/img-buildup-7-1.png">
+    <img src="fourier_files/img-buildup-7-2.png">
+    <img src="fourier_files/img-buildup-7-3.png">
+    <img src="fourier_files/img-buildup-7-4.png">
+    <img src="fourier_files/img-buildup-7-5.png">
+    <img src="fourier_files/img-buildup-7-6.png">
+    <img src="fourier_files/img-buildup-7-7.png">
+</div>
+<div id="letter-buildup" class="multi-container">
+<img id="letter-buildup-letter" src="fourier_files/img-buildup-7-7.png" class="sketch sketch-letter">
+<div id="letter-buildup-components" class="img-component-container">
+    <img src="fourier_files/img-components-0-0.png" class="img-component">
+    <img src="fourier_files/img-components-0-1.png" class="img-component">
+    <img src="fourier_files/img-components-0-2.png" class="img-component">
+    <img src="fourier_files/img-components-0-3.png" class="img-component">
+    <img src="fourier_files/img-components-0-4.png" class="img-component">
+    <img src="fourier_files/img-components-0-5.png" class="img-component">
+    <img src="fourier_files/img-components-0-6.png" class="img-component">
+    <img src="fourier_files/img-components-0-7.png" class="img-component">
+    <img src="fourier_files/img-components-1-0.png" class="img-component">
+    <img src="fourier_files/img-components-1-1.png" class="img-component">
+    <img src="fourier_files/img-components-1-2.png" class="img-component">
+    <img src="fourier_files/img-components-1-3.png" class="img-component">
+    <img src="fourier_files/img-components-1-4.png" class="img-component">
+    <img src="fourier_files/img-components-1-5.png" class="img-component">
+    <img src="fourier_files/img-components-1-6.png" class="img-component">
+    <img src="fourier_files/img-components-1-7.png" class="img-component">
+    <img src="fourier_files/img-components-2-0.png" class="img-component">
+    <img src="fourier_files/img-components-2-1.png" class="img-component">
+    <img src="fourier_files/img-components-2-2.png" class="img-component">
+    <img src="fourier_files/img-components-2-3.png" class="img-component">
+    <img src="fourier_files/img-components-2-4.png" class="img-component">
+    <img src="fourier_files/img-components-2-5.png" class="img-component">
+    <img src="fourier_files/img-components-2-6.png" class="img-component">
+    <img src="fourier_files/img-components-2-7.png" class="img-component">
+    <img src="fourier_files/img-components-3-0.png" class="img-component">
+    <img src="fourier_files/img-components-3-1.png" class="img-component">
+    <img src="fourier_files/img-components-3-2.png" class="img-component">
+    <img src="fourier_files/img-components-3-3.png" class="img-component">
+    <img src="fourier_files/img-components-3-4.png" class="img-component">
+    <img src="fourier_files/img-components-3-5.png" class="img-component">
+    <img src="fourier_files/img-components-3-6.png" class="img-component">
+    <img src="fourier_files/img-components-3-7.png" class="img-component">
+    <img src="fourier_files/img-components-4-0.png" class="img-component">
+    <img src="fourier_files/img-components-4-1.png" class="img-component">
+    <img src="fourier_files/img-components-4-2.png" class="img-component">
+    <img src="fourier_files/img-components-4-3.png" class="img-component">
+    <img src="fourier_files/img-components-4-4.png" class="img-component">
+    <img src="fourier_files/img-components-4-5.png" class="img-component">
+    <img src="fourier_files/img-components-4-6.png" class="img-component">
+    <img src="fourier_files/img-components-4-7.png" class="img-component">
+    <img src="fourier_files/img-components-5-0.png" class="img-component">
+    <img src="fourier_files/img-components-5-1.png" class="img-component">
+    <img src="fourier_files/img-components-5-2.png" class="img-component">
+    <img src="fourier_files/img-components-5-3.png" class="img-component">
+    <img src="fourier_files/img-components-5-4.png" class="img-component">
+    <img src="fourier_files/img-components-5-5.png" class="img-component">
+    <img src="fourier_files/img-components-5-6.png" class="img-component">
+    <img src="fourier_files/img-components-5-7.png" class="img-component">
+    <img src="fourier_files/img-components-6-0.png" class="img-component">
+    <img src="fourier_files/img-components-6-1.png" class="img-component">
+    <img src="fourier_files/img-components-6-2.png" class="img-component">
+    <img src="fourier_files/img-components-6-3.png" class="img-component">
+    <img src="fourier_files/img-components-6-4.png" class="img-component">
+    <img src="fourier_files/img-components-6-5.png" class="img-component">
+    <img src="fourier_files/img-components-6-6.png" class="img-component">
+    <img src="fourier_files/img-components-6-7.png" class="img-component">
+    <img src="fourier_files/img-components-7-0.png" class="img-component">
+    <img src="fourier_files/img-components-7-1.png" class="img-component">
+    <img src="fourier_files/img-components-7-2.png" class="img-component">
+    <img src="fourier_files/img-components-7-3.png" class="img-component">
+    <img src="fourier_files/img-components-7-4.png" class="img-component">
+    <img src="fourier_files/img-components-7-5.png" class="img-component">
+    <img src="fourier_files/img-components-7-6.png" class="img-component">
+    <img src="fourier_files/img-components-7-7.png" class="img-component">
+</div>
+</div>
+<p>对于实际的JPEG图像来说，这就是基本原理，剩下的只有一些额外的细节。</p>
+<p>图像被分解为8x8块，每个块分别进行分解。我们使用一组频率来确定每个像素的亮度或暗度，然后是另外两组用于颜色，一组用于红绿色，另一组用于蓝黄色。我们为每个块使用的频率个数决定了JPEG图像的品质。</p>
+<p>这是一个实际的JPEG图像，放大后我们可以看到细节。当我们改变JPEG品质水平时，可以观察出画质的区别。</p>
+<div id="jpeg-example" class="sketch">
+    <img src="data:image/jpeg;base64,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" class="sketch-child clear-pixels">
+</div>
+<h2 id="-2">总结</h2>
+<p>让我们回顾一下：</p>
+<ul>
+<li>傅里叶变换让我们输入一个事物，并将其分解为不同频率的成分</li>
+<li>频率告诉我们有关数据的一些基本属性</li>
+<li>并且可以通过仅存储重要的成分来压缩数据</li>
+<li>我们还可以用傅里叶变换的原理，通过一堆圆圈制作看起来很酷的动画</li>
+</ul>
+<p>这只是表面上的一些浅层次应用。傅里叶变换是一个非常强大的工具，因为将事物分解成不同频率是十分重要的分析方法。它们被用于许多领域，包括电路设计，移动网络信号，磁共振成像（MRI）和量子物理！</p>
+<h2 id="-3">一些问题</h2>
+<p>我在这里跳过了大部分的数学原理。如果你对它的数学原理很感兴趣，可以用以下这些问题来帮助你研究：</p>
+<ul>
+<li>你如何在数学上表示傅里叶变换？</li>
+<li>连续时间傅立叶变换和离散时间傅立叶变换之间有什么区别？</li>
+<li>你如何计算傅里叶变换？</li>
+<li>你如何对整首歌曲进行傅里叶变换？ （不仅仅是单个音符）</li>
+</ul>
+<h2 id="-4">拓展阅读</h2>
+<p>要了解更多信息，你可以看看这些非常好的资源（作者推荐的这些资源是英文版的）。</p>
+<p><a href="https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/">An Interactive Guide To The Fourier Transform</a><br>
+从数学角度更加深刻地介绍傅里叶变换。</p>
+<p><a href="https://www.youtube.com/watch?v=spUNpyF58BY">But what is the Fourier Transform? A visual introduction.</a><br>
+3Blue1Brown 制作的 YouTube 视频，从音频的角度解释傅里叶变换的数学原理。</p>
+<p><a href="https://alex.miller.im/posts/fourier-series-spinning-circles-visualization/">A Tale of Math &amp; Art: Creating the Fourier Series Harmonic Circles Visualization</a><br>
+另一篇不错的文章，从线性代数的角度解释如何用周转圆来画出形状。</p>
+<p><a href="https://en.wikipedia.org/wiki/Fourier_transform">Fourier transform (Wikipedia)</a><br>
+当然，维基百科的解释也很不错。</p>
+<h2 id="-4"><a href="https://zedex.cn/">返回首页</a></h2>
+
+</main>
+<script src="fourier_files/main.js"></script>
+		<!-- Google Analytics Begin-->
+		<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-30496507-1', 'auto');
+	ga('set', 'displayFeaturesTask', null);
+		ga('send', 'pageview');
+			</script>
+		<!-- Google Analytics End -->
+	
+		<!-- Baidu Tongji Start -->
+	<script type="text/javascript">
+	var _hmt = _hmt || [];
+		_hmt.push(['_trackPageview']);
+			(function() {
+	var hm = document.createElement("script");
+	hm.src = "//hm.baidu.com/hm.js?a4c0db4805e8016f06443af0411185cd";
+	hm.setAttribute('async', 'true');
+	document.getElementsByTagName('head')[0].appendChild(hm);
+	})();
+	</script>
+	<!-- Baidu Tongji  End -->
+
+</body></html>

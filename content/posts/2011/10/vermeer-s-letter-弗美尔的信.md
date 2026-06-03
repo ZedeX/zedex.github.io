@@ -6,7 +6,7 @@ date: "2011-10-11T10:38:00+00:00"
 summary: |-
   _Inspired by " [Girl Reading a Letter at an Open Window](http://en.wikipedia.org/wiki/Girl_Reading_a_Letter_at_an_Open_Window)"_
 
-  {{ double-space-with-newline }}Download Original: Jan Vermeer - Girl Reading a Letter at an Open Window{{ double-space-with-newline }}桌上的无花果实{{ double-space-with-newline }}不知不觉成熟了{{ double-space-with-newline }}即便被甘甜的香气诱惑{{ double-space-with-newline }}为何就是无法伸出双手{{ double-space-with-newline }}
+  Download Original: Jan Vermeer - Girl Reading a Letter at an Open Window桌上的无花果实不知不觉成熟了即便被甘甜的香气诱惑为何就是无法伸出双手
 tag:
   - akb
   - lyric

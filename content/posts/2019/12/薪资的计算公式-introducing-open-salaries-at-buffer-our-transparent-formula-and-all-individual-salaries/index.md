@@ -6,7 +6,7 @@ categories:
   - s-study
 cover:
   alt: gear-384743_1920
-  image: /wp-content/uploads/2020/08/gear-384743_1920.jpg
+  image: gear-384743_1920.jpg
 date: "2019-12-22T08:32:00+00:00"
 summary: |-
   按：国外有个叫Buffer的创业团队公开了自己的薪酬标准，可以参考。本人重点翻译下。

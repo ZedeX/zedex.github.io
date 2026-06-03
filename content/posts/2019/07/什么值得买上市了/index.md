@@ -4,7 +4,7 @@ categories:
   - i-internet
 cover:
   alt: smzdm
-  image: /wp-content/uploads/2019/07/smzdm.png
+  image: smzdm.png
 date: "2019-07-14T23:14:45+00:00"
 title: 什么值得买上市了
 ---

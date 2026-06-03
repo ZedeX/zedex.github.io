@@ -4,7 +4,7 @@ categories:
   - t-tech
 cover:
   alt: hash-rate
-  image: /wp-content/uploads/2019/12/hash-rate.png
+  image: hash-rate.png
 date: "2019-12-30T03:40:30+00:00"
 summary: |-
   按：这本书比较适合小白科普，作者李笑来。李笑来是成功上岸的投机者，目前活跃在区块链、比特币圈。

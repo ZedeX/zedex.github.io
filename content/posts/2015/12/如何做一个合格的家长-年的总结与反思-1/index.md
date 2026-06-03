@@ -4,7 +4,7 @@ categories:
   - z-zorro
 cover:
   alt: people-3120717_1920
-  image: /wp-content/uploads/2020/10/people-3120717_1920.jpg
+  image: people-3120717_1920.jpg
 date: "2015-12-26T08:04:35+00:00"
 title: 如何做一个合格的家长？-2015年的总结与反思
 ---
