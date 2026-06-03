@@ -11,7 +11,7 @@ title: 从鹅厂毕业
 ---
 光荣的从鹅厂被毕业，整理一下这一段的经历：
 
-![](https://www.tencent.com/img/banners/brief-1.jpg)
+![](brief-1.jpg)
 
 #### **鹅厂主要履历和工作业绩：**
 

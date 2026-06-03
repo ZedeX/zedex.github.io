@@ -5,7 +5,7 @@ categories:
 date: "2009-04-25T08:37:15+00:00"
 title: 奈斯比特《大趋势》笔记
 ---
-[![](http://www.ruanyifeng.com/blog/upload/2007/03/bg2007031201-thumb.jpg)](http://www.ruanyifeng.com/blog/upload/2007/03/bg2007031201.html)
+[![](bg2007031201-thumb.jpg)](http://www.ruanyifeng.com/blog/upload/2007/03/bg2007031201.html)
 
 今天我偶然读到一本1982年的畅销书，美国未来学家约翰·奈斯比特（John Naisbitt）的《大趋势----改变我们生活的十个新方向》（Megatrends: Ten New Directions Transforming Our Lives）。
 

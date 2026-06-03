@@ -5,7 +5,7 @@ categories:
 date: "2011-03-14T13:09:37+00:00"
 title: Thankful 感谢
 ---
-![Thank you](/wp-content/uploads/2011/07/jia3.png)
+![Thank you](jia.png)
 
 人这一辈子，总有些人是在你背后默默注视你、支持你、帮助你，但你却来不及说声感谢就跟你道别的人。请让我在即使看不见他们背影的身后，向他们说一声，谢谢。
 

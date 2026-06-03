@@ -5,7 +5,7 @@ categories:
 date: "2010-03-31T16:02:36+00:00"
 title: Happy Birthday to Gmail
 ---
-[![](gmail-6th-birthday11.jpg)](/wp-content/uploads/2011/07/gmail-6th-birthday11.jpg)
+![](gmail-6th-birthday.jpg)
 
 今天是Gmail对外发布6周年的纪念日，破例祝贺一次。因为从今天的角度来看，Gmail以及Google整个的服务，加快了我了解这个世界的速度，某种意义上改变了我的人生轨迹，说不尽的感谢。
 

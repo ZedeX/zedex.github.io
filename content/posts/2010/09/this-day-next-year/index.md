@@ -11,6 +11,6 @@ I've been near thirty, hard to believe that. Everyday this day comes, I call my 
 
 What am I going to do in the following year? Try me.
 
-[/wp-content/uploads/2010/09/3266480.swf](3266480.swf)
+[3266480.swf](3266480.swf)
 
 > I really enjoy the slides, and the music is terrific. It makes me feel peace and grateful.

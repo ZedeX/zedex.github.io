@@ -28,7 +28,7 @@ summary: |-
 
   寂寞难耐 李宗盛
 
-  ![](/wp-content/uploads/2011/07/20100411-emotion-by-time11.png)
+  ![](20100411-emotion-by-time.png)
 
   由于前几天的 [跌宕](20100411-emotion-by-time.png) [起伏](20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)
 
@@ -69,7 +69,7 @@ http://www.tudou.com/programs/view/LP9HC50jxvg/
 
 寂寞难耐 李宗盛
 
-![](/wp-content/uploads/2011/07/20100411-emotion-by-time11.png)
+![](20100411-emotion-by-time.png)
 
 
 由于前几天的 [跌宕](20100411-emotion-by-time.png) [起伏](20100411-emotion-by-time.png)，再加上今天又是周日，难得偷闲，所以由来已久的寂寞滋味涌上心头。可能对一个认真于感情的人来说，对另一个人感情的曲线，应该是这样的吧！ [→→→](#emotion-by-time)

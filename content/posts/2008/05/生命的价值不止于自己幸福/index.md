@@ -17,16 +17,16 @@ title: 生命的价值不止于自己幸福
 
 **中文版：**(800x600)
 
-[![Seism Redcross Donation CN4](seism-redcross-donation-cn411.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-cn411.jpg)?  
-[![Seism Redcross Donation CN1](seism-redcross-donation-cn111.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-cn111.jpg)  
-[![Seism Redcross Donation CN2](seism-redcross-donation-cn211.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-cn211.jpg)?  
-[![Seism Redcross Donation CN3](seism-redcross-donation-cn311.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-cn311.jpg)
+![Seism Redcross Donation CN4](seism-redcross-donation-cn4.jpg)?  
+![Seism Redcross Donation CN1](seism-redcross-donation-cn1.jpg)  
+![Seism Redcross Donation CN2](seism-redcross-donation-cn2.jpg)?  
+![Seism Redcross Donation CN3](seism-redcross-donation-cn3.jpg)
 
 **英文版：**(800x600)
 
-[![Seism Redcross Donation EN3](seism-redcross-donation-en311.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-en311.jpg "Seism Redcross Donation EN3")?  
-![Seism Redcross Donation EN1](/wp-content/uploads/2011/07/seism-redcross-donation-en111.jpg?w=300)  
-[![Seism Redcross Donation EN2](seism-redcross-donation-en211.jpg?w=300)](/wp-content/uploads/2011/07/seism-redcross-donation-en211.jpg "Seism Redcross Donation EN2")
+![Seism Redcross Donation EN3](seism-redcross-donation-en311.jpg)?  
+![Seism Redcross Donation EN1](seism-redcross-donation-en1.jpg)  
+![Seism Redcross Donation EN2](seism-redcross-donation-en211.jpg)
 
 [红十字会地震捐款Banner PSD源文件打包下载](seism-redcross-donation.zip)
 

@@ -25,7 +25,7 @@ title: 平常节第五年：New CT New Star'
 
 晚些时候写了一封只有一句话的邮件，伴随着modem那撕心裂肺又惊心动魄的拨号声，勉强看下Gmail信箱，用Chrome打造了一个移动版的浏览器，会节省许多流量，对秒速36k的网速来说，特别受用。不过为了发附件，费了半个小时的时间，虽然不抱奢望，但还是想别得不偿失。
 
-![](/wp-content/uploads/2011/07/dial-stat1.png)![](/wp-content/uploads/2011/07/dial-stat211.png)
+![](dial-stat.png)![](dial-stat2.png)
 
 洗个澡，清理思绪，下一周惯例的离开电脑离开网络，五年前的规矩，收获颇多。患得患失，就会失去。勇敢做自己，坚实的迈出每一步，才会换来在收获季节的欣喜。知易行难。
 
@@ -49,4 +49,4 @@ title: 平常节第五年：New CT New Star'
 发送短信：34条  
 收到回复：7条
 
-[![](image3.jpg?w=150)](/wp-content/uploads/2011/07/image3.jpg)
+![](image.jpg)

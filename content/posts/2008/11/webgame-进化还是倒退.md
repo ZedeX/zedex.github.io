@@ -46,8 +46,8 @@ title: 'Webgame: 进化还是倒退？'
 公司的唯利益论，忽视真正有用的创新。  
 
 Mud Game的早期形态：通过telnet登录到服务器进行实时操作  
-[![aardwolf-mud-2](aardwolf-mud-211.jpg?w=300)](/wp-content/uploads/2011/07/aardwolf-mud-211.jpg)  
+![aardwolf-mud-2](aardwolf-mud-2.jpg)  
 一种进化版的Mud：专用客户端，更丰富的功能，更完善的文字界面，更便捷的操作
 
-[![](webgame-screen-shot11.png?w=300)](/wp-content/uploads/2011/07/webgame-screen-shot11.png)  
+![](webgame-screen-shot.png)  
 现代的Webgame：图片化了的无质Mud

@@ -13,9 +13,9 @@ title: Block Wumii ads in Google Reader | 屏蔽Google Reader中的无觅广告
 
 即可。
 
-![](/wp-content/uploads/2011/07/reader-remove-wumii3.png)
+![](reader-remove-wumii.png)
 
 这个Reader Plus的拦截只是在渲染的时候过滤掉而已，并没有从HTTP上过滤，所以后台的代码还是会执行并耗费CPU的。不过起码能屏蔽视觉干扰，基本可以满足使用而已。
 
 相关文章：  
-[用Adblock屏蔽无觅的相关文章和推荐文章](reader-remove-wumii3.png?p=5992)
+[用Adblock屏蔽无觅的相关文章和推荐文章](reader-remove-wumii3.png)

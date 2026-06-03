@@ -6,7 +6,7 @@ date: "2011-03-20T12:46:15+00:00"
 summary: |-
   无觅太多啦，到处无觅，就有觅了。非诚勿扰，屏蔽之。
 
-  熟手直接看 [步骤4](adblock-block-wumii311.png#adblock-wumii-filter)
+  熟手直接看 [步骤4](adblock-block-wumii32.png#adblock-wumii-filter)
 
   方法：
 
@@ -24,21 +24,21 @@ custom_comments:
 ---
 无觅太多啦，到处无觅，就有觅了。非诚勿扰，屏蔽之。
 
-熟手直接看 [步骤4](adblock-block-wumii311.png#adblock-wumii-filter)
+熟手直接看 [步骤4](adblock-block-wumii32.png#adblock-wumii-filter)
 
 方法：
 
 1、安装 [Adblock](http://goo.gl/FTjA9) 之后找到Adblock的Option选项；
 
-![](/wp-content/uploads/2011/07/adblock-block-wumii13.png)
+![](adblock-block-wumii1.png)
 
 2、切换Option中的标签到Customize；
 
-![](/wp-content/uploads/2011/07/adblock-block-wumii211.png)
+![](adblock-block-wumii2.png)
 
 3、点击Manually edit your filters后的Edit按钮；
 
-![](/wp-content/uploads/2011/07/adblock-block-wumii311.png)
+![](adblock-block-wumii32.png)
 
 
 
@@ -66,4 +66,4 @@ Adblock自己带了个很方便的工具“Block an ad on this page”，有点F
 
 * * *
 
-更新： [屏蔽Google Reader中的无觅广告](adblock-block-wumii311.png?p=6091)
+更新： [屏蔽Google Reader中的无觅广告](adblock-block-wumii32.png)

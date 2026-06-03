@@ -7,7 +7,7 @@ title: Rainy Sunday 下雨的星期日
 ---
 在线听： [Rainy Sunday](https://www.xiami.com/song/1020)
 
-![Rainy Sunday - DayDream](http://img.xiami.com/images/album/img30/30/881272954871.jpg)
+![Rainy Sunday - DayDream](881272954871.jpg)
 
 >   
 “

@@ -90,7 +90,7 @@ Don't dry with fakes or fears,
 这种将不完整小节写得如此和谐的节奏，我还是头一次听到过，耳目一新。
 
 这首名为《Wind》的歌曲是 [火影忍者](http://zh.wikipedia.org/zh-cn/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85 "在维基百科上查看火影忍者") 刚开播时的 [片尾曲](http://zh.wikipedia.org/zh-cn/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85#.E7.89.87.E5.B0.BE.E6.9B.B2 "查看火影忍者所有片尾曲")，词曲演唱者均为Akeboshi。这首曲子结合了古色古香的日本传统竖笛，民谣风格的吉他和打击乐，加上不完整小节的诠释和歌词的寓意，勾勒出一幅活泼好动却又放荡不羁的忍者形象。  
-![](http://img.xiami.com/images/album/img57/23257/3314561243827502_2.jpg)
+![](3314561243827502_2.jpg)
 
 虽然Sasuke作为第一男配更有个性更酷更赚眼球，但主角Naruto那种日本动漫中屡败屡战不断超越自我的精神，实在是给人力量。可能Naruto和Sasuke就像圣斗士中的星矢和一辉吧！Sasuke的Theme BGM我也很喜欢，有机会单独放上来：）
 

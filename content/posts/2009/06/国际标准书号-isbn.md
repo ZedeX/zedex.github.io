@@ -5,7 +5,7 @@ categories:
 date: "2009-06-30T08:58:47+00:00"
 title: 国际标准书号（ISBN）
 ---
-![](http://www.ruanyifeng.com/blog/upload/2007/04/ISBN_81-7525-766-0-thumb.jpg)
+![](ISBN_81-7525-766-0-thumb.jpg)
 
 每本书的封底都有一串号码，比如7-5600-3879-4，它叫做"国际标准书号"（International Standard Book Number，缩写为ISBN）。它是全世界图书的编码，用来唯一代表一本书。
 
@@ -67,7 +67,7 @@ title: 国际标准书号（ISBN）
 
 下面这张图就是13位ISBN的条形码，右边另外5位的条形码则表示书的价格。
 
-![bg2007041701.gif](http://www.ruanyifeng.com/blog/upload/2007/04/bg2007041701.gif)
+![bg2007041701.gif](bg2007041701.gif)
 
 ISBN在国际上是一个非强制规定，就是说出版商完全可以出版没有ISBN的出版物。但是在中国，这却是一个强制性规定。没有书号，就不是合法出版物。这完全就是另外一个故事了。
 
@@ -81,7 +81,7 @@ UPDATE （2007.6.1）
 
 **10位ISBN的另一种计算方法**
 
-![bg2007060102.jpg](http://www.ruanyifeng.com/blog/upload/2007/06/bg2007060102.jpg)
+![bg2007060102.jpg](bg2007060102.jpg)
 
 C10表示第10位校验码，C1-C9表示0~9位数字。
 

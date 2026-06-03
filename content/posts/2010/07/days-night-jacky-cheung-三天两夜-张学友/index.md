@@ -16,7 +16,7 @@ summary: |-
   >
   > 三天两夜只求灿烂不去盼永远离别时别残留难舍的词汇对我就是种恩惠
 
-  ![三天两夜 选自张学友1997年国语专辑《想和你去吹吹风》](http://img.xiami.com/images/album/img98/1198/6110.jpg)
+  ![三天两夜 选自张学友1997年国语专辑《想和你去吹吹风》](6110.jpg)
 title: 3 Days 2 Night - Jacky Cheung 三天两夜 - 张学友
 ---
 [http://www.xiami.com/widget/7281/_377501/singlePlayer.swf](http://www.xiami.com/widget/7281_377501/singlePlayer.swf)
@@ -47,7 +47,7 @@ title: 3 Days 2 Night - Jacky Cheung 三天两夜 - 张学友
 离别时别残留难舍的词汇  
 对我就是种恩惠
 
-![三天两夜 选自张学友1997年国语专辑《想和你去吹吹风》](http://img.xiami.com/images/album/img98/1198/6110.jpg)
+![三天两夜 选自张学友1997年国语专辑《想和你去吹吹风》](6110.jpg)
 
 初中的时候听到这首歌。当时觉得这首歌学友唱得并不好，第一句貌似走调，最后的高音是声嘶力竭地咆哮，平翘舌不分云云。
 

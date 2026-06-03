@@ -8,7 +8,7 @@ summary: |-
 
   So what's the trend after all?
 
-  ![](/wp-content/uploads/2011/07/bring_to_life3.jpg)Would the virtual world combine to the real one?
+  ![](bring_to_life.jpg)Would the virtual world combine to the real one?
 
   * * *
 tag:
@@ -20,7 +20,7 @@ Life is changing by Internet and new media. Mobile techniques make people easier
 
 So what's the trend after all?
 
-![](/wp-content/uploads/2011/07/bring_to_life3.jpg)  
+![](bring_to_life.jpg)  
 Would the virtual world combine to the real one?
 
 * * *

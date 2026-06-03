@@ -5,7 +5,7 @@ categories:
 date: "2009-05-18T03:27:23+00:00"
 title: 如何写一篇论文（How to write a thesis）
 ---
-![](http://www.ruanyifeng.com/blog/upload/2006/10/bg0601011_6-thumb.jpg)
+![](bg0601011_6-thumb.jpg)
 
 非常偶然的，在图书馆里发现了一本名为《英语论文写作向导》的小册子（H·泰特尔鲍姆著，科学出版社，1987）。翻开第一页，序言就写得很有意思：
 
